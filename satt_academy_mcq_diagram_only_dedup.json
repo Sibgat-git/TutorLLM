@@ -1,0 +1,184 @@
+[
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6902",
+    "question_id": "611210",
+    "number": "10\n                        ",
+    "question_text": "নিচের কোন লজিক গেটটি ডানদিকে প্রদর্শিত সার্কিটের সমতুল্য? (Which of the following logic gates is equivalent to the circuit shown in the figure at the right?)",
+    "options": [
+      "NOR",
+      "OR",
+      "AND",
+      "NAND"
+    ],
+    "correct_answer": "OR",
+    "correct_option_index": 1,
+    "subject": "পদার্থবিদ্যা",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "পদার্থবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "chittagong-university",
+    "exam_name": "চট্টগ্রাম বিশ্ববিদ্যালয়  — C ইউনিট (Business Administration) —শিক্ষাবর্ষ: ২০২৪-২০২৫ (15-03-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6450",
+    "question_id": "536099",
+    "number": "1\n                        ",
+    "question_text": "Find the number of triangles in the figure given below.",
+    "options": [
+      "10",
+      "12",
+      "20",
+      "15"
+    ],
+    "correct_answer": "15",
+    "correct_option_index": 3,
+    "subject": "Analytical Ability",
+    "tags": [
+      "চট্টগ্রাম বিশ্ববিদ্যালয়",
+      "চট্টগ্রাম বিশ্ববিদ্যালয়  — C ইউনিট (Business Administration) —শিক্ষাবর্ষ: ২০২৪-২০২৫ (15-03-2025)",
+      "Analytical Ability"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-২) শিক্ষাবর্ষ : ২০২৪-২০২৫ (26-04-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6498",
+    "question_id": "541210",
+    "number": "6\n                        ",
+    "question_text": "নিচের চিত্রে Si এবং Ge ডায়োড দুইটির নিভোল্টেজ যথাক্রমে 0.7 V এবং 0.3 V হলে 1.5 kΩ রোধের মধ্য দিয়ে কত তড়িৎ প্রবাহিত হবে?",
+    "options": [
+      "6 mA",
+      "9 mA",
+      "4 mA",
+      "3 mA"
+    ],
+    "correct_answer": "6 mA",
+    "correct_option_index": 0,
+    "subject": "সেমিকন্ডাক্টর ও ইলেক্ট্রনিক্স",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-২) শিক্ষাবর্ষ : ২০২৪-২০২৫ (26-04-2025)",
+      "পদার্থবিদ্যা",
+      "সেমিকন্ডাক্টর ও ইলেক্ট্রনিক্স"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (শিফট-২) শিক্ষাবর্ষ : ২০২৩-২০২৪ (05-03-2024)",
+    "exam_year": "2024",
+    "subcat_id": "6092",
+    "question_id": "421255",
+    "number": "14\n                        ",
+    "question_text": "নিচের চিত্রে 50N বল বরাবর মোট অনুভূমিক বল কর?",
+    "options": [
+      "30 N",
+      "50 N",
+      "75 N",
+      "10N"
+    ],
+    "correct_answer": "30 N",
+    "correct_option_index": 0,
+    "subject": "নিউটনের বলবিদ্যা",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (শিফট-২) শিক্ষাবর্ষ : ২০২৩-২০২৪ (05-03-2024)",
+      "পদার্থবিদ্যা",
+      "নিউটনের বলবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "G ইউনিট",
+    "exam_year": "2015",
+    "subcat_id": "3419",
+    "question_id": "176381",
+    "number": "14\n                        ",
+    "question_text": "In the figure below AD=4 CD =9 and DE= 3 AE what is the area of triangle AEC?",
+    "options": [
+      "4.5",
+      "13.5",
+      "9",
+      "18"
+    ],
+    "correct_answer": "4.5",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "G ইউনিট",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ - ২০০৮ -২০০৯",
+    "exam_year": "2009",
+    "subcat_id": "3954",
+    "question_id": "196059",
+    "number": "12\n                        ",
+    "question_text": "In the figure below AD=4 AB=3 and CD=9, what is the area of triangle ACE?",
+    "options": [
+      "18",
+      "13.5",
+      "9",
+      "4.5",
+      "3"
+    ],
+    "correct_answer": "4.5",
+    "correct_option_index": 3,
+    "subject": "সমতলে বস্তুকণার গতি (Motion of particles in a plane)",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ - ২০০৮ -২০০৯",
+      "উচ্চতর গণিত",
+      "সমতলে বস্তুকণার গতি (Motion of particles in a plane)"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৭-২০০৮",
+    "exam_year": "2008",
+    "subcat_id": "3958",
+    "question_id": "196086",
+    "number": "9\n                        ",
+    "question_text": "If X is 150 more than Y , what is the value of Y in the figure on the right hand side?",
+    "options": [
+      "15 degree",
+      "16 degree",
+      "17 degree",
+      "18 degree",
+      "19 degree"
+    ],
+    "correct_answer": "15 degree",
+    "correct_option_index": 0,
+    "subject": "সমতলে বস্তুকণার গতি (Motion of particles in a plane)",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৭-২০০৮",
+      "উচ্চতর গণিত",
+      "সমতলে বস্তুকণার গতি (Motion of particles in a plane)"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  }
+]

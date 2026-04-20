@@ -1,0 +1,5 @@
+Duplicates = 864
+Null correct mcq = 111
+no-diagram questions with Duplicates = 17646
+no-diagram questions without Duplicates = 16782
+Diagram questions = 7 ; they have no duplicates
