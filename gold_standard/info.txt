@@ -1,0 +1,17 @@
+subject               total  flagged   gold
+--------------------------------------------
+accounting              316       14    302
+bangla                 6244      165   6079
+biology                 829       17    812
+chemistry               352       20    332
+english                4075      164   3911
+general_knowledge       726       21    705
+ict                      88        6     82
+mathematics            1077      153    924
+other                  1665       75   1590
+physics                1410       53   1357
+--------------------------------------------
+TOTAL                 16782      688  16094
+
+Flagged   -> flagged/
+Gold      -> gold_standard/

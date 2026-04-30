@@ -1,0 +1,584 @@
+[
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "D ইউনিট",
+    "exam_year": "2010",
+    "subcat_id": "3457",
+    "question_id": "175707",
+    "number": "1\n                        ",
+    "question_text": "রক্তের pH কত ?",
+    "options": [
+      "৭.২-৭.৪",
+      "৮.৫-৯.০",
+      "৭.০-৮.০"
+    ],
+    "correct_answer": "৭.২-৭.৪",
+    "correct_option_index": 0,
+    "subject": "দ্রবণের pH,pH স্কেল",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "D ইউনিট",
+      "রসায়ন",
+      "দ্রবণের pH,pH স্কেল"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "barishal-university",
+    "exam_name": "ক ইউনিট",
+    "exam_year": "2013",
+    "subcat_id": "3473",
+    "question_id": "98067",
+    "number": "2\n                        ",
+    "question_text": "নিচের কোন যৌগটি অ্যারোমেটিক নয়?",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct_answer": "",
+    "correct_option_index": 2,
+    "subject": "অ্যারোমেটিক হাইড্রোকার্বন",
+    "tags": [
+      "বরিশাল বিশ্ববিদ্যালয়",
+      "ক ইউনিট",
+      "রসায়ন",
+      "অ্যালিফেটিক অ্যারোমেটিক যৌগের মধ্যে পার্থক্য",
+      "অ্যারোমেটিক হাইড্রোকার্বনের বিক্রিয়া",
+      "অ্যারোমেটিক হাইড্রোকার্বন"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "barishal-university",
+    "exam_name": "ক ইউনিট",
+    "exam_year": "2012",
+    "subcat_id": "3476",
+    "question_id": "98072",
+    "number": "3\n                        ",
+    "question_text": "ফরমালিন (HCHO-এর 40%  জলীয় দ্রবণ) সনাক্ত করতে নিচের  কোন বিকারটি প্রয়োজন হবে?",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct_answer": "",
+    "correct_option_index": 0,
+    "subject": "অ্যালডিহাইড ও কিটোন",
+    "tags": [
+      "বরিশাল বিশ্ববিদ্যালয়",
+      "ক ইউনিট",
+      "রসায়ন",
+      "অ্যালডিহাইড ও কিটোন"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "islamic-university",
+    "exam_name": "ইসলামী বিশ্ববিদ্যালয় - D ইউনিট (বিজ্ঞান ও প্রযুক্তি) শিক্ষাবর্ষ : ২০০৩-২০০৪",
+    "exam_year": "2004",
+    "subcat_id": "3919",
+    "question_id": "154702",
+    "number": "12\n                        ",
+    "question_text": "নেসলার দ্রবন-",
+    "options": [
+      "পটাশিয়াম মারকিউরিক আয়োডেট ও পটাশিয়াম হাইড্রোক্সাইডের ক্ষার মিশ্রিত দ্রবন",
+      "পটাশিয়াম মারকিউরিক আয়োডাইড ও সোডিয়াম হাইড্রোক্সাইডের ক্ষার মিশ্রিত দ্রবন",
+      "সোডিয়াম মারকিউরিক আয়োডাইড ও পটাশিয়াম হাইড্রোক্সাইডের ক্ষার মিশ্রিত দ্রবন",
+      "পটাশিয়াম মারকিউরিক আয়োডাইড ও ম্যাগনেশিয়াম হাইডোইডের ক্ষার মিশ্রিত দ্রবন"
+    ],
+    "correct_answer": "পটাশিয়াম মারকিউরিক আয়োডাইড ও সোডিয়াম হাইড্রোক্সাইডের ক্ষার মিশ্রিত দ্রবন",
+    "correct_option_index": 1,
+    "subject": "শিখা পরীক্ষাদ্বারা ধাতব আয়ন শনাক্তকরণ",
+    "tags": [
+      "ইসলামী বিশ্ববিদ্যালয়",
+      "ইসলামী বিশ্ববিদ্যালয় - D ইউনিট (বিজ্ঞান ও প্রযুক্তি) শিক্ষাবর্ষ : ২০০৩-২০০৪",
+      "রসায়ন",
+      "শিখা পরীক্ষাদ্বারা ধাতব আয়ন শনাক্তকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "islamic-university",
+    "exam_name": "D ইউনিট",
+    "exam_year": "2015",
+    "subcat_id": "3640",
+    "question_id": "153947",
+    "number": "4\n                        ",
+    "question_text": "1M HCI দ্রবণের pH কত?",
+    "options": [
+      "1",
+      "1",
+      "6",
+      "5"
+    ],
+    "correct_answer": "1",
+    "correct_option_index": 0,
+    "subject": "দ্রবণের pH,pH স্কেল",
+    "tags": [
+      "ইসলামী বিশ্ববিদ্যালয়",
+      "D ইউনিট",
+      "রসায়ন",
+      "দ্রবণের pH,pH স্কেল"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "mbstu",
+    "exam_name": "C ইউনিট",
+    "exam_year": "2012",
+    "subcat_id": "4201",
+    "question_id": "205617",
+    "number": "3\n                        ",
+    "question_text": "নিচের কোনটি অ্যারোমেটিক যৌগ?",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct_answer": "",
+    "correct_option_index": 0,
+    "subject": "অ্যারোমেটিক হাইড্রোকার্বন",
+    "tags": [
+      "মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "C ইউনিট",
+      "রসায়ন",
+      "অ্যালিফেটিক অ্যারোমেটিক যৌগের মধ্যে পার্থক্য",
+      "অ্যারোমেটিক হাইড্রোকার্বনের বিক্রিয়া",
+      "অ্যারোমেটিক হাইড্রোকার্বন"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "mbstu",
+    "exam_name": "C ইউনিট",
+    "exam_year": "2011",
+    "subcat_id": "4205",
+    "question_id": "205636",
+    "number": "6\n                        ",
+    "question_text": "কোনটি পাইরােসালফিউরিক এসিড এর সংকেত?",
+    "options": [
+      "H2SO3",
+      "H2S2O3",
+      "H2S2O7",
+      "H2S2O7"
+    ],
+    "correct_answer": "H2S2O7",
+    "correct_option_index": 2,
+    "subject": "অ্যালকোহল,অ্যালডিহাইড,কিটোন ও কার্বক্সিলিক এসিডের নামকরন",
+    "tags": [
+      "মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "C ইউনিট",
+      "রসায়ন",
+      "কার্বক্সিলিক এসিড,এস্টার ও অ্যামাইড",
+      "অ্যালকোহল,অ্যালডিহাইড,কিটোন ও কার্বক্সিলিক এসিডের নামকরন"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "A ইউনিট",
+    "exam_year": "2011",
+    "subcat_id": "4283",
+    "question_id": "142340",
+    "number": "5\n                        ",
+    "question_text": "NADP কি?",
+    "options": [
+      "এনজাইম",
+      "কো-এনজাইম",
+      "ফাইটো হরমোন",
+      "ভিটামিন-B"
+    ],
+    "correct_answer": "কো-এনজাইম",
+    "correct_option_index": 1,
+    "subject": "সালোকসংশ্লেষণ প্রক্রিয়া",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "A ইউনিট",
+      "জীববিজ্ঞান",
+      "সালোকসংশ্লেষণ প্রক্রিয়া"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2008",
+    "subcat_id": "4296",
+    "question_id": "144451",
+    "number": "3\n                        ",
+    "question_text": "বিজ্ঞানী  _______  ইনসুলিন এর গাঠনিক সংকেত নির্ণয় করেন ।",
+    "options": [
+      "ডরোথি হঢকিন ।"
+    ],
+    "correct_answer": "ডরোথি হঢকিন ।",
+    "correct_option_index": 0,
+    "subject": "অবস্থানরত ধাতুর জটিল যৌগের নামকরণ ও সংকেত লিখন",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "রসায়ন",
+      "অবস্থানরত ধাতুর জটিল যৌগের নামকরণ ও সংকেত লিখন"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2008",
+    "subcat_id": "4296",
+    "question_id": "144453",
+    "number": "5\n                        ",
+    "question_text": "অনার্য সোডিয়াম কার্বনেটকে  _______ বলে ।",
+    "options": [
+      "ওয়াশিং সোডা বা সোডা এস ।"
+    ],
+    "correct_answer": "ওয়াশিং সোডা বা সোডা এস ।",
+    "correct_option_index": 0,
+    "subject": "বন্ধন শক্তি ও বিক্রিয়া তাপ",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "রসায়ন",
+      "বন্ধন শক্তি ও বিক্রিয়া তাপ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2008",
+    "subcat_id": "4296",
+    "question_id": "144455",
+    "number": "7\n                        ",
+    "question_text": "H2SO4",
+    "options": [
+      ""
+    ],
+    "correct_answer": "",
+    "correct_option_index": 0,
+    "subject": "জারণ - বিজারণ বিক্রিয়া",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "রসায়ন",
+      "জারণ - বিজারণ বিক্রিয়া"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "too_few_options",
+      "short_question"
+    ]
+  },
+  {
+    "university": "bsmrstu",
+    "exam_name": "H ইউনিট",
+    "exam_year": "2017",
+    "subcat_id": "4822",
+    "question_id": "96255",
+    "number": "15\n                        ",
+    "question_text": "KmnO4একটি -",
+    "options": [
+      "প্রাথমিক প্রমাণ বস্ত",
+      "সেকেন্ডারি প্রমাণ বস্ত",
+      "রিজার্ব পদার্থ",
+      "কোনোটি নয়"
+    ],
+    "correct_answer": "সেকেন্ডারি প্রমাণ বস্ত",
+    "correct_option_index": 1,
+    "subject": "জারণ - বিজারণ বিক্রিয়া",
+    "tags": [
+      "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "H ইউনিট",
+      "রসায়ন",
+      "জারণ - বিজারণ বিক্রিয়া"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "bsmrstu",
+    "exam_name": "C ইউনিট",
+    "exam_year": "2017",
+    "subcat_id": "4419",
+    "question_id": "95924",
+    "number": "4\n                        ",
+    "question_text": "বেনজাইল অ্যালকোহলের গাঠনিক সংকেত কোনটি?",
+    "options": [
+      "CH2OH",
+      "CH2CH2O",
+      "CHOHCH2",
+      "CH2OH"
+    ],
+    "correct_answer": "CH2OH",
+    "correct_option_index": 0,
+    "subject": "অ্যালকোহল,অ্যালডিহাইড,কিটোন ও কার্বক্সিলিক এসিডের নামকরন",
+    "tags": [
+      "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "C ইউনিট",
+      "রসায়ন",
+      "অ্যালকোহল,অ্যালডিহাইড,কিটোন ও কার্বক্সিলিক এসিডের নামকরন"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4144",
+    "question_id": "199790",
+    "number": "6\n                        ",
+    "question_text": "16∘Cতাপমাত্রার কোন নির্দিষ্ট পরিমাণ শুষ্ক বায়ু হঠাং প্রসারিত হয়ে দ্বিগুন আয়তন লাভ করে । চূড়ান্ত তাপমাত্রা কত ? [γ=1.4]",
+    "options": [
+      "229 K",
+      "-53.38 C",
+      "",
+      "204.35k",
+      "-68.65∘C"
+    ],
+    "correct_answer": "",
+    "correct_option_index": 2,
+    "subject": "জারণ - বিজারণ বিক্রিয়া",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "পদার্থবিদ্যা",
+      "জারণ - বিজারণ বিক্রিয়া"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer"
+    ]
+  },
+  {
+    "university": "sylhet-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+    "exam_year": "2009",
+    "subcat_id": "4520",
+    "question_id": "232960",
+    "number": "6\n                        ",
+    "question_text": "হীরকের প্রতিসরাঙ্ক  হচ্ছে -",
+    "options": [
+      "1.33",
+      "1.33",
+      "2.24",
+      "2.42"
+    ],
+    "correct_answer": "2.42",
+    "correct_option_index": 3,
+    "subject": "কার্বনের sp3 সংকরণ ও মিথেন অণু গঠন",
+    "tags": [
+      "সিলেট কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+      "রসায়ন",
+      "কার্বনের sp3 সংকরণ ও মিথেন অণু গঠন"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "bangladesh-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+    "exam_year": "2014",
+    "subcat_id": "4501",
+    "question_id": "84038",
+    "number": "1\n                        ",
+    "question_text": "কোনটি বিজারক?",
+    "options": [
+      "K₂Cr₂O₇",
+      "PbO₂",
+      "KMnO₄",
+      "Na₂S₂O₃"
+    ],
+    "correct_answer": "Na₂S₂O₃",
+    "correct_option_index": 3,
+    "subject": "রিডক্স বিক্রিয়ায় জারক-বিজারক শনাক্তকরণ",
+    "tags": [
+      "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+      "রসায়ন",
+      "রিডক্স বিক্রিয়ায় জারক-বিজারক শনাক্তকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "bangladesh-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+    "exam_year": "2014",
+    "subcat_id": "4501",
+    "question_id": "84045",
+    "number": "8\n                        ",
+    "question_text": "কোনটি জারক নয়?",
+    "options": [
+      "K₂Cr₂O₇",
+      "Br₃",
+      "HNO₃",
+      "SnCl₂"
+    ],
+    "correct_answer": "SnCl₂",
+    "correct_option_index": 3,
+    "subject": "রিডক্স বিক্রিয়ায় জারক-বিজারক শনাক্তকরণ",
+    "tags": [
+      "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+      "রসায়ন",
+      "রিডক্স বিক্রিয়ায় জারক-বিজারক শনাক্তকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "bangladesh-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৩-২০০৪",
+    "exam_year": "2003",
+    "subcat_id": "4583",
+    "question_id": "84216",
+    "number": "14\n                        ",
+    "question_text": "দ্রবনণের কোনটি তাপমাত্রার উপর নির্ভর শীল নয়?",
+    "options": [
+      "নরমালিটি",
+      "ফরমালিটি",
+      "মোলারিটি",
+      "ফরমালিটি"
+    ],
+    "correct_answer": "মোলারিটি",
+    "correct_option_index": 2,
+    "subject": "দ্রবণের বিভিন্ন প্রকারভেদ",
+    "tags": [
+      "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০০৩-২০০৪",
+      "রসায়ন",
+      "দ্রবণের বিভিন্ন প্রকারভেদ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "mat",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2019",
+    "subcat_id": "4676",
+    "question_id": "204498",
+    "number": "7\n                        ",
+    "question_text": "নিচের কোনটি ভারী ধাতুর উদাহরণ নয় ?",
+    "options": [
+      "Hg",
+      "Zn",
+      "Cd",
+      "Au"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "খাদ্য শৃঙ্খলে ভারী ধাতু(As,Cr,Pb,Cd) যুক্ত হওয়ার কারণ ও প্রভাব",
+    "tags": [
+      "মেডিকেল কলেজ ভর্তি পরীক্ষার প্রশ্নসমুহ",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "রসায়ন",
+      "খাদ্য শৃঙ্খলে ভারী ধাতু(As,Cr,Pb,Cd) যুক্ত হওয়ার কারণ ও প্রভাব"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "mat",
+    "exam_name": "শিক্ষাবর্ষঃ ১৯৮৮-১৯৮৯",
+    "exam_year": "1989",
+    "subcat_id": "4497",
+    "question_id": "203687",
+    "number": "7\n                        ",
+    "question_text": "গাজঁন কী?",
+    "options": [
+      "জটিল অজৈব পদার্থকে এনজাইমের সাহায্যে বিয়োজিত করে সরল পদার্থে পরিণত করা",
+      "জটিল জৈব পদার্থকে এনজাইমের সাহায্যে বিয়োজিত করে সরল পদার্থে পরিণত করা",
+      "জটিল জৈব পদার্থকে এনজাইমের সাহায্যে ধ্বংসপাতন পদ্ধতিতে সরল পদার্থে পরিণত করা",
+      "কোনোটিই নয়"
+    ],
+    "correct_answer": "জটিল জৈব পদার্থকে এনজাইমের সাহায্যে বিয়োজিত করে সরল পদার্থে পরিণত করা",
+    "correct_option_index": 1,
+    "subject": "ফার্মেন্টেশন প্রক্রিয়া",
+    "tags": [
+      "মেডিকেল কলেজ ভর্তি পরীক্ষার প্রশ্নসমুহ",
+      "শিক্ষাবর্ষঃ ১৯৮৮-১৯৮৯",
+      "জীববিজ্ঞান",
+      "ফার্মেন্টেশন প্রক্রিয়া"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  }
+]

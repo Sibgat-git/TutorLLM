@@ -12,6 +12,6 @@ Metrics Chosen for Quality Check:
 4. Same question appears with different correct answers
 5. Very Short questions- likely truncated or corrupt
 6.Questions where correct answers isnt one of the options
-7. Ambiguouse questions with multiple plausible correct answers
+7. Ambiguouse questions with multiple plausible correct answers - need human or AI fr evaluation
 8. Questions with OCR artifacts (garbled Bengali Unicode, stray symbol)
 

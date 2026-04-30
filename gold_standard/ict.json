@@ -1,0 +1,2057 @@
+[
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611512",
+    "number": "46\n                        ",
+    "question_text": "নিচের কোনটি ফুল-ডুপ্লেক্স কমিউনিকেশনের উদাহরণ? (Which of the following is an example of full-duplex communication?)",
+    "options": [
+      "মনিটর ডিসপ্লে (Monitor display)",
+      "টেলিফোন কথোপকথন (Telephone conversation)",
+      "ওয়াটি-টকি (Walki-talkie)",
+      "কিবোর্ড থেকে সিপিউ (Keyboard to CPU)"
+    ],
+    "correct_answer": "কিবোর্ড থেকে সিপিউ (Keyboard to CPU)",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611513",
+    "number": "47\n                        ",
+    "question_text": "অক্টাল সংখ্যা পদ্ধতিতে 177 এর পরে কোন সংখ্যাটি আসবে? (Which number will come after 177 in octal number system?)",
+    "options": [
+      "170",
+      "270",
+      "178",
+      "200"
+    ],
+    "correct_answer": "200",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611514",
+    "number": "48\n                        ",
+    "question_text": "বুলিয়ান এলজেবরার ক্ষেত্রে নিচের কোনটি সত্য? (Which of the following is true in Boolean algebra?)",
+    "options": [
+      "X + 1 = X",
+      "X + XY = X",
+      "X.0 = X",
+      "X + 0 = 0"
+    ],
+    "correct_answer": "X + XY = X",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611515",
+    "number": "49\n                        ",
+    "question_text": "একটি পেজের সাথে অন্য পেজের সংযোগকে HTML-এ কী বলে? (In HTML, what is the name of connection between one page to another?)",
+    "options": [
+      "Hyper connection",
+      "Hyper node",
+      "Hyper edge",
+      "Hyper link"
+    ],
+    "correct_answer": "Hyper link",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611516",
+    "number": "50\n                        ",
+    "question_text": "একটি C ফাংশন10.563×102রিটার্ন করলে ফাংশনটির রিটার্ন টাইপ কী হবে? (What is the return type of a function in C if it returns10.563×102?)",
+    "options": [
+      "char",
+      "int",
+      "void",
+      "double"
+    ],
+    "correct_answer": "double",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611517",
+    "number": "51\n                        ",
+    "question_text": "C প্রোগ্রামিং-এর ক্ষেত্রে char ডাটা টাইপটি কয় বিট জায়গা দখল করে? (In C programming language, how many bits of memory does the 'char' data type take?)",
+    "options": [
+      "4",
+      "8",
+      "1",
+      "16"
+    ],
+    "correct_answer": "8",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611518",
+    "number": "52\n                        ",
+    "question_text": "নিচের কোন HTML ট্যাগটি টেক্সট ফরম্যাটিং-এর সাথে সম্পর্কিত নয়? (Which of the following HTML tags is not associated with text formatting?)",
+    "options": [
+      "<th>",
+      "<sup>",
+      "<em>",
+      "<b>"
+    ],
+    "correct_answer": "<th>",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611519",
+    "number": "53\n                        ",
+    "question_text": "কোন দুই ইনপুটের লজিক গেটের ক্ষেত্রে ইনপুট কম্বিনেশনগুলো কেবল একে অপরের বিপরীত হলেই আউটপুটে 1 পাওয়া যায়? (Which of the following 2-input logic gates produces 1 in output only when the input combinations are opposite to each other?)",
+    "options": [
+      "XOR",
+      "NOR",
+      "XNOR",
+      "NAND"
+    ],
+    "correct_answer": "XOR",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611520",
+    "number": "54\n                        ",
+    "question_text": "একজন শিক্ষক ক্লাসের 30 জন ছাত্র-ছাত্রীর মধ্য থেকে 5 জনকে বেছে নিয়ে তাদের কাছে কিছু তথ্য পাঠালেন, এই যোগাযোগ পদ্ধতি নিচের কোনটির সাথে সম্পৃক্ত? (A teacher picks 5 from 30 students of a class and shares some information with them. Which of the following communication mechanism is related to this scenario?)",
+    "options": [
+      "ব্রডকাস্ট (Broadcast)",
+      "টেলিকাস্ট (Telecast)",
+      "মাল্টিকাস্ট (Multicast)",
+      "ইউনিকাস্ট (Unicast)"
+    ],
+    "correct_answer": "মাল্টিকাস্ট (Multicast)",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611522",
+    "number": "56\n                        ",
+    "question_text": "নিচের কোন সংখ্যাটি বৃহত্তম? (Which of the following numbers is the largest?)",
+    "options": [
+      "(11)8",
+      "(7)16",
+      "(1000)2",
+      "(8)10"
+    ],
+    "correct_answer": "(11)8",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611523",
+    "number": "57\n                        ",
+    "question_text": "পাঁচ ইনপুটের একটি ডিকোডারের কয়টি আউটপুট লাইন প্রয়োজন হবে? (How many output lines are necessary for a decoder with five inputs?)",
+    "options": [
+      "32",
+      "5",
+      "31",
+      "16"
+    ],
+    "correct_answer": "32",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611524",
+    "number": "58\n                        ",
+    "question_text": "সাধারণভাবে একটি ল্যানে একাধিক ডিভাইস সংযোগ করতে নিচের কোনটি ব্যবহার করা হয়? (Which of the following is commonly used to connect multiple devices in a LAN?)",
+    "options": [
+      "Socket",
+      "Repeater",
+      "Router",
+      "Switch"
+    ],
+    "correct_answer": "Switch",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611525",
+    "number": "59\n                        ",
+    "question_text": "1000110 বাইনারি সংখ্যাটির ২-এর পরিপূরক কত? (What is the 2's complement of the binary number 1000110?)",
+    "options": [
+      "0111001",
+      "1000111",
+      "0111010",
+      "0110001"
+    ],
+    "correct_answer": "0111010",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611526",
+    "number": "60\n                        ",
+    "question_text": "C প্রোগ্রামিং-এ, দুটি স্ট্রিং S1 এবং S2-এ একই ডেটা থাকলে strcmp(S1, S2) ফাংশনটির আউটপুট কী হবে? (What will be the output of strcmp(S1, S2) function in C programming language when string variables S1 and S2 contain the same data?)",
+    "options": [
+      "Equal",
+      "0",
+      "+1",
+      "-1"
+    ],
+    "correct_answer": "0",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604956",
+    "number": "25\n                        ",
+    "question_text": "ফাইবার অপটিক কেবলের মাধ্যমে ডাটা প্রেরনের জন্য কোন আলোক রশ্মি ব্যবহৃত হয়? (Which ray of light is used for data transfer through fiber optic cable?)",
+    "options": [
+      "গামা (Gamma)",
+      "বেটা (Beta)",
+      "লেজার (Laser)",
+      "আলফা (Alpha)"
+    ],
+    "correct_answer": "লেজার (Laser)",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604957",
+    "number": "26\n                        ",
+    "question_text": "নিচের কোনটি ইনপুট ডিভাইস? (Which of the following is an input device?)",
+    "options": [
+      "স্পিকার (Speaker)",
+      "প্রিন্টার (Printer)",
+      "স্ক্যানার (Scanner)",
+      "মনিটর (Monitor)"
+    ],
+    "correct_answer": "স্ক্যানার (Scanner)",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604958",
+    "number": "27\n                        ",
+    "question_text": "HTML-এ সবচেয়ে বড় শিরোণাম যুক্ত করতে নিচের কোন ট্যাগটি ব্যবহৃত হয়? (Which of the following tags is used for inserting the largest heading in HTML?)",
+    "options": [
+      "head",
+      "<h1>",
+      "<h6>",
+      "heading"
+    ],
+    "correct_answer": "<h1>",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604959",
+    "number": "28\n                        ",
+    "question_text": "'LTE'-এর পূর্ণরূপ- ('LTE' stands for-)",
+    "options": [
+      "Long Time Evolution",
+      "Long Term Evolution",
+      "Line Transmission Efficiency",
+      "Linear Transfer Enhancement"
+    ],
+    "correct_answer": "Long Term Evolution",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604960",
+    "number": "29\n                        ",
+    "question_text": "নিচের কোনটি গাইডেড ট্রান্সমিশন মাধ্যম-এর উদাহরণ? (Which of the following is an example of a guided transmission medium?)",
+    "options": [
+      "রেডিও ওয়েভ (Radio wave)",
+      "ইনফ্রারেড (Infrared)",
+      "ফাইবার অপটিক কেবল (Fiber optic cable)",
+      "মাইক্রোওয়েভ (Microwave)"
+    ],
+    "correct_answer": "ফাইবার অপটিক কেবল (Fiber optic cable)",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604961",
+    "number": "30\n                        ",
+    "question_text": "নিচের কোন ডিভাইস ভিন্ন প্রোটোকল ব্যবহারকারী নেটওয়ার্কগুলোকে সংযুক্ত করতে পারে? (Which of the following devices can connect networks that use different protocols?)",
+    "options": [
+      "রাউটার (Router)",
+      "গেটওয়ে (Gateway)",
+      "সুইচ (Switch)",
+      "মডেম (Modem)"
+    ],
+    "correct_answer": "গেটওয়ে (Gateway)",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604962",
+    "number": "31\n                        ",
+    "question_text": "5G নেটওয়ার্কের সাথে মূলত কোন প্রযুক্তি যুক্ত? (Which technology is primarily associated with 5G network?)",
+    "options": [
+      "সার্কিট সুইচিং (Circuit switching)",
+      "প্যাকেট সুইচিং (Packet switching)",
+      "মিলিমিটার ওয়েভস (Millimeter waves)",
+      "এনালগ ট্রান্সমিশন (Analog transmission)"
+    ],
+    "correct_answer": "মিলিমিটার ওয়েভস (Millimeter waves)",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604963",
+    "number": "32\n                        ",
+    "question_text": "কোন ট্রান্সলেটর পুরো হাই-লেভেল প্রোগ্রামকে একবারে মেশিন কোডে অনুবাদ করে? (Which translator translates an entire high-level program into machine code at once?)",
+    "options": [
+      "কম্পাইলার (Compiler)",
+      "ইন্টারপ্রেটার (Interpreter)",
+      "অ্যাসেম্বলার (Assembler)",
+      "লিঙ্কার (Linker)"
+    ],
+    "correct_answer": "কম্পাইলার (Compiler)",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604964",
+    "number": "33\n                        ",
+    "question_text": "নিচের কোনটি অপারেটিং সিস্টেম নয়? (Which of the following is not an operating system?)",
+    "options": [
+      "লিনাক্স (Linux)",
+      "উইন্ডোজ (Windows",
+      "এমএস ওয়ার্ড (MS Word)",
+      "ম্যাকওএস (macOS)"
+    ],
+    "correct_answer": "এমএস ওয়ার্ড (MS Word)",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604965",
+    "number": "34\n                        ",
+    "question_text": "কোন টপোলজিতে প্রতিটি ডিভাইস একটি কেন্দ্রীয় হাবের সাথে সংযুক্ত থাকে? (In which topology each device is connected to a central hub?)",
+    "options": [
+      "বাস টপোলজি (Bus Topology)",
+      "স্টার টপোলজি (Star Topology)",
+      "রিং টপোলজি (Ring Topology)",
+      "মেশ টপোলজি (Mesh Topology)"
+    ],
+    "correct_answer": "স্টার টপোলজি (Star Topology)",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604966",
+    "number": "35\n                        ",
+    "question_text": "স্ট্যান্ডার্ড ASCII-এর সাইজ কত? (What is the size of standard ASCII?)",
+    "options": [
+      "৪ বিট (4 bit)",
+      "৭ বিট (7 bit)",
+      "৮ বিট (8 bit)",
+      "১৬ বিট (16 bit)"
+    ],
+    "correct_answer": "৭ বিট (7 bit)",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6854",
+    "question_id": "604967",
+    "number": "36\n                        ",
+    "question_text": "নিচের কোনটি C-এর রিজার্ভ কীওয়ার্ড নয়? (Which of the following is not a reserved keyword in C?)",
+    "options": [
+      "long",
+      "break",
+      "loop",
+      "while"
+    ],
+    "correct_answer": "loop",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ব্যবসায় শিক্ষা ইউনিট (বিজ্ঞান ও মানবিক শাখা) শিক্ষাবর্ষ : ২০২৫-২০২৬ (06-12-2025)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয়  —  B ইউনিট (বাণিজ্য) (গ্রুপ-১) শিক্ষাবর্ষ : ২০২১-২০২২",
+    "exam_year": "2022",
+    "subcat_id": "6400",
+    "question_id": "533243",
+    "number": "14\n                        ",
+    "question_text": "রোবটের অ্যাকচুয়েটরকে আমরা তুলনা করতে পারি কিসের সাথে?",
+    "options": [
+      "দৃশ্যমান চোখ",
+      "হাত পা এর পেশি",
+      "মস্তিষ্কের স্মৃতি",
+      "সিসা অ্যাসিড ব্যাটারি"
+    ],
+    "correct_answer": "হাত পা এর পেশি",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয়  —  B ইউনিট (বাণিজ্য) (গ্রুপ-১) শিক্ষাবর্ষ : ২০২১-২০২২",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - E ইউনিট (সামাজিক বিজ্ঞান) শিক্ষাবর্ষ : ২০১০-২০১১",
+    "exam_year": "2011",
+    "subcat_id": "3351",
+    "question_id": "223536",
+    "number": "10\n                        ",
+    "question_text": "০.১+০.০১+০.০০১=?",
+    "options": [
+      ".০০০০০১",
+      ".০০১",
+      "০.০০৩",
+      "।০.১১১"
+    ],
+    "correct_answer": "।০.১১১",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - E ইউনিট (সামাজিক বিজ্ঞান) শিক্ষাবর্ষ : ২০১০-২০১১",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+    "exam_year": "2025",
+    "subcat_id": "7099",
+    "question_id": "627877",
+    "number": "7\n                        ",
+    "question_text": "BCD কোডের বিট সংখ্যা কত?",
+    "options": [
+      "4 bit",
+      "6 bit",
+      "8 bit",
+      "16 bit"
+    ],
+    "correct_answer": "4 bit",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+    "exam_year": "2025",
+    "subcat_id": "7099",
+    "question_id": "627879",
+    "number": "9\n                        ",
+    "question_text": "ডাটা কমিউনিকেশন সিস্টেমে নীচের কোনটিকে মিডিয়াম হিসাবে গণ্য করা হয়?",
+    "options": [
+      "মডেম",
+      "রাউটার",
+      "সার্ভার",
+      "ফাইবার অপটিক ক্যাবল"
+    ],
+    "correct_answer": "ফাইবার অপটিক ক্যাবল",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+    "exam_year": "2025",
+    "subcat_id": "7099",
+    "question_id": "627880",
+    "number": "10\n                        ",
+    "question_text": "ভার্চুয়াল রিয়ালিটির উদ্ভাবক কে?",
+    "options": [
+      "জর্জ চার্লস ডেভল",
+      "জ্যারন চ্যাপল লেনি",
+      "জেমস আরনট",
+      "হার্বাট বোয়ার"
+    ],
+    "correct_answer": "জ্যারন চ্যাপল লেনি",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+    "exam_year": "2025",
+    "subcat_id": "7099",
+    "question_id": "627881",
+    "number": "11\n                        ",
+    "question_text": "voidmain(){intএই প্রোগ্রামে কোন স্ট্যাটমেন্টের জন্য b এর মান 3 হবে?",
+    "options": [
+      "b=a++;",
+      "b+=a;",
+      "b=a--;",
+      "a ও b উভয়ই"
+    ],
+    "correct_answer": "b=a--;",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+    "exam_year": "2025",
+    "subcat_id": "7099",
+    "question_id": "627882",
+    "number": "12\n                        ",
+    "question_text": "Zoom ব্যবহার করে পাঠদানকে.....বলা যায়",
+    "options": [
+      "ভার্চুয়াল ক্লাস",
+      "মাল্টিমিডিয়া ক্লাস",
+      "ই-লার্নিং",
+      "অনলাইন ক্লাস"
+    ],
+    "correct_answer": "ই-লার্নিং",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+    "exam_year": "2025",
+    "subcat_id": "7099",
+    "question_id": "627883",
+    "number": "13\n                        ",
+    "question_text": "(11110.001)2=(?)10",
+    "options": [
+      "25.25",
+      "30.125",
+      "10.125",
+      "25.125"
+    ],
+    "correct_answer": "30.125",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+    "exam_year": "2025",
+    "subcat_id": "7099",
+    "question_id": "627884",
+    "number": "14\n                        ",
+    "question_text": "VoIP এর ব্যান্ড উইডথ কত?",
+    "options": [
+      "0.5 Mbps",
+      "0.7 Mbps",
+      "1.5 Mbps",
+      "4 Mbps"
+    ],
+    "correct_answer": "0.7 Mbps",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৪ - ২৫ (সেট : ২)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "7103",
+    "question_id": "628257",
+    "number": "7\n                        ",
+    "question_text": "ইন্টারপ্রেটার প্রোগ্রামকে-",
+    "options": [
+      "এক লাইন এক লাইন করে অনুবাদ করে",
+      "একসাথে পুরো প্রোগ্রাম অনুবাদ করে",
+      "একসাথে পাঁচ লাইন করে অনুবাদ করে",
+      "অর্ধেক অর্ধেক লাইন অনুবাদ করে"
+    ],
+    "correct_answer": "এক লাইন এক লাইন করে অনুবাদ করে",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "7103",
+    "question_id": "628258",
+    "number": "8\n                        ",
+    "question_text": "প্রতিটি সাইটের স্বতন্ত্র নামকে বলে-",
+    "options": [
+      "ফটোশপ",
+      "ডোমেইন",
+      "HTML",
+      "সাইট ডিজাইন"
+    ],
+    "correct_answer": "ডোমেইন",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "7103",
+    "question_id": "628259",
+    "number": "9\n                        ",
+    "question_text": "টেলিযোগাযোগের মাধ্যমে সভা করাকে কী বলে?",
+    "options": [
+      "ভিডিও কনফারেন্স",
+      "অনলাইন চ্যাটিং",
+      "টেলিকনফারেন্স",
+      "ভয়েস কল"
+    ],
+    "correct_answer": "ভিডিও কনফারেন্স",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "7103",
+    "question_id": "628260",
+    "number": "10\n                        ",
+    "question_text": "নিচের কোনট সংখ্যাটি বাইনারি সংখ্যা 111011 এর হেক্সাডেসিমেলের রূপান্তর?",
+    "options": [
+      "1B",
+      "27",
+      "3B",
+      "4F"
+    ],
+    "correct_answer": "3B",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "7103",
+    "question_id": "628261",
+    "number": "11\n                        ",
+    "question_text": "টেলিমেডিসিন সেবার জন্য আবশ্যক-(i) বিশেষজ্ঞ চিকিৎসক(ii) রোগ নির্ণয় কেন্দ্র(iii) বিশেষায়িত নেটওয়ার্কনিচের কোনটি সঠিক?",
+    "options": [
+      "i, ii",
+      "ii, iii",
+      "i, iii",
+      "i, ii, iii"
+    ],
+    "correct_answer": "i, iii",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "7103",
+    "question_id": "628262",
+    "number": "12\n                        ",
+    "question_text": "TCP/IP প্রোটোকল স্যুটের কোন স্তরটি একাধিক নেটওয়ার্কে প্যাকেটরে ঠিকানা এবং রাউটিং এর জন্য দায়ী?",
+    "options": [
+      "অ্যাপ্লিকেশন স্তর",
+      "পরিবহন স্তর",
+      "ইন্টারনেট স্তর",
+      "নেটওয়ার্ক ইন্টারফেস স্তর"
+    ],
+    "correct_answer": "ইন্টারনেট স্তর",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "7103",
+    "question_id": "628263",
+    "number": "13\n                        ",
+    "question_text": "একটি VPN OSI মডেলের কোন স্তরে কাজ করে?",
+    "options": [
+      "অ্যাপ্লিকেশন স্তর",
+      "পরিবহন স্তর",
+      "নেটওয়ার্ক স্তর",
+      "ডেটা লিঙ্ক স্তর"
+    ],
+    "correct_answer": "নেটওয়ার্ক স্তর",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "7103",
+    "question_id": "628264",
+    "number": "14\n                        ",
+    "question_text": "কম্পিউটার নেটওয়ার্কে সুইটের মূল উদ্দেশ্য কি?",
+    "options": [
+      "নেটওয়ার্ক ঠিকানা অনুবাদ",
+      "ডেটা এনক্রিপশন",
+      "ভৌত স্তর সংযোগ",
+      "প্যাকেট ফিল্টারিং"
+    ],
+    "correct_answer": "প্যাকেট ফিল্টারিং",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : O)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+    "exam_year": "2023",
+    "subcat_id": "6124",
+    "question_id": "428304",
+    "number": "7\n                        ",
+    "question_text": "ই-কমার্সের অন্তর্ভুক্ত নয়-",
+    "options": [
+      "বিপণ্ন",
+      "সরবরাহ",
+      "লেনদেন",
+      "প্রচার"
+    ],
+    "correct_answer": "প্রচার",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+    "exam_year": "2023",
+    "subcat_id": "6124",
+    "question_id": "428306",
+    "number": "9\n                        ",
+    "question_text": "যৌগিক লজিক গেইট কয়টি?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+    "exam_year": "2023",
+    "subcat_id": "6124",
+    "question_id": "428307",
+    "number": "10\n                        ",
+    "question_text": "কর্মসংস্থানের জন্য বর্তমানে-(i) ঘরে বসেই কাজ পাওয়া যায়(ii) ইন্টারনেট সুবিধা নেওয়া যায়(iii) বিভিন্ন ওয়েব সুবিধা পাওয়া যায়।নিচের কোনটি সঠিক?",
+    "options": [
+      "iও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i ii ও iii"
+    ],
+    "correct_answer": "i ii ও iii",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+    "exam_year": "2023",
+    "subcat_id": "6124",
+    "question_id": "428308",
+    "number": "11\n                        ",
+    "question_text": "জেনেটিক ইঞ্জিনিয়ারিং দ্বারা-(i) উচ্চ ফলনশীল আলুর জাত উৎপাদন করা সম্ভব(ii) উন্নতমানের ঔষধ প্রস্তুত করা সম্ভব(iii) কৃত্রিম বুদ্ধিমত্তা তৈরি করা সম্ভব।নিচের কোনটি সঠিক?",
+    "options": [
+      "iও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "correct_answer": "iও ii",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+    "exam_year": "2023",
+    "subcat_id": "6124",
+    "question_id": "428309",
+    "number": "12\n                        ",
+    "question_text": "Decoder এ n টি ইনপুট থাকলে আউটপুট পাওয়া যায়-",
+    "options": [
+      "2nটি",
+      "22টি",
+      "n  টি",
+      "n2টি"
+    ],
+    "correct_answer": "2nটি",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+    "exam_year": "2023",
+    "subcat_id": "6124",
+    "question_id": "428310",
+    "number": "13\n                        ",
+    "question_text": "নিচের কোনটি নন-পজিশনাল সংখ্যা?",
+    "options": [
+      "III",
+      "34",
+      "45.7",
+      "537"
+    ],
+    "correct_answer": "III",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+    "exam_year": "2023",
+    "subcat_id": "6124",
+    "question_id": "428311",
+    "number": "14\n                        ",
+    "question_text": "ক্লাউড কম্পিউটারকে প্রধানত কয়ভাগে ভাগ করা যায়?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "3",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : I)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+    "exam_year": "2023",
+    "subcat_id": "6123",
+    "question_id": "428507",
+    "number": "2\n                        ",
+    "question_text": "বঙ্গবন্ধু স্যাটেলাইট-1, বাংলাদেশের প্রথম জিওস্টেশনারি কমিউনিকেশন স্যাটেলাইট, কোন রকেট ব্যবহার করে মহাকাশে উৎক্ষেপণ করা হয়েছিল?",
+    "options": [
+      "ফ্যালকন 9",
+      "আরিয়ান 5",
+      "সবুজ 16",
+      "সবুজ 2"
+    ],
+    "correct_answer": "ফ্যালকন 9",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+    "exam_year": "2023",
+    "subcat_id": "6123",
+    "question_id": "428511",
+    "number": "6\n                        ",
+    "question_text": "নিম্নের কোনটি UNICODE এর উদাহরণ?",
+    "options": [
+      "ASCII",
+      "UTF-8",
+      "OTM-32",
+      "Hexa"
+    ],
+    "correct_answer": "UTF-8",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+    "exam_year": "2023",
+    "subcat_id": "6123",
+    "question_id": "428512",
+    "number": "7\n                        ",
+    "question_text": "কম্পিউটার নেটওয়ার্কে রাউটারের প্রাথমিক কাজ কি?",
+    "options": [
+      "ডেটা এনক্রিপশন",
+      "ভৌত স্তর সংযোগ",
+      "প্যাকেট সুইচিং এবং রাউটিং",
+      "নেটওয়ার্ক ঠিকানা অনুবাদ"
+    ],
+    "correct_answer": "নেটওয়ার্ক ঠিকানা অনুবাদ",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+    "exam_year": "2023",
+    "subcat_id": "6123",
+    "question_id": "428516",
+    "number": "11\n                        ",
+    "question_text": "বাইনারি সংখ্যা 111011 কে হেক্সাডেসিমেলে রূপান্তর করুন?",
+    "options": [
+      "IB",
+      "27",
+      "3B",
+      "4F"
+    ],
+    "correct_answer": "3B",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+    "exam_year": "2023",
+    "subcat_id": "6123",
+    "question_id": "428517",
+    "number": "12\n                        ",
+    "question_text": "একটি ফুল অ্যাডার সার্কিটের আউটপুট কী?",
+    "options": [
+      "সমষ্টি এবং বহন",
+      "পার্থক্য এবং ধার",
+      "পণ্য এবং ভাগফল",
+      "ইনপুট এবং আউটপুট"
+    ],
+    "correct_answer": "সমষ্টি এবং বহন",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+    "exam_year": "2023",
+    "subcat_id": "6123",
+    "question_id": "428518",
+    "number": "13\n                        ",
+    "question_text": "পাঁচটি ইনপুট বিশিষ্ট ডিকোডারের আউটপুট লাইন কতটি?",
+    "options": [
+      "5",
+      "10",
+      "32",
+      "64"
+    ],
+    "correct_answer": "32",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২২-২৩ (সেট : N)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট (সেট-F) : 2021-22",
+    "exam_year": "2022",
+    "subcat_id": "5307",
+    "question_id": "244323",
+    "number": "9\n                        ",
+    "question_text": "নিচের কোনটি কাউন্টারের জন্য সঠিক নয়-",
+    "options": [
+      "একটি সিকুয়েন্সিয়াল সার্কিট",
+      "শুধু সর্বাধিক পালসের সংখ্যা গণনা করতে পারে",
+      "লজিক গেইটের সমন্বয়ে গঠিত",
+      "অস্থায়ী মেমোরি হিসেবে কাজ করে"
+    ],
+    "correct_answer": "শুধু সর্বাধিক পালসের সংখ্যা গণনা করতে পারে",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট (সেট-F) : 2021-22",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট (সেট-F) : 2021-22",
+    "exam_year": "2022",
+    "subcat_id": "5307",
+    "question_id": "244324",
+    "number": "10\n                        ",
+    "question_text": "ইন্টারনেটে স্ট্রিমিং ভিডিওর ব্যান্ডউইথ কত?",
+    "options": [
+      "1.5 Mbps",
+      "4 Mbps",
+      "3 Mbps",
+      "5 Mbps"
+    ],
+    "correct_answer": "3 Mbps",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট (সেট-F) : 2021-22",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট (সেট-F) : 2021-22",
+    "exam_year": "2022",
+    "subcat_id": "5307",
+    "question_id": "244325",
+    "number": "11\n                        ",
+    "question_text": "(DADA)16থেকে(BABA)16কত ছোট?",
+    "options": [
+      "(2021)16",
+      "(2022)16",
+      "(8224)10",
+      "(8021)10"
+    ],
+    "correct_answer": "(8224)10",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট (সেট-F) : 2021-22",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট (সেট-F) : 2021-22",
+    "exam_year": "2022",
+    "subcat_id": "5307",
+    "question_id": "244326",
+    "number": "12\n                        ",
+    "question_text": "মেশিন লার্নিং এর সাথে নিচের কোনটি সবচেয়ে কম সামঞ্জস্যপূর্ণ?",
+    "options": [
+      "কৃত্তিম বুদ্ধিমত্তা",
+      "ডাটা সায়েন্স",
+      "পূর্ববর্তী অভিজ্ঞতা",
+      "কম্পিউটার"
+    ],
+    "correct_answer": "কৃত্তিম বুদ্ধিমত্তা",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট (সেট-F) : 2021-22",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট (সেট-F) : 2021-22",
+    "exam_year": "2022",
+    "subcat_id": "5307",
+    "question_id": "244327",
+    "number": "13\n                        ",
+    "question_text": "Web browser হলো একটি",
+    "options": [
+      "ওয়েব পেইজ",
+      "একটি সফটওয়্যার",
+      "হাইপারলিংক",
+      "ড্যাটাবেইস"
+    ],
+    "correct_answer": "একটি সফটওয়্যার",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট (সেট-F) : 2021-22",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট (সেট-F) : 2021-22",
+    "exam_year": "2022",
+    "subcat_id": "5307",
+    "question_id": "244328",
+    "number": "14\n                        ",
+    "question_text": "নিচের কোন HTML code টি নতুন খালি উইন্ডোজ স্টার্ট করার জন্য এট্রিবিউট value হিসেবে ব্যবহৃত হয়?",
+    "options": [
+      "target",
+      "_blank",
+      "_new",
+      "href"
+    ],
+    "correct_answer": "_blank",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট (সেট-F) : 2021-22",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০১৯-২০ (সেট : P)",
+    "exam_year": "2020",
+    "subcat_id": "7120",
+    "question_id": "629298",
+    "number": "13\n                        ",
+    "question_text": "নেটভিত্তিক অন্যের তথ্যকে নিজের নামে চালিয়ে দেওয়াকে কী বলে?",
+    "options": [
+      "হ্যাকিং",
+      "ফিশিং",
+      "স্নিকিং",
+      "প্লেজিয়ারিজম"
+    ],
+    "correct_answer": "প্লেজিয়ারিজম",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০১৯-২০ (সেট : P)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০১৯-২০ (সেট : P)",
+    "exam_year": "2020",
+    "subcat_id": "7120",
+    "question_id": "629299",
+    "number": "14\n                        ",
+    "question_text": "কৃত্রিম বুদ্ধিমত্তায় প্রধানত কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "PYTHON",
+      "HTML",
+      "COBOL",
+      "PROLOG"
+    ],
+    "correct_answer": "PYTHON",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০১৯-২০ (সেট : P)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০১৯-২০ (সেট : A)",
+    "exam_year": "2020",
+    "subcat_id": "7113",
+    "question_id": "628571",
+    "number": "14\n                        ",
+    "question_text": "ন্যানো বুঝায় কোনটি?",
+    "options": [
+      "10-6",
+      "10-9",
+      "10-12",
+      "10-15"
+    ],
+    "correct_answer": "10-9",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০১৯-২০ (সেট : A)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০১৮-১৯ (সেট : C)",
+    "exam_year": "2019",
+    "subcat_id": "7129",
+    "question_id": "629878",
+    "number": "8\n                        ",
+    "question_text": "মেমরী পরিমাপের ক্ষুদ্রতম একক কি?",
+    "options": [
+      "বিট",
+      "বাইট",
+      "কিলোবাইট",
+      "মেগাবাইট"
+    ],
+    "correct_answer": "বিট",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০১৮-১৯ (সেট : C)",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট",
+    "exam_year": "2018",
+    "subcat_id": "4727",
+    "question_id": "180098",
+    "number": "7\n                        ",
+    "question_text": "A6B কোন ধরনের সংখ্যা পদ্ধতির অন্তর্ভুক্ত?",
+    "options": [
+      "অক্টাল",
+      "দশসমিক",
+      "বাইনারি",
+      "হক্সাডেসিমেল"
+    ],
+    "correct_answer": "হক্সাডেসিমেল",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট",
+    "exam_year": "2018",
+    "subcat_id": "4727",
+    "question_id": "180099",
+    "number": "8\n                        ",
+    "question_text": "বাইনারি সংখ্যা পদ্ধতির বেইজ কত?",
+    "options": [
+      "16",
+      "10",
+      "8",
+      "2"
+    ],
+    "correct_answer": "2",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "G ইউনিট",
+    "exam_year": "2017",
+    "subcat_id": "3402",
+    "question_id": "175947",
+    "number": "6\n                        ",
+    "question_text": "who is good in Computer Science, History, Dramaties?",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "E"
+    ],
+    "correct_answer": "B",
+    "correct_option_index": 2,
+    "subject": "কম্পিউটারের যত কথা",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "G ইউনিট",
+      "সাধারণ জ্ঞান",
+      "কম্পিউটারের যত কথা"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "G ইউনিট",
+    "exam_year": "2017",
+    "subcat_id": "3402",
+    "question_id": "175949",
+    "number": "8\n                        ",
+    "question_text": "Who is good in h History , physics, computer science and Mathematics?",
+    "options": [
+      "D",
+      "E",
+      "A",
+      "None of them"
+    ],
+    "correct_answer": "None of them",
+    "correct_option_index": 3,
+    "subject": "কম্পিউটারের যত কথা",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "G ইউনিট",
+      "সাধারণ জ্ঞান",
+      "কম্পিউটারের যত কথা"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "G ইউনিট",
+    "exam_year": "2017",
+    "subcat_id": "3402",
+    "question_id": "175950",
+    "number": "9\n                        ",
+    "question_text": "Who is good in physics and Mathematics but not in Computer science?",
+    "options": [
+      "A",
+      "D",
+      "E",
+      "C"
+    ],
+    "correct_answer": "E",
+    "correct_option_index": 2,
+    "subject": "কম্পিউটারের যত কথা",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "G ইউনিট",
+      "সাধারণ জ্ঞান",
+      "কম্পিউটারের যত কথা"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট",
+    "exam_year": "2012",
+    "subcat_id": "3438",
+    "question_id": "175624",
+    "number": "8\n                        ",
+    "question_text": "E-mail এর অর্থ কি?",
+    "options": [
+      "Emergency mail",
+      "Electrical mail",
+      "Electronic mail",
+      "Effective mail"
+    ],
+    "correct_answer": "Electronic mail",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "begum-rokeya-university",
+    "exam_name": "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "3537",
+    "question_id": "87327",
+    "number": "4\n                        ",
+    "question_text": "২৬ এর 2`s complement =?",
+    "options": [
+      "00110",
+      "00101",
+      "1100110",
+      "11100110"
+    ],
+    "correct_answer": "00110",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+      "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "begum-rokeya-university",
+    "exam_name": "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "3537",
+    "question_id": "87328",
+    "number": "5\n                        ",
+    "question_text": "ডেটা স্থানাস্তরের হার কোনটি ?",
+    "options": [
+      "ব্যান্ডমিটার",
+      "ব্যান্ডউইথ",
+      "ঢাটা ট্রান্সমিশন",
+      "ডাটা কমিউনিকেশন"
+    ],
+    "correct_answer": "ব্যান্ডউইথ",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+      "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "begum-rokeya-university",
+    "exam_name": "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "3537",
+    "question_id": "87329",
+    "number": "6\n                        ",
+    "question_text": "Modulator ও Demodulator এর সংক্ষিপ্ত রূপ কোনটি ?",
+    "options": [
+      "Module",
+      "Demodule",
+      "Mode",
+      "Modem"
+    ],
+    "correct_answer": "Modem",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+      "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "begum-rokeya-university",
+    "exam_name": "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "3537",
+    "question_id": "87330",
+    "number": "7\n                        ",
+    "question_text": "অফিসে কি ধরনের নেটওয়ার্ক টপোলজি ব্যবহৃত হয় ?",
+    "options": [
+      "স্টার",
+      "রিং",
+      "বাস",
+      "ট্রি"
+    ],
+    "correct_answer": "স্টার",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+      "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "begum-rokeya-university",
+    "exam_name": "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "3537",
+    "question_id": "87331",
+    "number": "8\n                        ",
+    "question_text": "পূর্ণ-অভ্যন্তরীণ প্রতিফলনের নিয়ম অনুযায়ী ডেটা ট্রান্সমিশন হয় কোন ক্যাবল-এর ?",
+    "options": [
+      "কো-এক্সিয়াল ক্যাবল",
+      "অপটিক্যাল ফাইবার ক্যাবল",
+      "টুইস্টেড",
+      "কোনটিই নয়"
+    ],
+    "correct_answer": "অপটিক্যাল ফাইবার ক্যাবল",
+    "correct_option_index": 1,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+      "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "begum-rokeya-university",
+    "exam_name": "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "3537",
+    "question_id": "87332",
+    "number": "9\n                        ",
+    "question_text": "মৌলিক গেট কয়টি ?",
+    "options": [
+      "১ টি",
+      "২ টি",
+      "৩টি",
+      "৪টি"
+    ],
+    "correct_answer": "৩টি",
+    "correct_option_index": 2,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+      "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "begum-rokeya-university",
+    "exam_name": "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "3537",
+    "question_id": "87333",
+    "number": "10\n                        ",
+    "question_text": "(11011.001)2-(1011.110)2=?",
+    "options": [
+      "(1011.011)2",
+      "(1001.001)2",
+      "(1101.001)2",
+      "(1111.011)2"
+    ],
+    "correct_answer": "(1111.011)2",
+    "correct_option_index": 3,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+      "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "shere-bangla-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৭-২০০৮",
+    "exam_year": "2007",
+    "subcat_id": "4537",
+    "question_id": "234855",
+    "number": "15\n                        ",
+    "question_text": "কম্পিউটার ভাইরাস হলো-",
+    "options": [
+      "এক ধরনের বিশেষ কম্পিউটার প্রোগ্রম",
+      "জীবানু দ্বারা কম্পিউটার সংক্রমিত হওয়া",
+      "কম্পিউটার যন্ত্রাংশের ত্রূটি",
+      "কম্পিউটার বৈদ্যুতিক গোলযোগ"
+    ],
+    "correct_answer": "এক ধরনের বিশেষ কম্পিউটার প্রোগ্রম",
+    "correct_option_index": 0,
+    "subject": "কম্পিউটারের যত কথা",
+    "tags": [
+      "শেরে বাংলা কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০০৭-২০০৮",
+      "সাধারণ জ্ঞান",
+      "কম্পিউটারের যত কথা"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "bsmrau",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+    "exam_year": "2014",
+    "subcat_id": "4544",
+    "question_id": "93951",
+    "number": "4\n                        ",
+    "question_text": "কোনটি ছাড়া কম্পিউটার হার্ডওয়ার অকার্যকর প্রতিপন্ন হয়?",
+    "options": [
+      "ইনপুট",
+      "আউটপুট",
+      "প্রিন্টার",
+      "সফটওয়্যার"
+    ],
+    "correct_answer": "সফটওয়্যার",
+    "correct_option_index": 3,
+    "subject": "কম্পিউটারের যত কথা",
+    "tags": [
+      "গাজীপুর কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+      "সাধারণ জ্ঞান",
+      "কম্পিউটারের যত কথা"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  },
+  {
+    "university": "bsmrau",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৩-২০১৪",
+    "exam_year": "2013",
+    "subcat_id": "4545",
+    "question_id": "94347",
+    "number": "15\n                        ",
+    "question_text": "www এর পূর্ণ রুপ কি?",
+    "options": [
+      "world wide web",
+      "world women wealth",
+      "world wide wide",
+      "web of world wide"
+    ],
+    "correct_answer": "world wide web",
+    "correct_option_index": 0,
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "tags": [
+      "গাজীপুর কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০১৩-২০১৪",
+      "তথ্য ও যোগাযোগ প্রযুক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null
+  }
+]

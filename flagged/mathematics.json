@@ -1,0 +1,4250 @@
+[
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611572",
+    "number": "106\n                        ",
+    "question_text": "যদি গড় = 20, মধ্যক = 18 এবং পরিমিত ব্যবধান = 4 হয়, কার্ল পিয়ারসনের বঙ্কিমতার পরিমাপ কত? (If mean = 20, median = 18 and standard deviation = 4, what is the value of Karl Pearson's coefficient of skewness?)",
+    "options": [
+      "0.5",
+      "0.25",
+      "0.75",
+      "1.0"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "পরিসংখ্যান",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "পরিসংখ্যান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয়  —  বিজ্ঞান ইউনিট : ২০২৪-২০২৫ (15-02-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6419",
+    "question_id": "534399",
+    "number": "1\n                        ",
+    "question_text": "নিচের কোনটি a থেকে e বিন্দু পর্যন্ত একটি দোলকের ববের ত্বরণ সবচেয়ে ভালোমতো চিত্রায়িত করে? (Which of the following best illustrates the acceleration of a pendulum bob at points a through e?)",
+    "options": [],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "পর্যায়বৃত্তিক গতি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয়  —  বিজ্ঞান ইউনিট : ২০২৪-২০২৫ (15-02-2025)",
+      "পদার্থবিদ্যা",
+      "পর্যায়বৃত্তিক গতি"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "too_few_options",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় —  প্রযুক্তি ইউনিট শিক্ষাবর্ষ : ২০২৩-২০২৪ (18-05-2024)",
+    "exam_year": "2024",
+    "subcat_id": "6197",
+    "question_id": "451740",
+    "number": "10\n                        ",
+    "question_text": "2aব্যাসার্ধ ও (0,0) কেন্দ্রবিশিষ্ট বৃত্তের পোলার সমীকরণ (The polar equation of a circle having radius2aand centre (0,0) is)",
+    "options": [
+      "r=2a",
+      "2r=a",
+      "r = 2a",
+      "r=2a"
+    ],
+    "correct_answer": "r=2a",
+    "correct_option_index": 0,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় —  প্রযুক্তি ইউনিট শিক্ষাবর্ষ : ২০২৩-২০২৪ (18-05-2024)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় —  প্রযুক্তি ইউনিট শিক্ষাবর্ষ : ২০২৩-২০২৪ (18-05-2024)",
+    "exam_year": "2024",
+    "subcat_id": "6197",
+    "question_id": "451744",
+    "number": "14\n                        ",
+    "question_text": "∫01exxdx=?",
+    "options": [
+      "2e",
+      "2(e - 1)",
+      "2e-1",
+      "1-1e"
+    ],
+    "correct_answer": "2(e - 1)",
+    "correct_option_index": 1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় —  প্রযুক্তি ইউনিট শিক্ষাবর্ষ : ২০২৩-২০২৪ (18-05-2024)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় —  প্রযুক্তি ইউনিট শিক্ষাবর্ষ : ২০২৩-২০২৪ (18-05-2024)",
+    "exam_year": "2024",
+    "subcat_id": "6197",
+    "question_id": "451745",
+    "number": "15\n                        ",
+    "question_text": "2y2- x2= 1 কণিকের উৎকেন্দ্রিকতা (The eccentricity of the conic 2y2- x2= 1 is)",
+    "options": [
+      "32",
+      "3",
+      "32",
+      "3"
+    ],
+    "correct_answer": "3",
+    "correct_option_index": 1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় —  প্রযুক্তি ইউনিট শিক্ষাবর্ষ : ২০২৩-২০২৪ (18-05-2024)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "chittagong-university",
+    "exam_name": "চট্টগ্রাম বিশ্ববিদ্যালয় — A ইউনিট (বিজ্ঞান)(২০২৩-২০২৪) (02-03-2024)",
+    "exam_year": "2024",
+    "subcat_id": "6084",
+    "question_id": "419609",
+    "number": "11\n                        ",
+    "question_text": "BaSO4এর বর্ণ কি?",
+    "options": [
+      "Yellow",
+      "White",
+      "Blue",
+      "Colourless"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন(তৃতীয় অধ্যায়)",
+    "tags": [
+      "চট্টগ্রাম বিশ্ববিদ্যালয়",
+      "চট্টগ্রাম বিশ্ববিদ্যালয় — A ইউনিট (বিজ্ঞান)(২০২৩-২০২৪) (02-03-2024)",
+      "রসায়ন",
+      "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন(তৃতীয় অধ্যায়)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "chittagong-university",
+    "exam_name": "D1-2 ইউনিট : ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4815",
+    "question_id": "111752",
+    "number": "6\n                        ",
+    "question_text": "ফাংশনf(x)=2-xএর ডোমেইন হয় :",
+    "options": [
+      "2,+∞",
+      "-∞,2",
+      "-2,2",
+      "-∞,2"
+    ],
+    "correct_answer": "-∞,2",
+    "correct_option_index": 1,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "চট্টগ্রাম বিশ্ববিদ্যালয়",
+      "D1-2 ইউনিট : ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "chittagong-university",
+    "exam_name": "চট্টগ্রাম বিশ্ববিদ্যালয়  — D ইউনিট-সমাজবিজ্ঞান অনুষদ  —  সেশন :২০১৮-২০১৯",
+    "exam_year": "2019",
+    "subcat_id": "4742",
+    "question_id": "111691",
+    "number": "5\n                        ",
+    "question_text": "∫dx16-9x2=?",
+    "options": [
+      "sin-13x4+k",
+      "cos-13x4+k",
+      "12sin-13x4+k",
+      "34sin-13x4+k"
+    ],
+    "correct_answer": "12sin-13x4+k",
+    "correct_option_index": 2,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "চট্টগ্রাম বিশ্ববিদ্যালয়",
+      "চট্টগ্রাম বিশ্ববিদ্যালয়  — D ইউনিট-সমাজবিজ্ঞান অনুষদ  —  সেশন :২০১৮-২০১৯",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (শিফট-২) শিক্ষাবর্ষ : ২০২৩-২০২৪ (05-03-2024)",
+    "exam_year": "2024",
+    "subcat_id": "6092",
+    "question_id": "421250",
+    "number": "9\n                        ",
+    "question_text": "∫0π4dx1+cos2x=কোনটি?",
+    "options": [
+      "12",
+      "12",
+      "13",
+      "13"
+    ],
+    "correct_answer": "12",
+    "correct_option_index": 1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (শিফট-২) শিক্ষাবর্ষ : ২০২৩-২০২৪ (05-03-2024)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+    "exam_year": "2023",
+    "subcat_id": "5706",
+    "question_id": "271629",
+    "number": "1\n                        ",
+    "question_text": "একটি চাকার ব্যাস 100 সে.মি. হলে, 10 সে.মি. যেতে চাকাটি কত ডিগ্রি ঘুরব?",
+    "options": [
+      "7°11'",
+      "9°13′",
+      "10°27'",
+      "11°27'"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+    "exam_year": "2023",
+    "subcat_id": "5706",
+    "question_id": "271630",
+    "number": "2\n                        ",
+    "question_text": "নিচের কোন বৃত্তটিx2+এবংx2+y2=2byবৃত্তদ্বয়ের ছেদবিন্দু দিয়ে যায় এবং যার কেন্দ্র bx - ay = 2ab রেখার উপর অবস্থিত?",
+    "options": [
+      "x2+y2+3ax+by=0",
+      "x2+y2-3ax+by=0",
+      "x2+y2-3ax-by=0",
+      "x2+y2+3ax-by=0"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+    "exam_year": "2023",
+    "subcat_id": "5706",
+    "question_id": "271631",
+    "number": "3\n                        ",
+    "question_text": "y(x–1)(x–2)-x+3=0বক্ররেখাটি যে বিন্দুতেxঅক্ষকে ছেদ করে, ঐ বিন্দুতে বক্ররেখাটির স্পর্শকের সমীকরণ কোনটি?",
+    "options": [
+      "2x – 2y - 3 = 0",
+      "x – 2y - 3 = 0",
+      "x + 2y + 3 = 0",
+      "x + 2y - 3 = 0"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+    "exam_year": "2023",
+    "subcat_id": "5706",
+    "question_id": "271632",
+    "number": "4\n                        ",
+    "question_text": "y=x–5সরলরেখাটি9x2+16y2=144উপবৃত্তকে স্পর্শ করে। স্পর্শ বিন্দুর স্থানাঙ্ক কত?",
+    "options": [
+      "-165,95",
+      "165,-95",
+      "165,95",
+      "-165,-95"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+    "exam_year": "2023",
+    "subcat_id": "5706",
+    "question_id": "271653",
+    "number": "5\n                        ",
+    "question_text": "∫01sinx244cosxdx=কত?",
+    "options": [
+      "-14In(3+4cosx)+c",
+      "0",
+      "-34In(3+4cosx)+c",
+      "-14Insixx+c"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+    "exam_year": "2023",
+    "subcat_id": "5706",
+    "question_id": "271655",
+    "number": "7\n                        ",
+    "question_text": "∫01exxdx=কত?",
+    "options": [
+      "e - 1",
+      "12(e-1)",
+      "2 (e - 1)",
+      "2 (1 - e)"
+    ],
+    "correct_answer": "2 (e - 1)",
+    "correct_option_index": 2,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+    "exam_year": "2023",
+    "subcat_id": "5706",
+    "question_id": "271658",
+    "number": "10\n                        ",
+    "question_text": "k-এর মান কত হলে, 2x – y - 7 = 0 ও 3x +ky – 5 = 0 রেখা দুটি পরস্পর লম্ব হবে?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "3"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-৩) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-১) শিক্ষাবর্ষ : ২০১৯-২০২০",
+    "exam_year": "2020",
+    "subcat_id": "5292",
+    "question_id": "241141",
+    "number": "12\n                        ",
+    "question_text": "নিচের কোন যৌগটির সক্রিয়তা সর্বাধিক?",
+    "options": [],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "মৌলের পর্যায়বৃত্ত ধর্ম সমূহ",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-১) শিক্ষাবর্ষ : ২০১৯-২০২০",
+      "রসায়ন",
+      "মৌলের পর্যায়বৃত্ত ধর্ম সমূহ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "too_few_options",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় — B ইউনিট (অ-বাণিজ্য) শিক্ষাবর্ষ : ২০১৮-২০১৯",
+    "exam_year": "2019",
+    "subcat_id": "4764",
+    "question_id": "224134",
+    "number": "14\n                        ",
+    "question_text": "Identify",
+    "options": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "correct_answer": "c",
+    "correct_option_index": 2,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় — B ইউনিট (অ-বাণিজ্য) শিক্ষাবর্ষ : ২০১৮-২০১৯",
+      "English",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় — B ইউনিট (অ-বাণিজ্য) শিক্ষাবর্ষ : ২০১৭-২০১৮",
+    "exam_year": "2018",
+    "subcat_id": "4769",
+    "question_id": "224213",
+    "number": "12\n                        ",
+    "question_text": "x=2x সমীকরণে সমাধান সেট নীচের কোনটি ?",
+    "options": [
+      "0",
+      "0±2",
+      "±2",
+      "0"
+    ],
+    "correct_answer": "0±2",
+    "correct_option_index": 1,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় — B ইউনিট (অ-বাণিজ্য) শিক্ষাবর্ষ : ২০১৭-২০১৮",
+      "সাধারণ গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয়  —  A ইউনিট (বিজ্ঞান অনুষদ ও লাইফ এন্ড আর্থ সায়েন্স অনুষদ) ২০২৪-২৫  —  শিফট-২ (22-02-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6431",
+    "question_id": "534961",
+    "number": "2\n                        ",
+    "question_text": "একটি সেকেন্ড দোলকের কার্যকর দৈর্ঘ্য কত?(g = 9.8m /s2)",
+    "options": [
+      "9.93 m",
+      "0.993 m",
+      "0.993 m",
+      "99.3 m"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "পর্যায়বৃত্তিক গতি",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয়  —  A ইউনিট (বিজ্ঞান অনুষদ ও লাইফ এন্ড আর্থ সায়েন্স অনুষদ) ২০২৪-২৫  —  শিফট-২ (22-02-2025)",
+      "পদার্থবিদ্যা",
+      "পর্যায়বৃত্তিক গতি"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "duplicate_options",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয় - A ইউনিট - শিক্ষাবর্ষ : 2014-2015",
+    "exam_year": "2015",
+    "subcat_id": "3371",
+    "question_id": "167265",
+    "number": "4\n                        ",
+    "question_text": "i+-iএর মান কত?",
+    "options": [
+      "2",
+      "1",
+      "০",
+      "2"
+    ],
+    "correct_answer": "2",
+    "correct_option_index": 3,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয় - A ইউনিট - শিক্ষাবর্ষ : 2014-2015",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options",
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : K)",
+    "exam_year": "2024",
+    "subcat_id": "7096",
+    "question_id": "627651",
+    "number": "11\n                        ",
+    "question_text": "কোন ঘড়িটি 'half past five' নির্দেশ করছে?",
+    "options": [],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "Analytical Ability",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : K)",
+      "Analytical Ability"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "too_few_options",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : K)",
+    "exam_year": "2024",
+    "subcat_id": "7096",
+    "question_id": "627652",
+    "number": "12\n                        ",
+    "question_text": "ধারায় পরের ছবি কোনটি হবে?",
+    "options": [],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "Analytical Ability",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০২৩-২৪ (সেট : K)",
+      "Analytical Ability"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "too_few_options",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০২১-২২ (সেট : A)",
+    "exam_year": "2022",
+    "subcat_id": "7101",
+    "question_id": "627984",
+    "number": "9\n                        ",
+    "question_text": "23কত ?",
+    "options": [
+      "1004",
+      "1005",
+      "1006",
+      "1007"
+    ],
+    "correct_answer": "1006",
+    "correct_option_index": 2,
+    "subject": "Analytical Ability",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০২১-২২ (সেট : A)",
+      "Analytical Ability"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৯-২০ (সেট : A)",
+    "exam_year": "2020",
+    "subcat_id": "6119",
+    "question_id": "426018",
+    "number": "2\n                        ",
+    "question_text": "Z2A3,",
+    "options": [
+      "V64E363",
+      "U64E363",
+      "V32E243",
+      "U32E243"
+    ],
+    "correct_answer": "V32E243",
+    "correct_option_index": 2,
+    "subject": "বুদ্ধিমত্তা",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৯-২০ (সেট : A)",
+      "বুদ্ধিমত্তা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৬-১৭ (সেট : ৩)",
+    "exam_year": "2017",
+    "subcat_id": "7114",
+    "question_id": "628608",
+    "number": "10\n                        ",
+    "question_text": "900 এর 33% =?",
+    "options": [
+      "250",
+      "231",
+      "297",
+      "3210"
+    ],
+    "correct_answer": "297",
+    "correct_option_index": 2,
+    "subject": "Analytical Ability",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৬-১৭ (সেট : ৩)",
+      "Analytical Ability"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহানঙ্গীরনগর বিশ্ববিদ্যালয় - B ইউনিট (সমাজবিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৬ - ১৭ (সেট : ১)",
+    "exam_year": "2017",
+    "subcat_id": "3406",
+    "question_id": "174890",
+    "number": "15\n                        ",
+    "question_text": "কোনো বর্গের পরিসীমা 20 মিটার হলে, বর্গটির ক্ষেত্রফল",
+    "options": [
+      "16 মিটার",
+      "16 মিটার",
+      "25 মিটার",
+      "25 বর্গমিটার"
+    ],
+    "correct_answer": "25 বর্গমিটার",
+    "correct_option_index": 3,
+    "subject": "ত্রিভুজের ক্ষেত্রফল",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহানঙ্গীরনগর বিশ্ববিদ্যালয় - B ইউনিট (সমাজবিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৬ - ১৭ (সেট : ১)",
+      "উচ্চতর গণিত",
+      "ত্রিভুজের ক্ষেত্রফল"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৪-১৫ (সেট : ৩/৪)",
+    "exam_year": "2015",
+    "subcat_id": "7116",
+    "question_id": "628891",
+    "number": "6\n                        ",
+    "question_text": "1 এর 250% কত ?",
+    "options": [
+      "1/250",
+      "1/25",
+      "25",
+      "2.5"
+    ],
+    "correct_answer": "2.5",
+    "correct_option_index": 3,
+    "subject": "Analytical Ability",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৪-১৫ (সেট : ৩/৪)",
+      "Analytical Ability"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৪-১৫ (সেট : ৩/৪)",
+    "exam_year": "2015",
+    "subcat_id": "7116",
+    "question_id": "628900",
+    "number": "15\n                        ",
+    "question_text": "(0.01×1)2=?",
+    "options": [
+      "0.001",
+      "0.1",
+      "0.01",
+      "0.0001"
+    ],
+    "correct_answer": "0.0001",
+    "correct_option_index": 3,
+    "subject": "Analytical Ability",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - D ইউনিট (জীববিজ্ঞান অনুষদ) শিক্ষাবর্ষ : ২০১৪-১৫ (সেট : ৩/৪)",
+      "Analytical Ability"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট",
+    "exam_year": "2016",
+    "subcat_id": "3405",
+    "question_id": "174846",
+    "number": "6\n                        ",
+    "question_text": "একটি বৃত্তের কেন্দ্র (4, ─5); বৃত্তটি (7, 2) বিন্দুগামী, বৃত্তটি সমীকরণ কোনটি?",
+    "options": [
+      "(x-4)2+(y-5)2=-18",
+      "(x+4)2+(y-5)2=-58",
+      "(x-4)2+(y-5)2=-18",
+      "(x-4)2+(y+5)2=58"
+    ],
+    "correct_answer": "(x-4)2+(y+5)2=58",
+    "correct_option_index": 3,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "A ইউনিট",
+    "exam_year": "2014",
+    "subcat_id": "3422",
+    "question_id": "178815",
+    "number": "6\n                        ",
+    "question_text": "∫1/3√xdx=?",
+    "options": [
+      "3/2√x",
+      "2/√3√x",
+      "2/3√x",
+      "-2/√3√x"
+    ],
+    "correct_answer": "2/3√x",
+    "correct_option_index": 2,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "A ইউনিট",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "ক- ইউনিট [গাণিতিক ও পদার্থ বিষয়ক অনুষদ]",
+    "exam_year": "2009",
+    "subcat_id": "4751",
+    "question_id": "183741",
+    "number": "6\n                        ",
+    "question_text": "∫lnxdx=?",
+    "options": [
+      "x ln x",
+      "ln x-x",
+      "x ln x-x",
+      "x-ln x"
+    ],
+    "correct_answer": "x ln x-x",
+    "correct_option_index": 2,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "ক- ইউনিট [গাণিতিক ও পদার্থ বিষয়ক অনুষদ]",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "ক- ইউনিট [গণিত বিভাগ]",
+    "exam_year": "2009",
+    "subcat_id": "4750",
+    "question_id": "182471",
+    "number": "15\n                        ",
+    "question_text": "X = {x:x < 0} হলে X এর উর্ধ্বসীমা-",
+    "options": [
+      "1",
+      "2",
+      "",
+      "-1"
+    ],
+    "correct_answer": "",
+    "correct_option_index": 2,
+    "subject": "দুইটি সরলরেখার ছেদবিন্দু",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "ক- ইউনিট [গণিত বিভাগ]",
+      "উচ্চতর গণিত",
+      "দুইটি সরলরেখার ছেদবিন্দু"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer"
+    ]
+  },
+  {
+    "university": "barishal-university",
+    "exam_name": "ক ইউনিট",
+    "exam_year": "2017",
+    "subcat_id": "3421",
+    "question_id": "97856",
+    "number": "12\n                        ",
+    "question_text": "|2x-5|<3 অসমতাটির সমাধান কোনটি?",
+    "options": [
+      "3",
+      "1",
+      "1",
+      "2>x>1"
+    ],
+    "correct_answer": "1",
+    "correct_option_index": 1,
+    "subject": "বাস্তব সংখ্যা ও অসমতা",
+    "tags": [
+      "বরিশাল বিশ্ববিদ্যালয়",
+      "ক ইউনিট",
+      "উচ্চতর গণিত",
+      "বাস্তব সংখ্যা ও অসমতা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "barishal-university",
+    "exam_name": "ক ইউনিট",
+    "exam_year": "2017",
+    "subcat_id": "3421",
+    "question_id": "97859",
+    "number": "15\n                        ",
+    "question_text": "2i এর বর্গমূল-",
+    "options": [
+      "±(1+i)",
+      "1-i",
+      "-1",
+      "-1+i"
+    ],
+    "correct_answer": "±(1+i)",
+    "correct_option_index": 0,
+    "subject": "জটিল সংখ্যা (Complex Numbers)",
+    "tags": [
+      "বরিশাল বিশ্ববিদ্যালয়",
+      "ক ইউনিট",
+      "উচ্চতর গণিত",
+      "জটিল সংখ্যা (Complex Numbers)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - E ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০১৪-২০১৫",
+    "exam_year": "2015",
+    "subcat_id": "4621",
+    "question_id": "197786",
+    "number": "5\n                        ",
+    "question_text": "-7",
+    "options": [
+      "|x+4|<3",
+      "|x+8|<3",
+      "|x-6|<3",
+      "|x-8|<3"
+    ],
+    "correct_answer": "|x+4|<3",
+    "correct_option_index": 0,
+    "subject": "বাস্তব সংখ্যা ও অসমতা",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - E ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০১৪-২০১৫",
+      "উচ্চতর গণিত",
+      "বাস্তব সংখ্যা ও অসমতা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - E ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০১৪-২০১৫",
+    "exam_year": "2015",
+    "subcat_id": "4621",
+    "question_id": "197968",
+    "number": "8\n                        ",
+    "question_text": "n পূর্ণ সংখ্যা হলেsin{nπ+(-1)nπ4}এর মান হবে-",
+    "options": [
+      "12",
+      "13",
+      "12",
+      "1"
+    ],
+    "correct_answer": "12",
+    "correct_option_index": 2,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - E ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০১৪-২০১৫",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - E ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০১৪-২০১৫",
+    "exam_year": "2015",
+    "subcat_id": "4621",
+    "question_id": "197974",
+    "number": "14\n                        ",
+    "question_text": "(-1, 3) এবং (4, -2) বিন্দুগামী সরলরেখার অক্ষ দুটির মধ্যবর্তী খন্ডিত অংশের দৈর্ঘ্য হবে-",
+    "options": [
+      "2",
+      "2",
+      "22",
+      "কোনটিই নয়"
+    ],
+    "correct_answer": "22",
+    "correct_option_index": 2,
+    "subject": "বিভিন্ন আকারের সরলরেখার সমীকরণ",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - E ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০১৪-২০১৫",
+      "উচ্চতর গণিত",
+      "বিভিন্ন আকারের সরলরেখার সমীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - E ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০১৪-২০১৫",
+    "exam_year": "2015",
+    "subcat_id": "4621",
+    "question_id": "197975",
+    "number": "15\n                        ",
+    "question_text": "(1, -1) বিন্দু থেকে2x2+2y2-x+3y+1=0বৃত্তে স্পর্শ কের দৈর্ঘ্য হবে-",
+    "options": [
+      "12",
+      "12",
+      "2",
+      "2"
+    ],
+    "correct_answer": "12",
+    "correct_option_index": 1,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - E ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০১৪-২০১৫",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৯ - ২০১০",
+    "exam_year": "2010",
+    "subcat_id": "3506",
+    "question_id": "198272",
+    "number": "12\n                        ",
+    "question_text": "এক গুচ্ছ সমতলীয় বল সুস্থিত থাকলে ঐ তলের যে কোন বিন্দুর চারদিকে এদের ভ্রামকের বীজগণিতীয় সমষ্টি কত হবে?",
+    "options": [
+      "1",
+      "অসীম",
+      "",
+      "অনির্ণেয়"
+    ],
+    "correct_answer": "",
+    "correct_option_index": 2,
+    "subject": "দুইটি সরলরেখার ছেদবিন্দু",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৯ - ২০১০",
+      "উচ্চতর গণিত",
+      "দুইটি সরলরেখার ছেদবিন্দু"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৯ - ২০১০",
+    "exam_year": "2010",
+    "subcat_id": "3506",
+    "question_id": "198275",
+    "number": "15\n                        ",
+    "question_text": "∫1ex+e-xdx=?",
+    "options": [
+      "sin-1x+c",
+      "tan-1x+c",
+      "sin-1ex+c",
+      "tan-1ex+c"
+    ],
+    "correct_answer": "tan-1ex+c",
+    "correct_option_index": 3,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৯ - ২০১০",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ - ২০০৮ -২০০৯",
+    "exam_year": "2009",
+    "subcat_id": "3954",
+    "question_id": "195568",
+    "number": "7\n                        ",
+    "question_text": "∫x2cosx3dx=?",
+    "options": [
+      "sinx3+C",
+      "1/3sinx2+C",
+      "sinx3+C",
+      "1/3sinx3+C"
+    ],
+    "correct_answer": "1/3sinx3+C",
+    "correct_option_index": 3,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ - ২০০৮ -২০০৯",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options",
+      "short_question"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৭-২০০৮",
+    "exam_year": "2008",
+    "subcat_id": "3958",
+    "question_id": "196082",
+    "number": "5\n                        ",
+    "question_text": "A steel mill produces 180 tons of steel per month Raw materials cost for each ton of production is Tk. 1200. Other expenses of that mill are Tk. 90,000 in each month what  should be the selling price of each ton of steel in order to make 10% profit?",
+    "options": [
+      "1870",
+      "1845",
+      "1842",
+      "18145",
+      "1845"
+    ],
+    "correct_answer": "1870",
+    "correct_option_index": 0,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৭-২০০৮",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৬ -২০০৭",
+    "exam_year": "2007",
+    "subcat_id": "3962",
+    "question_id": "195634",
+    "number": "1\n                        ",
+    "question_text": "limx→0?",
+    "options": [
+      "",
+      "1",
+      "±1",
+      ">1"
+    ],
+    "correct_answer": "1",
+    "correct_option_index": 1,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৬ -২০০৭",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৬ -২০০৭",
+    "exam_year": "2007",
+    "subcat_id": "3962",
+    "question_id": "196136",
+    "number": "6\n                        ",
+    "question_text": "ddx(ax)=?",
+    "options": [
+      "ex",
+      "ax",
+      "axlna",
+      "axln(x+1)"
+    ],
+    "correct_answer": "axlna",
+    "correct_option_index": 2,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৬ -২০০৭",
+      "উচ্চতর গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৬ -২০০৭",
+    "exam_year": "2007",
+    "subcat_id": "3962",
+    "question_id": "196365",
+    "number": "13\n                        ",
+    "question_text": "-646এর সম্ভাব্য মান কত ?",
+    "options": [
+      "±2i",
+      "±(3±i2)",
+      "±3i",
+      "±2i"
+    ],
+    "correct_answer": "±2i",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৬ -২০০৭",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৬ -২০০৭",
+    "exam_year": "2007",
+    "subcat_id": "3962",
+    "question_id": "196367",
+    "number": "14\n                        ",
+    "question_text": "∫13xdx=?",
+    "options": [
+      "23x",
+      "32x",
+      "3x3",
+      "2x3"
+    ],
+    "correct_answer": "23x",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) - শিক্ষাবর্ষ : ২০০৬ -২০০৭",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "begum-rokeya-university",
+    "exam_name": "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "3537",
+    "question_id": "87326",
+    "number": "3\n                        ",
+    "question_text": "এক মেগাবিট = ?",
+    "options": [
+      "10,00,000 বিট",
+      "10,48,576 বিট",
+      "1,00,00,000 বিট",
+      "1,00,48,576 বিট"
+    ],
+    "correct_answer": "10,48,576 বিট",
+    "correct_option_index": 1,
+    "subject": "পরিসংখ্যান",
+    "tags": [
+      "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+      "বেগম রোকেয়া বিশ্ববিদ্যালয় — E ইউনিট (প্রকৌশল ও প্রযুক্তি)- শিক্ষাবর্ষ: ২০১৭-২০১৮",
+      "পরিসংখ্যান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "mbstu",
+    "exam_name": "C ইউনিট",
+    "exam_year": "2012",
+    "subcat_id": "4201",
+    "question_id": "205642",
+    "number": "8\n                        ",
+    "question_text": "cos°75এর মান -",
+    "options": [
+      "√3-12√2",
+      "√32√2",
+      "-√32√2",
+      "√3+12√2"
+    ],
+    "correct_answer": "√3-12√2",
+    "correct_option_index": 0,
+    "subject": "ক্রিকোণমিতিক অনুপাত",
+    "tags": [
+      "মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "C ইউনিট",
+      "উচ্চতর গণিত",
+      "ক্রিকোণমিতিক অনুপাত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "ইউনিট : D",
+    "exam_year": "2017",
+    "subcat_id": "4713",
+    "question_id": "144687",
+    "number": "1\n                        ",
+    "question_text": "→A=3ˆi-ˆj+3ˆkএবংB→=i^-4j^+2k^হলেA→বরাবরB→এর লম্ব অভিক্ষেপ নির্ণয় কর ?",
+    "options": [
+      "19",
+      "193",
+      "1319",
+      "1319"
+    ],
+    "correct_answer": "1319",
+    "correct_option_index": 3,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "ইউনিট : D",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2008",
+    "subcat_id": "4296",
+    "question_id": "144713",
+    "number": "8\n                        ",
+    "question_text": "জটিল সংখ্যা3-5iএর পোলার আকৃতি হল=?",
+    "options": [
+      "পোলার আকৃতি≡(√34,tan-1(-53))"
+    ],
+    "correct_answer": "পোলার আকৃতি≡(√34,tan-1(-53))",
+    "correct_option_index": 0,
+    "subject": "জটিল সংখ্যা (Complex Numbers)",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "উচ্চতর গণিত",
+      "জটিল সংখ্যা (Complex Numbers)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2008",
+    "subcat_id": "4296",
+    "question_id": "144716",
+    "number": "9\n                        ",
+    "question_text": "y=e√xহলেdydx=?",
+    "options": [
+      "e√x2√x",
+      "ex2√x",
+      "e√x2x",
+      "ex√2x"
+    ],
+    "correct_answer": "e√x2√x",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2008",
+    "subcat_id": "4296",
+    "question_id": "144719",
+    "number": "12\n                        ",
+    "question_text": "fx=1-xহলেdfxdx=?",
+    "options": [
+      "141-xx",
+      "12x1-x",
+      "18x-1",
+      "18x-1"
+    ],
+    "correct_answer": "141-xx",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "bsmrstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2012",
+    "subcat_id": "4438",
+    "question_id": "95379",
+    "number": "2\n                        ",
+    "question_text": "f(x)=√9-x2ফাংশনটির ডোমেন কত?",
+    "options": [
+      "-3",
+      "-3≤ x<3",
+      "-3",
+      "-3≤ x≤3"
+    ],
+    "correct_answer": "-3≤ x≤3",
+    "correct_option_index": 3,
+    "subject": "ফাংশনের ডোমেন ও রেঞ্জ",
+    "tags": [
+      "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "উচ্চতর গণিত",
+      "ফাংশনের ডোমেন ও রেঞ্জ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "bsmrstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2012",
+    "subcat_id": "4438",
+    "question_id": "95389",
+    "number": "12\n                        ",
+    "question_text": "A এর মানের জন্য cosA sin(A-π6)- এর মান বৃহত্তম হয়?",
+    "options": [
+      "π/2",
+      "π/3",
+      "π/3",
+      "π/12"
+    ],
+    "correct_answer": "π/3",
+    "correct_option_index": 1,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100004",
+    "number": "5\n                        ",
+    "question_text": "f(x)=√x−1,(x≥1),g(x)=x2+2f(x)=x-1,(x≥1),g(x)=x2+2হলে,(gof−1)(x)(gof-1)(x)এবং(gof)−1(x)(gof)-1(x)নির্ণয় কর।",
+    "options": [
+      "= x-1"
+    ],
+    "correct_answer": "= x-1",
+    "correct_option_index": 0,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100006",
+    "number": "7\n                        ",
+    "question_text": "যদি  f(x) =11+x11+xহয়, f(f(f(x))) এর মান বের কর।",
+    "options": [
+      "2+x3+2x2+x3+2x"
+    ],
+    "correct_answer": "2+x3+2x2+x3+2x",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100007",
+    "number": "8\n                        ",
+    "question_text": "যদিA−1=∣∣\n∣∣57173727∣∣\n∣∣A-1=57173727হয়, তাহলেA2+2AA2+2Aএর মান নির্ণয় কর।",
+    "options": [
+      "A2+2A=[11−9−2738]A2+2A=11-9-2738"
+    ],
+    "correct_answer": "A2+2A=[11−9−2738]A2+2A=11-9-2738",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100009",
+    "number": "10\n                        ",
+    "question_text": "-i  এর ঘনমূল তিনটির যোগফল নির্ণয় কর।",
+    "options": [
+      "0"
+    ],
+    "correct_answer": "0",
+    "correct_option_index": 0,
+    "subject": "বহুপদী ও বহুপদী সমীকরণ (Polynomials and Polynomials Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "বহুপদী ও বহুপদী সমীকরণ (Polynomials and Polynomials Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100010",
+    "number": "11\n                        ",
+    "question_text": "ax2+bx+c=0ax2+bx+c=0সমীকরণের মূলদ্বয়α,βα,βএবংbx2+cx+a=0bx2+cx+a=0সমীকরণের মূলদ্বয়γ,δγ,δহলে, কোন শর্তেαβ=γδαβ=γδহবে, বের কর।",
+    "options": [
+      "b=c"
+    ],
+    "correct_answer": "b=c",
+    "correct_option_index": 0,
+    "subject": "বহুপদী ও বহুপদী সমীকরণ (Polynomials and Polynomials Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "বহুপদী ও বহুপদী সমীকরণ (Polynomials and Polynomials Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100011",
+    "number": "12\n                        ",
+    "question_text": "পাশের অসীম ধারাটির যোগফল নির্ণয় কর:13+1.33.6+1.3.5.73.6.9.121.3.5.7.93.6.9.12.15+...∞13+1.33.6+1.3.5.73.6.9.121.3.5.7.93.6.9.12.15+...∞",
+    "options": [
+      "=√3−1=3-1"
+    ],
+    "correct_answer": "=√3−1=3-1",
+    "correct_option_index": 0,
+    "subject": "বাস্তব সংখ্যা ও অসমতা",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "বাস্তব সংখ্যা ও অসমতা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100012",
+    "number": "13\n                        ",
+    "question_text": "n∈Nএবং∣∣x∣∣<1n∈ℕএবং|x|<1হলে, দেখাও যে,(1+x)n1−x(1+x)n1-xএর বিস্তৃতিতেxnxnএর সহগ2n2n",
+    "options": [
+      "=2n=2n"
+    ],
+    "correct_answer": "=2n=2n",
+    "correct_option_index": 0,
+    "subject": "দ্বিপদী বিস্তৃতি  (Binomial Expansions)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "দ্বিপদী বিস্তৃতি  (Binomial Expansions)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100013",
+    "number": "14\n                        ",
+    "question_text": "sin−12x+sin−1xsin-12x+sin-1x",
+    "options": [
+      "x=√328=√2114x=328=2114"
+    ],
+    "correct_answer": "x=√328=√2114x=328=2114",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100014",
+    "number": "15\n                        ",
+    "question_text": "A(1,2) শীর্ষশিষ্ট বর্গের একটি কর্ণ 3x -4y-6=0 হলে, A  বিন্দুগামী বাহুদ্বয়ের সমীকরণ নির্ণয় কর।",
+    "options": [
+      "=7,−17=7,-17"
+    ],
+    "correct_answer": "=7,−17=7,-17",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99172",
+    "number": "1\n                        ",
+    "question_text": "0",
+    "options": [
+      "0"
+    ],
+    "correct_answer": "0",
+    "correct_option_index": 0,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options",
+      "short_question"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99176",
+    "number": "3\n                        ",
+    "question_text": "যদি cosα+secα=52হয়, তাহলেcosnα+secnαএর মান নির্ণয় কর।",
+    "options": [
+      "2n+2-n"
+    ],
+    "correct_answer": "2n+2-n",
+    "correct_option_index": 0,
+    "subject": "ক্রিকোণমিতিক অনুপাত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "ক্রিকোণমিতিক অনুপাত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99178",
+    "number": "4\n                        ",
+    "question_text": "(x2-2+1x2)6এর বিস্তৃতিতে ধ্রুবক পদের মান নির্ণয় কর।",
+    "options": [
+      "924"
+    ],
+    "correct_answer": "924",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99179",
+    "number": "5\n                        ",
+    "question_text": "ভেক্টর পদ্ধতিতে 3ˆi+ˆj+ˆkএবং2ˆi+2ˆj-ˆkএর ছেদ বিন্দুগামী সরলরেখার সমীকরণ নির্ণয় কর।",
+    "options": [
+      "t"
+    ],
+    "correct_answer": "t",
+    "correct_option_index": 0,
+    "subject": "বিভিন্ন আকারের সরলরেখার সমীকরণ",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "বিভিন্ন আকারের সরলরেখার সমীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99180",
+    "number": "6\n                        ",
+    "question_text": "যদিreiθ=3+2i2+3i+1+5i1-2i, তবে r ওθএর মান নির্ণয় কর।",
+    "options": [
+      "3√5এবংπ-tan-12219"
+    ],
+    "correct_answer": "3√5এবংπ-tan-12219",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99181",
+    "number": "7\n                        ",
+    "question_text": "এরূপ দুইটি বিত্তের সমীকরণ নির্ণয় কর যাদের প্রত্যেকটির কেন্দ্র (3,4) এবং যারাx2+Y2=9বৃত্তকে স্পর্শ করে।",
+    "options": [
+      "0 এবং 0"
+    ],
+    "correct_answer": "0 এবং 0",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99182",
+    "number": "8\n                        ",
+    "question_text": "সমাধান কর:cos-1x-sin-1x=sin-1(1-x)।",
+    "options": [
+      "নির্ণেয় সমাধান: x=0,12"
+    ],
+    "correct_answer": "নির্ণেয় সমাধান: x=0,12",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99184",
+    "number": "10\n                        ",
+    "question_text": "একটি উপবৃত্তির সমীকরন নির্ণয় কর যার একটি উপকেন্দ্রের স্থানাংক (1,-1), অনুরুপ দিকাক্ষ x-y-4=0 এবং যা (1,1) বিন্দু দিয়ে অতিক্রম করে।",
+    "options": [
+      "3(x2+y2)+2xy-8=0"
+    ],
+    "correct_answer": "3(x2+y2)+2xy-8=0",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99185",
+    "number": "11\n                        ",
+    "question_text": "যদিa+b+c=0এবং|a|=3,|b|=5,|c|=7হয়, তাহলে a এবং b এর মধ্যবর্তী কোণ নির্ণয় কর।",
+    "options": [
+      "60°"
+    ],
+    "correct_answer": "60°",
+    "correct_option_index": 0,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99186",
+    "number": "12\n                        ",
+    "question_text": "O কেন্দ্র বিশিষ্ট একটি বৃত্তের ব্যাসার্ধ 10cm এবং AB  চাপের দৈর্ঘ্য 14cm । কোণ",
+    "options": [
+      "20.7275 বর্গ সে.মি."
+    ],
+    "correct_answer": "20.7275 বর্গ সে.মি.",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99188",
+    "number": "14\n                        ",
+    "question_text": "অসীম ধারাটির যোগফল নির্ণয় কর :1+34+3.54.8+3.5.74.8.12+...∞।",
+    "options": [
+      "2√2"
+    ],
+    "correct_answer": "2√2",
+    "correct_option_index": 0,
+    "subject": "বাস্তব সংখ্যা ও অসমতা",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "বাস্তব সংখ্যা ও অসমতা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4108",
+    "question_id": "99189",
+    "number": "15\n                        ",
+    "question_text": "A(5,3), B(-2,0) এবং C(1,1) বিন্দু তিনটি একটি বৃত্তের ওপর অবস্থিত হলে বৃত্তের কেন্দ্র ও ত্রিভুজ ABC এর ভরকেন্দ্রের মধ্যবর্তী দুরুত্ব নির্ণয় কর।",
+    "options": [
+      "√64373একক"
+    ],
+    "correct_answer": "√64373একক",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99175",
+    "number": "1\n                        ",
+    "question_text": "সমাধান করঃ1|5x+2|≥51|5x+2|≥5",
+    "options": [
+      "{x∈R:-75≤x≤35এবংx≠-25}"
+    ],
+    "correct_answer": "{x∈R:-75≤x≤35এবংx≠-25}",
+    "correct_option_index": 0,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99193",
+    "number": "2\n                        ",
+    "question_text": "y=x2-4x+7ফাংশনের স্কেচ অংকন কর। একই সাথে ফাংশনের ডোমেন, রেঞ্জ, সিমেট্রিক লাইন সর্বোচ্চ/সর্বনিম্ন মান, এবং X-অক্ষ ও Y-অক্ষ হতে কর্তিত অংশ বের কর।",
+    "options": [
+      "ymax=∞;ymin=3"
+    ],
+    "correct_answer": "ymax=∞;ymin=3",
+    "correct_option_index": 0,
+    "subject": "ফাংশনের ডোমেন ও রেঞ্জ",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "ফাংশনের ডোমেন ও রেঞ্জ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99195",
+    "number": "3\n                        ",
+    "question_text": "1+2i1-3iকেr(cosθ+isinθ)আকারে প্রকাশ কর।",
+    "options": [
+      "1√2(cos3π4+isin3π4)"
+    ],
+    "correct_answer": "1√2(cos3π4+isin3π4)",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99205",
+    "number": "6\n                        ",
+    "question_text": "একটি সমবৃত্তভুমিক কোণকের মধ্যে একটি খাড়া বৃত্তাকার সিলিন্ডার স্থাপন করা আছে। সিলিন্ডারের বক্রতল বৃহত্তম হতে হলে দেখাও যে, সিলিন্ডারের ব্যাসার্ধ কোণকের ভূমির ব্যাসার্ধের অর্ধেক।",
+    "options": [
+      "r2"
+    ],
+    "correct_answer": "r2",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99206",
+    "number": "7\n                        ",
+    "question_text": "(2x2+Px3)10এর বিস্তৃতিতেx5এবংx15এর সহগ এর সমান P হলে এর ধনাত্মক মান নির্ণয় কর।",
+    "options": [
+      "1√3[p>0]"
+    ],
+    "correct_answer": "1√3[p>0]",
+    "correct_option_index": 0,
+    "subject": "দ্বিপদী বিস্তৃতি  (Binomial Expansions)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "দ্বিপদী বিস্তৃতি  (Binomial Expansions)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99207",
+    "number": "8\n                        ",
+    "question_text": "একটি বৃত্তের সমীকরণ নির্ণয় কর যা x-অক্ষকে স্পর্শ করে এবং (1, 1) বিন্দু দিয়ে যায় এবং যার কেন্দ্র প্রথম চতুর্ভাগেx+y=3রেখার উপর অবস্থিত।",
+    "options": [
+      "x2+y2-4x-2y+4=0"
+    ],
+    "correct_answer": "x2+y2-4x-2y+4=0",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99209",
+    "number": "10\n                        ",
+    "question_text": "দুটি রেখা (-1, 2) বিন্দু দিয়ে যায় এবং তারা  3x-y+7=0 রেখার সাথে45°কোণ উৎপন্ন করে। রেখা দুটির সমীকরণ নির্ণয় কর এবং তাদের স্মীকরন হতে দেখাও যে, তারা পরস্পর লম্বভাবে অবস্থান করে।",
+    "options": [
+      "-1"
+    ],
+    "correct_answer": "-1",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99210",
+    "number": "11\n                        ",
+    "question_text": "দুজন  ছাত্রকে একটি দ্বিঘাত সমীকরণ সমাধান করতে বলা হল। একজন ছাত্র সমীকরণের x এর সহগটি ভুল লিখে 2 এবং 6 এই বীজ দুটি পেল। অপর ছাত্র ধ্রুবক পদটি ভুল লিখে 2 এবং -9 এই বীজ দিটি পেল। নির্ভুল সমীকরণের বীজগুলো নির্ণয় কর।",
+    "options": [
+      "x=-4, -3"
+    ],
+    "correct_answer": "x=-4, -3",
+    "correct_option_index": 0,
+    "subject": "বহুপদী ও বহুপদী সমীকরণ (Polynomials and Polynomials Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "বহুপদী ও বহুপদী সমীকরণ (Polynomials and Polynomials Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99211",
+    "number": "12\n                        ",
+    "question_text": "tanθ+tan(π3+θ)+tan(2π3+θ)কেtan3θএর মাধ্যমে প্রকাশ কর।",
+    "options": [
+      "3tan3θ"
+    ],
+    "correct_answer": "3tan3θ",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99212",
+    "number": "13\n                        ",
+    "question_text": "যদি y=f(x) এবংx=1zহয়, তবে দেখাও যে,d2fdx2=z4d2ydz2+2z3dydz",
+    "options": [
+      "z4d2ydz2+2z3dydz"
+    ],
+    "correct_answer": "z4d2ydz2+2z3dydz",
+    "correct_option_index": 0,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99213",
+    "number": "14\n                        ",
+    "question_text": "একটি পাত্রে নয়টি বল আছে, যার মধ্যে দুইটি লাল, তিনটি নীল এবং চারটি কালো। তিনটি বল পাত্র থেকে দৈবভাবে নেওয়া হল। (ক) বল তিনটি ভিন্ন রংয়ের এবং (খ) বল তিনটি একই রংয়ের হওয়ার সম্ভাবনা কত?",
+    "options": [
+      "(ক)27(খ)584"
+    ],
+    "correct_answer": "(ক)27(খ)584",
+    "correct_option_index": 0,
+    "subject": "বিস্তার পরিমাপ ও সম্ভাবনা (Measures of Dispersions and Probability)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "বিস্তার পরিমাপ ও সম্ভাবনা (Measures of Dispersions and Probability)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99228",
+    "number": "2\n                        ",
+    "question_text": "ধারার সমষ্টি নির্ণয় কর:1+13+13",
+    "options": [
+      "3"
+    ],
+    "correct_answer": "3",
+    "correct_option_index": 0,
+    "subject": "বাস্তব সংখ্যা ও অসমতা",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "বাস্তব সংখ্যা ও অসমতা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99229",
+    "number": "3\n                        ",
+    "question_text": "1+x+x27এর বিস্তৃতিতেx2এর সহগ নির্ণয় কর।",
+    "options": [
+      "28"
+    ],
+    "correct_answer": "28",
+    "correct_option_index": 0,
+    "subject": "দ্বিপদী বিস্তৃতি  (Binomial Expansions)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "দ্বিপদী বিস্তৃতি  (Binomial Expansions)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99230",
+    "number": "4\n                        ",
+    "question_text": "P এবং Q(P>Q) মানের  দুটি বলαকোণে ক্রিয়ারত। এদের অবস্থান বিনিময় করলে লব্ধিθকোণে ঘুরে যায়। প্রমান কর যে,tanθ2=P-QP+Qtanα2",
+    "options": [
+      "tanθ2=P-QP+Qtanα2"
+    ],
+    "correct_answer": "tanθ2=P-QP+Qtanα2",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99231",
+    "number": "5\n                        ",
+    "question_text": "একটি ট্রেন সরল রেলপথে ২ কি.মি ব্যবধানে দুইটি স্টেশনে ট্রেনটির গতিপথের ১ম অংশটির ত্বরন ২য় অংশটির ত্বরনের দ্বিগুণ । এক স্টেশন থেকে অন্য স্টেশন যেতে কত সময় লাগবে ?",
+    "options": [
+      "6s"
+    ],
+    "correct_answer": "6s",
+    "correct_option_index": 0,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99232",
+    "number": "6\n                        ",
+    "question_text": "12 একক দৈর্ঘ  ও 5 একক প্রস্থ বিশিষ্ট আয়তক্ষেত্রের একটি কর্ণের পাশে দুটি বৃত্ত রাখলে তাদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত ?",
+    "options": [
+      "8"
+    ],
+    "correct_answer": "8",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99233",
+    "number": "7\n                        ",
+    "question_text": "প্রমাণ কর যে,16cos2π15cos4π15cos8π15cos14π15=1",
+    "options": [
+      "16cos2π15cos4π15cos8π15cos14π15=1"
+    ],
+    "correct_answer": "16cos2π15cos4π15cos8π15cos14π15=1",
+    "correct_option_index": 0,
+    "subject": "ক্রিকোণমিতিক অনুপাত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "ক্রিকোণমিতিক অনুপাত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99238",
+    "number": "8\n                        ",
+    "question_text": "একটি বাক্সে সমাকৃতির 8টি লাল ও 3টি কালো বল আছে । আরেকটি বাক্সে 10টি লাল ও 2টি কালো বল আছে । একটি বাক্স লটারির মাধ্যমে নির্বাচিত করে তা হতে যদি একটি বল তোলা হয় এবং তা যদি লাল হয় তাহলে প্রথম বাক্সটি নির্বাচিত হওয়ার সম্ভাবনা কত ?",
+    "options": [
+      "0.2466"
+    ],
+    "correct_answer": "0.2466",
+    "correct_option_index": 0,
+    "subject": "বিস্তার পরিমাপ ও সম্ভাবনা (Measures of Dispersions and Probability)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "বিস্তার পরিমাপ ও সম্ভাবনা (Measures of Dispersions and Probability)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99239",
+    "number": "9\n                        ",
+    "question_text": "4 জন বিজ্ঞান ও 3 জন কলা বিভাগের ছাত্র রয়েয়ে । বিজ্ঞানের ছাত্রের সংখ্যা গরিষ্ঠতা দিয়ে 5 জনের দল গঠন করলে তা কত ভাবে করা যাবে ?",
+    "options": [
+      "15 ভাবে"
+    ],
+    "correct_answer": "15 ভাবে",
+    "correct_option_index": 0,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99240",
+    "number": "10\n                        ",
+    "question_text": "যোগজীকরণ নির্ণয় কর:∫x2-1x4+x2+1dx",
+    "options": [
+      "12lnx2-x+1x2+x+1+C"
+    ],
+    "correct_answer": "12lnx2-x+1x2+x+1+C",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99241",
+    "number": "11\n                        ",
+    "question_text": "যোগজীকরণ নির্ণয় কর:∫dxcosx+sinx",
+    "options": [
+      "12lntanx2-2-1tanx2+2-1+C"
+    ],
+    "correct_answer": "12lntanx2-2-1tanx2+2-1+C",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99242",
+    "number": "12\n                        ",
+    "question_text": "A→=i^+j^-k^,B→=3i^+j^+k^,C⇀=5i^+j^-k^এবংB→=-i^+2j^+k^AB→এর উপরBC→্ৈরে অভিক্ষেপ নির্ণয় কর ?",
+    "options": [
+      "0"
+    ],
+    "correct_answer": "0",
+    "correct_option_index": 0,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4110",
+    "question_id": "99243",
+    "number": "13\n                        ",
+    "question_text": "y=3 সরল রেখার সমান্তরাল কোন রেখাy=x-32x-2বক্র রেখার যে সমস্ত বিন্দতে স্পর্শক সেই বিন্দুগুলোর স্থানাঙ্ক নির্ণয় কর ।",
+    "options": [
+      "73,427এবং3,0"
+    ],
+    "correct_answer": "73,427এবং3,0",
+    "correct_option_index": 0,
+    "subject": "বৃত্ত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "বৃত্ত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+    "exam_year": "2014",
+    "subcat_id": "4111",
+    "question_id": "99106",
+    "number": "12\n                        ",
+    "question_text": "যদি0°<θ<180°হয়, তবে2+2+......+2(1+cosθ)=? (n সংখক 2)",
+    "options": [
+      "2cosθ2n-1",
+      "2cosθ2n",
+      "2cosθ2n+1",
+      "2cosθ2",
+      "2cosθ2"
+    ],
+    "correct_answer": "2cosθ2n",
+    "correct_option_index": 1,
+    "subject": "ক্রিকোণমিতিক অনুপাত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+      "উচ্চতর গণিত",
+      "ক্রিকোণমিতিক অনুপাত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+    "exam_year": "2014",
+    "subcat_id": "4111",
+    "question_id": "99108",
+    "number": "14\n                        ",
+    "question_text": "কোন ত্রিভুজের ভূমি কোণদ্বয়22.5°ও112.5°ত্রিভুজের উচ্চতা h  হলে ভূমি কত?",
+    "options": [
+      "h",
+      "2h",
+      "h2",
+      "h2",
+      "None"
+    ],
+    "correct_answer": "2h",
+    "correct_option_index": 1,
+    "subject": "ক্রিকোণমিতিক অনুপাত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+      "উচ্চতর গণিত",
+      "ক্রিকোণমিতিক অনুপাত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১২-২০১৩",
+    "exam_year": "2012",
+    "subcat_id": "4113",
+    "question_id": "99064",
+    "number": "2\n                        ",
+    "question_text": "Sin [cos-1( -12) +tan-1(13) ]এর মান হবে-",
+    "options": [
+      "1",
+      "12",
+      "12",
+      "32"
+    ],
+    "correct_answer": "12",
+    "correct_option_index": 1,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১২-২০১৩",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১০-২০১১",
+    "exam_year": "2010",
+    "subcat_id": "4115",
+    "question_id": "99728",
+    "number": "10\n                        ",
+    "question_text": "y2=2x3বক্ররেখার কোন বিন্দুতে ম্পর্শকটি4x-3y+1=0সরলরেখার সাথে লম্ব হবে?",
+    "options": [
+      "-18,116",
+      "18,116",
+      "-18,-116",
+      "18,116"
+    ],
+    "correct_answer": "18,116",
+    "correct_option_index": 1,
+    "subject": "সরলরেখার ঢাল",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১০-২০১১",
+      "উচ্চতর গণিত",
+      "সরলরেখার ঢাল"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১০-২০১১",
+    "exam_year": "2010",
+    "subcat_id": "4115",
+    "question_id": "99730",
+    "number": "12\n                        ",
+    "question_text": "নিচের কোনটিy=-(x-1)2এর লেখচিত্র ?",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct_answer": "",
+    "correct_option_index": 1,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১০-২০১১",
+      "উচ্চতর গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৮-২০০৯",
+    "exam_year": "2008",
+    "subcat_id": "4117",
+    "question_id": "99428",
+    "number": "6\n                        ",
+    "question_text": "-814এর মান কত?",
+    "options": [
+      "±321±i",
+      "±321±2i",
+      "±322±i",
+      "±321±i"
+    ],
+    "correct_answer": "±321±i",
+    "correct_option_index": 3,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৮-২০০৯",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options",
+      "short_question"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৮-২০০৯",
+    "exam_year": "2008",
+    "subcat_id": "4117",
+    "question_id": "99433",
+    "number": "11\n                        ",
+    "question_text": "কোন উপবৃত্তের উপকেন্দ্রিক লম্ব উপবৃত্তটির বৃহৎ অক্ষের অর্ধেক। তার উৎকেন্দ্রিকতা নির্ণয় কর।",
+    "options": [
+      "32",
+      "13",
+      "12",
+      "12"
+    ],
+    "correct_answer": "12",
+    "correct_option_index": 3,
+    "subject": "উপবৃত্ত",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৮-২০০৯",
+      "উচ্চতর গণিত",
+      "উপবৃত্ত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৫-২০০৬",
+    "exam_year": "2005",
+    "subcat_id": "4120",
+    "question_id": "99249",
+    "number": "6\n                        ",
+    "question_text": "3x+iy=p+iqহলে,xp+yqএর মান কত?",
+    "options": [
+      "p2-q2",
+      "4p2-q2",
+      "4p2-q2",
+      "p2-q24"
+    ],
+    "correct_answer": "4p2-q2",
+    "correct_option_index": 2,
+    "subject": "দ্বিপদী বিস্তৃতি  (Binomial Expansions)",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৫-২০০৬",
+      "উচ্চতর গণিত",
+      "দ্বিপদী বিস্তৃতি  (Binomial Expansions)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "Khulna University of Engineering & Technology (KUET)  —  session: 2024-2025 (11-01-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6371",
+    "question_id": "532413",
+    "number": "8\n                        ",
+    "question_text": "একটি বাস স্থিরাবস্থা থেকে 4ms2সুষম ত্বরণে সোজা সড়কে চলতে শুরু করে। অন্যদিকে 40 m পিছন থেকে 24 m/s বেগে একজন সাইকেল আরোহী উক্ত সড়কে বাসের দিকে চলতে শুরু করে। চলার পরে বাস ও সাইকেল আরোহী কয়বার মিলিত হবে এবং একাধিকবার মিলিত হলে তাদের সময়ের পার্থক্য কত?",
+    "options": [
+      "1 time, 0 s",
+      "2 times, 2 s",
+      "2 times, 6 s",
+      "2 times, 8 s",
+      "2 times, 6 s"
+    ],
+    "correct_answer": "2 times, 8 s",
+    "correct_option_index": 3,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "Khulna University of Engineering & Technology (KUET)  —  session: 2024-2025 (11-01-2025)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "Khulna University of Engineering & Technology (KUET)  —  session: 2024-2025 (11-01-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6371",
+    "question_id": "532420",
+    "number": "15\n                        ",
+    "question_text": "x2- Cxy + y = 5 বক্ররেখাটি (2, 1) বিন্দুগামী হলে C এর মান কত এবং 2 (2, 1) বিন্দুতে উক্ত বক্ররেখাটির উপর অঙ্কিত স্পর্শকের ঢাল কত?",
+    "options": [
+      "1,105",
+      "2,-105",
+      "2,103",
+      "2,103",
+      "-2,-103"
+    ],
+    "correct_answer": "2,103",
+    "correct_option_index": 3,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "Khulna University of Engineering & Technology (KUET)  —  session: 2024-2025 (11-01-2025)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4145",
+    "question_id": "199602",
+    "number": "9\n                        ",
+    "question_text": "পোলার স্থানাঙ্ক এ (5,π4)কেন্দ্র ও 2ব্যাসার্ধ বিশিষ্ট বৃত্তের সমীকরণ কোনটি?",
+    "options": [
+      "r2+5√2(cosθ+sinθ)r+21=0",
+      "r2-5√2(cosθ+sinθ)r-21=0",
+      "r2+5√2(cosθ+sinθ)r-21=0",
+      "r2+5√2(cosθ+sinθ)r+21=0",
+      "r2-5√2(cosθ+sinθ)r+21=0"
+    ],
+    "correct_answer": "r2-5√2(cosθ+sinθ)r+21=0",
+    "correct_option_index": 4,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৩-২০১৪",
+    "exam_year": "2013",
+    "subcat_id": "4142",
+    "question_id": "199419",
+    "number": "11\n                        ",
+    "question_text": "15.7.9+17.9.11+19.11.13+.......ধারাটির 10 টি পদের যোগফল হলো-",
+    "options": [
+      "1140-12300",
+      "1140-12100",
+      "112-12300",
+      "112-12100",
+      "12-12500"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "দ্বিপদী বিস্তৃতি  (Binomial Expansions)",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৩-২০১৪",
+      "উচ্চতর গণিত",
+      "দ্বিপদী বিস্তৃতি  (Binomial Expansions)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৮-২০০৯",
+    "exam_year": "2008",
+    "subcat_id": "4137",
+    "question_id": "200481",
+    "number": "12\n                        ",
+    "question_text": "i+-iএর মান নিচের কোনটি?",
+    "options": [
+      "2i",
+      "i",
+      "2",
+      "2",
+      "22"
+    ],
+    "correct_answer": "2",
+    "correct_option_index": 3,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৮-২০০৯",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৭-২০০৮",
+    "exam_year": "2007",
+    "subcat_id": "4136",
+    "question_id": "200002",
+    "number": "2\n                        ",
+    "question_text": "11.3+13.5+15.7+........∝ধারাটির যোগফল কোনটি?",
+    "options": [
+      "13",
+      "0",
+      "13",
+      "12",
+      "∝"
+    ],
+    "correct_answer": "12",
+    "correct_option_index": 3,
+    "subject": "বাস্তব সংখ্যা ও অসমতা",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৭-২০০৮",
+      "উচ্চতর গণিত",
+      "বাস্তব সংখ্যা ও অসমতা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৬-২০০৭",
+    "exam_year": "2006",
+    "subcat_id": "4135",
+    "question_id": "200410",
+    "number": "11\n                        ",
+    "question_text": "মান নির্ণয় করঃx+iy3=p+iqহলেxp+ypএর মান কত?",
+    "options": [
+      "p2-q2",
+      "p2-q2",
+      "4p2-q2",
+      "p2-q24",
+      "p2+q24"
+    ],
+    "correct_answer": "4p2-q2",
+    "correct_option_index": 2,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৬-২০০৭",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "Rajshahi University of Engineering & Technology (RUET)  —  Session 2024-25  —  2nd Shift (08-02-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6398",
+    "question_id": "533129",
+    "number": "4\n                        ",
+    "question_text": "কোনটি sin 2x + icos 2x এর একটি বর্গমূল?",
+    "options": [
+      "sinx-π4+icosx-π4",
+      "sinx+π4+icosx+π4",
+      "sinx + icoSX",
+      "cosx + icosx",
+      "cosx - isinx"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "Rajshahi University of Engineering & Technology (RUET)  —  Session 2024-25  —  2nd Shift (08-02-2025)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "Rajshahi University of Engineering & Technology (RUET)  —  Session 2024-25  —  2nd Shift (08-02-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6398",
+    "question_id": "533130",
+    "number": "5\n                        ",
+    "question_text": "4x2+4px+p2+δ2=0সমীকরণটির 2টি মূলের মধ্যে পার্থক্য কত?",
+    "options": [
+      "2δ",
+      "δ2",
+      "δ",
+      "δ2",
+      "δ"
+    ],
+    "correct_answer": "δ",
+    "correct_option_index": 2,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "Rajshahi University of Engineering & Technology (RUET)  —  Session 2024-25  —  2nd Shift (08-02-2025)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "Rajshahi University of Engineering & Technology (RUET)  —  Session 2024-25  —  2nd Shift (08-02-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6398",
+    "question_id": "533139",
+    "number": "14\n                        ",
+    "question_text": "f(x) = xe-kx, k> 0 এর সর্বোচ্চ মান কত?",
+    "options": [
+      "1ek",
+      "ke",
+      "ek",
+      "ek",
+      "2ek"
+    ],
+    "correct_answer": "1ek",
+    "correct_option_index": 0,
+    "subject": "উচ্চতর গণিত",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "Rajshahi University of Engineering & Technology (RUET)  —  Session 2024-25  —  2nd Shift (08-02-2025)",
+      "উচ্চতর গণিত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+    "exam_year": "2010",
+    "subcat_id": "4169",
+    "question_id": "231410",
+    "number": "5\n                        ",
+    "question_text": "xLt→∞xex=?",
+    "options": [
+      "e",
+      "1",
+      "e-1",
+      "0",
+      "e-x"
+    ],
+    "correct_answer": "0",
+    "correct_option_index": 3,
+    "subject": "লিমিট হিসাবে অন্তরজ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+      "উচ্চতর গণিত",
+      "লিমিট হিসাবে অন্তরজ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+    "exam_year": "2010",
+    "subcat_id": "4169",
+    "question_id": "231414",
+    "number": "9\n                        ",
+    "question_text": "x = 2t, y=t2দ্বারা প্রকাশিত পরাবৃত্তের উপকেন্দ্রের স্থানাঙ্ক-",
+    "options": [
+      "(0,1)",
+      "(1,0)",
+      "(0,1)",
+      "(2,0)",
+      "None"
+    ],
+    "correct_answer": "(0,1)",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+    "exam_year": "2010",
+    "subcat_id": "4169",
+    "question_id": "231416",
+    "number": "11\n                        ",
+    "question_text": "∫xe-xdx(x-1)2=?",
+    "options": [
+      "-e-xx-1+C",
+      "e-2xx-1+C",
+      "-e-xx-1+C",
+      "x-xx+C",
+      "কোনটিই নয়"
+    ],
+    "correct_answer": "-e-xx-1+C",
+    "correct_option_index": 0,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+      "উচ্চতর গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4679",
+    "question_id": "231370",
+    "number": "14\n                        ",
+    "question_text": "y=x2বক্র রেখার উপর একটি বিন্দু নির্ণয় কর যা ( 18,0) বিন্দুর  সর্বোচ্চ নিকটবর্তী।",
+    "options": [
+      "(x,Y)=(2,4)"
+    ],
+    "correct_answer": "(x,Y)=(2,4)",
+    "correct_option_index": 0,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4679",
+    "question_id": "231371",
+    "number": "15\n                        ",
+    "question_text": "যদি sinx + siny =1  এবং cos x + cosy=0 হয় তবে প্রমাণ কর যে,x+y=π",
+    "options": [
+      "x+y=π"
+    ],
+    "correct_answer": "x+y=π",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231666",
+    "number": "2\n                        ",
+    "question_text": "ey=xx-yহলে  dy /dx নির্ণয় কর।",
+    "options": [
+      "=1-yx(1+1nx)"
+    ],
+    "correct_answer": "=1-yx(1+1nx)",
+    "correct_option_index": 0,
+    "subject": "অন্তরীকরণ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "অন্তরীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231668",
+    "number": "4\n                        ",
+    "question_text": "যদিa-ib3=x-iyহয়, তবে দেখাও যে ,a+ib3=x+iy",
+    "options": [
+      "=(x_iy)33=x+iy"
+    ],
+    "correct_answer": "=(x_iy)33=x+iy",
+    "correct_option_index": 0,
+    "subject": "বাস্তব সংখ্যা ও অসমতা",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "বাস্তব সংখ্যা ও অসমতা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231669",
+    "number": "5\n                        ",
+    "question_text": "2(sinxcosx+3)=3cosx+4sinx,0<x<π",
+    "options": [
+      "={π3,2π3}"
+    ],
+    "correct_answer": "={π3,2π3}",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231670",
+    "number": "6\n                        ",
+    "question_text": "(1+x)p,P>0এরx5এর সহগের দ্বিগুণ হলে P   এর মান নির্ণয় কর।x6ওx4এর সহগের মধ্যে সম্পর্ক কি?",
+    "options": [
+      "=3×x4"
+    ],
+    "correct_answer": "=3×x4",
+    "correct_option_index": 0,
+    "subject": "দ্বিপদী বিস্তৃতি  (Binomial Expansions)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "দ্বিপদী বিস্তৃতি  (Binomial Expansions)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231671",
+    "number": "7\n                        ",
+    "question_text": "100 জন ছাত্র সদস্যের মধ্যে ফুটবল টিম অপেক্ষা ক্রিকেট টিমের সদস্য সংখ্যাই বেশি। যদি ফুটবল সদস্য সংখ্যা 70  জন হয় এবং 20  জন কোন টিমেই না থাকে, তাহলে সর্বনিম্ন কতজন উভয় টিমেরই সদস্য হবে?",
+    "options": [
+      "61 জন"
+    ],
+    "correct_answer": "61 জন",
+    "correct_option_index": 0,
+    "subject": "দুইটি সরলরেখার ছেদবিন্দু",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "দুইটি সরলরেখার ছেদবিন্দু"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231672",
+    "number": "8\n                        ",
+    "question_text": "y  অক্ষকে স্পর্শ করে এবং (3,0) ও ( 7,0) বিন্দুদ্বয় দিয়ে গমণকারী বৃত্তগুলির সমীকরণ নির্ণয় কর।",
+    "options": [
+      "25"
+    ],
+    "correct_answer": "25",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231674",
+    "number": "10\n                        ",
+    "question_text": "4ϖ+3=8ϖ-1হলেϖকত?",
+    "options": [
+      "9"
+    ],
+    "correct_answer": "9",
+    "correct_option_index": 0,
+    "subject": "দুইটি সরলরেখার ছেদবিন্দু",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "দুইটি সরলরেখার ছেদবিন্দু"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231714",
+    "number": "1\n                        ",
+    "question_text": "1,2,3,4,5,6,7 অংকগুলো একবার মাত্র ব্যবহার করে গঠিত ও  5  দ্বারা অবিভাজ্য  7 - অংক বিশিষ্ট সংখ্যাগুলো মানের উর্ধ্বক্রমানুসারে সাজানো হল। উক্ত তালিকায় 2000  তম সংখ্যাটি কত?",
+    "options": [
+      "4315672"
+    ],
+    "correct_answer": "4315672",
+    "correct_option_index": 0,
+    "subject": "দুইটি সরলরেখার ছেদবিন্দু",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "দুইটি সরলরেখার ছেদবিন্দু"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231715",
+    "number": "2\n                        ",
+    "question_text": "ax2সমীকরণের মূলদ্বয়αওβহলে(aα+b)-2+(aβ+b)-2এর মান নির্ণয় কর।",
+    "options": [
+      "b2-2caa2c2"
+    ],
+    "correct_answer": "b2-2caa2c2",
+    "correct_option_index": 0,
+    "subject": "বহুপদী ও বহুপদী সমীকরণ (Polynomials and Polynomials Equations)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "বহুপদী ও বহুপদী সমীকরণ (Polynomials and Polynomials Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231716",
+    "number": "3\n                        ",
+    "question_text": "y=xগ্রাফে (x,y)  বিন্দুটির মান নির্ণয় কর যা (4,0) বিন্দুর নিকটতম ।",
+    "options": [
+      "(72,72)"
+    ],
+    "correct_answer": "(72,72)",
+    "correct_option_index": 0,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231717",
+    "number": "4\n                        ",
+    "question_text": "মান নির্ণয় করLtx→0tansx-sinsxx3,s>0",
+    "options": [
+      "s32"
+    ],
+    "correct_answer": "s32",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231718",
+    "number": "5\n                        ",
+    "question_text": "x2+2ax+y2=0বক্ররেখার উপর স্পর্শকের স্পর্শক বিন্দুগুলো নির্ণয় কর যেখানে স্পর্শকসমূহ x- অক্ষের উপর লম্ব।",
+    "options": [
+      "(0,0) এবং (-2a,0)"
+    ],
+    "correct_answer": "(0,0) এবং (-2a,0)",
+    "correct_option_index": 0,
+    "subject": "স্পর্শকের দৈর্ঘ্য",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "স্পর্শকের দৈর্ঘ্য"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231720",
+    "number": "7\n                        ",
+    "question_text": "x=b রেখাটিy=(1-x)2,y=0এবং x=0  দ্বারা আবদ্ধ ক্ষেত্রকেR1(0≤x≤b)এবংR2(b≤x≤1)অংশদ্বয়ে বিভক্ত করে যেখানেR1-R2=14bএর মান নির্ণয় কর।",
+    "options": [
+      "b=12"
+    ],
+    "correct_answer": "b=12",
+    "correct_option_index": 0,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231721",
+    "number": "8\n                        ",
+    "question_text": "সমাধান কর:sinθ+sin2θ+sin3θ=1+cosθ+cos2θ,o<θ<π",
+    "options": [
+      "θ=π2,π6,π3,π6"
+    ],
+    "correct_answer": "θ=π2,π6,π3,π6",
+    "correct_option_index": 0,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231722",
+    "number": "9\n                        ",
+    "question_text": "বর্গমূল নির্ণয় কর :cosθ+isinθ,i=-1",
+    "options": [
+      "±(cos12θ+isin12θ)"
+    ],
+    "correct_answer": "±(cos12θ+isin12θ)",
+    "correct_option_index": 0,
+    "subject": "জটিল সংখ্যা (Complex Numbers)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "জটিল সংখ্যা (Complex Numbers)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231723",
+    "number": "10\n                        ",
+    "question_text": "একটি বস্তু কণার সরণx(t)=t(3-2t)2। যে সময়ে বস্তুর বেগ ও সরণের সংখ্যামান সমান , তা নির্ণয় কর। বস্তুটির সময় , বেগ ও সরণের সংখ্যামান সমান হওয়ার সময়ও নির্ণয় কর।",
+    "options": [
+      "t=12"
+    ],
+    "correct_answer": "t=12",
+    "correct_option_index": 0,
+    "subject": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "ফাংশন ও ফাংশনের লেখচিত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+    "exam_year": "2014",
+    "subcat_id": "4174",
+    "question_id": "231210",
+    "number": "4\n                        ",
+    "question_text": "Ltx→0x-sinxx3",
+    "options": [
+      "1",
+      "",
+      "13",
+      "12",
+      "16"
+    ],
+    "correct_answer": "16",
+    "correct_option_index": 4,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+    "exam_year": "2014",
+    "subcat_id": "4174",
+    "question_id": "231223",
+    "number": "12\n                        ",
+    "question_text": "যদি0°<θ<180°হয়, তবে2+2+.....+2(1+cosθ=?(n সংখক 2)",
+    "options": [
+      "2cosθ2n-1",
+      "2cosθ2n",
+      "2cosθ2n+1",
+      "2cosnθ2",
+      "2cosθ2n"
+    ],
+    "correct_answer": "2cosθ2n",
+    "correct_option_index": 1,
+    "subject": "ক্রিকোণমিতিক অনুপাত",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+      "উচ্চতর গণিত",
+      "ক্রিকোণমিতিক অনুপাত"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+    "exam_year": "2014",
+    "subcat_id": "4174",
+    "question_id": "231225",
+    "number": "14\n                        ",
+    "question_text": "কোন ত্রিভুজের ভূমি সংলগ্ন কোণদ্বয়22.5°ও112.5°ও ত্রিভূজের উচ্চতা h হলে ভূমি কত ?",
+    "options": [
+      "h",
+      "2h",
+      "h2",
+      "h2",
+      "None"
+    ],
+    "correct_answer": "2h",
+    "correct_option_index": 1,
+    "subject": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+      "উচ্চতর গণিত",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ (Inverse Trigonometric Functions and Trigonometric Equations)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৩-২০১৪",
+    "exam_year": "2013",
+    "subcat_id": "4173",
+    "question_id": "231145",
+    "number": "8\n                        ",
+    "question_text": "∫dxex+e-x=?",
+    "options": [
+      "sin-1ex",
+      "tan-11ex",
+      "tan-1ex",
+      "cos-1ex",
+      "None"
+    ],
+    "correct_answer": "tan-1ex",
+    "correct_option_index": 2,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৩-২০১৪",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১২-২০১৩",
+    "exam_year": "2012",
+    "subcat_id": "4172",
+    "question_id": "231199",
+    "number": "4\n                        ",
+    "question_text": "Ltx→0(1এর মান-",
+    "options": [
+      "logxx",
+      "ln(kx)",
+      "ln(k + x)",
+      "ak",
+      "ek"
+    ],
+    "correct_answer": "ek",
+    "correct_option_index": 4,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১২-২০১৩",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১২-২০১৩",
+    "exam_year": "2012",
+    "subcat_id": "4172",
+    "question_id": "231230",
+    "number": "14\n                        ",
+    "question_text": "y22-x2=1অধিবৃত্তের ‍উৎকেন্দ্রিকতা নির্ণয় কর-",
+    "options": [
+      "133",
+      "133",
+      "33",
+      "±13",
+      "±3"
+    ],
+    "correct_answer": "133",
+    "correct_option_index": 0,
+    "subject": "কনিক  (Conics)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১২-২০১৩",
+      "উচ্চতর গণিত",
+      "কনিক  (Conics)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১০-২০১১",
+    "exam_year": "2010",
+    "subcat_id": "4170",
+    "question_id": "231253",
+    "number": "7\n                        ",
+    "question_text": "1+3iএর মডুলাস ও আর্গুমেন্ট এর মান কত?",
+    "options": [
+      "2&π/3",
+      "2&π/2",
+      "2&π/2",
+      "3&π/3",
+      "1&π"
+    ],
+    "correct_answer": "2&π/3",
+    "correct_option_index": 0,
+    "subject": "জটিল সংখ্যার পরমমান (মডুলাস) ও নতি (আর্গুমেন্ট)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১০-২০১১",
+      "উচ্চতর গণিত",
+      "জটিল সংখ্যার পরমমান (মডুলাস) ও নতি (আর্গুমেন্ট)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১০-২০১১",
+    "exam_year": "2010",
+    "subcat_id": "4170",
+    "question_id": "231254",
+    "number": "8\n                        ",
+    "question_text": "-164=?",
+    "options": [
+      "2",
+      "±3±i",
+      "±3±i",
+      "±21±i",
+      "12"
+    ],
+    "correct_answer": "±21±i",
+    "correct_option_index": 3,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১০-২০১১",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options",
+      "short_question"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১০-২০১১",
+    "exam_year": "2010",
+    "subcat_id": "4170",
+    "question_id": "231255",
+    "number": "9\n                        ",
+    "question_text": "1+12+12.4+12.4.6+.................=?",
+    "options": [
+      "2e",
+      "1e",
+      "e",
+      "1e",
+      "e"
+    ],
+    "correct_answer": "e",
+    "correct_option_index": 2,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১০-২০১১",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১০-২০১১",
+    "exam_year": "2010",
+    "subcat_id": "4170",
+    "question_id": "231259",
+    "number": "13\n                        ",
+    "question_text": "(2x2+px3)10এর বিস্তৃতিতেx5এবংx15এর সহগ দুইটি পরস্পর সমান হলে P ধনাত্মক মান বের কর।",
+    "options": [
+      "1/3",
+      "3",
+      "13",
+      "3",
+      "None"
+    ],
+    "correct_answer": "13",
+    "correct_option_index": 2,
+    "subject": "দ্বিপদী বিস্তৃতি  (Binomial Expansions)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১০-২০১১",
+      "উচ্চতর গণিত",
+      "দ্বিপদী বিস্তৃতি  (Binomial Expansions)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "sylhet-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4512",
+    "question_id": "232859",
+    "number": "14\n                        ",
+    "question_text": "∫01xex2dx=?",
+    "options": [
+      "1-2e",
+      "12e-1",
+      "2(e-1)",
+      "12e+1"
+    ],
+    "correct_answer": "12e-1",
+    "correct_option_index": 1,
+    "subject": "দুইটি সরলরেখার ছেদবিন্দু",
+    "tags": [
+      "সিলেট কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "উচ্চতর গণিত",
+      "দুইটি সরলরেখার ছেদবিন্দু"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "bangladesh-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4500",
+    "question_id": "83720",
+    "number": "12\n                        ",
+    "question_text": "ax + by - c = 0 সরলরেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভূজটি উৎপন্ন করে তার ক্ষেত্রফল কত বর্গিএকক?",
+    "options": [
+      "c2ab",
+      "c22ab",
+      "c22ab",
+      "cab"
+    ],
+    "correct_answer": "c22ab",
+    "correct_option_index": 1,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "উচ্চতর গণিত",
+      "বিভিন্ন আকারের সরলরেখার সমীকরণ",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "bangladesh-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৩-২০১৪",
+    "exam_year": "2013",
+    "subcat_id": "4502",
+    "question_id": "83815",
+    "number": "2\n                        ",
+    "question_text": "যদিxy=ex-yহয় তা হলেdydxএর মান কত?",
+    "options": [
+      "1(1+lnx)",
+      "1lnx",
+      "lnx(1+lnx)2",
+      "lnx(1+lnx)2"
+    ],
+    "correct_answer": "lnx(1+lnx)2",
+    "correct_option_index": 2,
+    "subject": "যোগজীকরণ",
+    "tags": [
+      "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০১৩-২০১৪",
+      "উচ্চতর গণিত",
+      "যোগজীকরণ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "mat",
+    "exam_name": "শিক্ষাবর্ষঃ ১৯৯৮-১৯৯৯",
+    "exam_year": "1999",
+    "subcat_id": "4487",
+    "question_id": "203196",
+    "number": "4\n                        ",
+    "question_text": "ক্ষার ধাতু-",
+    "options": [
+      "শক্তিশালী বিজারক",
+      "শক্তিশালী জারক",
+      "শক্তিশালী নিরুদক",
+      "অত্যন্ত ভারী"
+    ],
+    "correct_answer": "শক্তিশালী বিজারক",
+    "correct_option_index": 0,
+    "subject": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন(তৃতীয় অধ্যায়)",
+    "tags": [
+      "মেডিকেল কলেজ ভর্তি পরীক্ষার প্রশ্নসমুহ",
+      "শিক্ষাবর্ষঃ ১৯৯৮-১৯৯৯",
+      "রসায়ন",
+      "ইলেকট্রন বিন্যাস হতে পর্যায় সারণিতে মৌলের অবস্থান নির্ণয়",
+      "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন(তৃতীয় অধ্যায়)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "dat",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৫-২০০৬",
+    "exam_year": "2005",
+    "subcat_id": "4567",
+    "question_id": "124232",
+    "number": "7\n                        ",
+    "question_text": "ক্লোরিনের খনিজ লবণ কোনটি নয়?",
+    "options": [
+      "KCl",
+      "KCl,MgCl2,6H2O",
+      "NaCl",
+      "KCl"
+    ],
+    "correct_answer": "KCl",
+    "correct_option_index": 0,
+    "subject": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন(তৃতীয় অধ্যায়)",
+    "tags": [
+      "ডেন্টাল কলেজ  ভর্তি পরীক্ষার প্রশ্নসমুহ",
+      "শিক্ষাবর্ষঃ ২০০৫-২০০৬",
+      "রসায়ন",
+      "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন(তৃতীয় অধ্যায়)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  }
+]

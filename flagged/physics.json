@@ -1,0 +1,1481 @@
+[
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6902",
+    "question_id": "611212",
+    "number": "12\n                        ",
+    "question_text": "m ভরের একটি উপগ্রহ পৃথিবীপৃষ্ঠ থেকে x উচ্চতায় পৃথিবীর চারপাশে ঘুরে যেখানে পৃথিবীর ব্যাসার্ধ R। যদি পৃথিবীপৃষ্ঠে অভিকর্ষজ ত্বরণ g হয়, তাহলে উপগ্রহটির কক্ষপথে গতি কত? (A satellite of mass m revolves around the earth of radius R at a height x from the earth surface. If a is the gravitational acceleration at the surface of the earth, what is the orbital speed of the satellite?)",
+    "options": [
+      "√gR2(R+x)2",
+      "√gR2R-x",
+      "√gxR-x",
+      "√gx2(R+x)2"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "পদার্থবিদ্যা",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "পদার্থবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয়  —  বিজ্ঞান ইউনিট : ২০২৪-২০২৫ (15-02-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6419",
+    "question_id": "534400",
+    "number": "2\n                        ",
+    "question_text": "একটি আনুভূমিক ঘর্ষণহীন তলের উপর একটি কণা প্রাথমিকভাবে স্থির অবস্থায় আছে। কণাটির উপর একটি ধ্রুব আনুভূমিক বল F প্রযুক্ত হচ্ছে। নিচের কোন লেখচিত্রটি কৃত কাজ W বনাম কণাটির দ্রুতি সঠিকভাবে প্রকাশ করে? (A particle is initially at rest on a horizontal frictionless surface. A coristant horizontal force F is applied on it. Which of the following is the correct plot of work done W versus speed v of the particle?)",
+    "options": [],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "নিউটনের বলবিদ্যা",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয়  —  বিজ্ঞান ইউনিট : ২০২৪-২০২৫ (15-02-2025)",
+      "পদার্থবিদ্যা",
+      "নিউটনের বলবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "too_few_options",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : (2006-2007)",
+    "exam_year": "2006",
+    "subcat_id": "3168",
+    "question_id": "126788",
+    "number": "7\n                        ",
+    "question_text": "স্থির অবস্থান থেকে একটি ট্রেন10ms-2সমত্বরণে চলার সময় 125m দূরত্বে অবস্থিত একটি পোষ্টকে কত বেগে অতিক্রম করবে?",
+    "options": [
+      "50ms-1",
+      "10ms-1",
+      "10ms-1",
+      "2500ms-1"
+    ],
+    "correct_answer": "50ms-1",
+    "correct_option_index": 0,
+    "subject": "গতিবিদ্যা",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : (2006-2007)",
+      "পদার্থবিদ্যা",
+      "গতিবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : (2006-2007)",
+    "exam_year": "2006",
+    "subcat_id": "3168",
+    "question_id": "126833",
+    "number": "14\n                        ",
+    "question_text": "একটি সরল দোলকের দোলনকাল T । দোলকটির দৈর্ঘ্য দ্বিগুণ করা হলে পরিবর্তিত দোলনকাল হবে -",
+    "options": [
+      "2T",
+      "2T",
+      "12T",
+      "12T"
+    ],
+    "correct_answer": "2T",
+    "correct_option_index": 0,
+    "subject": "সরল দোলকের গতি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : (2006-2007)",
+      "পদার্থবিদ্যা",
+      "সরল দোলকের গতি"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : (2001-2002)",
+    "exam_year": "2001",
+    "subcat_id": "4661",
+    "question_id": "132930",
+    "number": "11\n                        ",
+    "question_text": "যদি m-ভরবিশিষ্ট একটি সরল ছন্দিত দোলকের বল ধ্রুবক K  কে দ্বিগুণ করা হয় তবে দোলকের আদি দোলনকাল T  পরিবর্তিত হয় নিম্নরুপে:",
+    "options": [
+      "T/2",
+      "2T",
+      "T/4",
+      "2T"
+    ],
+    "correct_answer": "T/2",
+    "correct_option_index": 0,
+    "subject": "সরল দোলকের গতি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : (2001-2002)",
+      "পদার্থবিদ্যা",
+      "সরল দোলকের গতি"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ১৯৯৭-১৯৯৮",
+    "exam_year": "1997",
+    "subcat_id": "4666",
+    "question_id": "133828",
+    "number": "10\n                        ",
+    "question_text": "সূর্য পৃথিবীর উপরে3.6×1022Nআকর্ষণী  বল প্রয়োগ করে। পৃথিবী যদি সূর্য থেকে1.5×1011mদূরে থাকে এবং  পৃথিবীর ভর যদি5.98×1024kgহয়, তা হলে সূর্যের ভর কত?(G=6.67×10-11N-m2/Kg2)",
+    "options": [
+      "2.03×1017kg",
+      "2.03×1031kg",
+      "2.03×1030kg",
+      "2.03×1031kg"
+    ],
+    "correct_answer": "2.03×1030kg",
+    "correct_option_index": 2,
+    "subject": "বল",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ১৯৯৭-১৯৯৮",
+      "পদার্থবিদ্যা",
+      "বল"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ১৯৯৬-১৯৯৭",
+    "exam_year": "1996",
+    "subcat_id": "4667",
+    "question_id": "133972",
+    "number": "10\n                        ",
+    "question_text": "টানা তারে গতিশীল তীর্যক তরঙ্গের বেগ হলো -",
+    "options": [
+      "v=T/m",
+      "v=T/m",
+      "v=m/T",
+      "v=4m/T"
+    ],
+    "correct_answer": "v=T/m",
+    "correct_option_index": 1,
+    "subject": "তরঙ্গ ও শক্তি",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - ক ইউনিট (বিজ্ঞান) শিক্ষাবর্ষ : ১৯৯৬-১৯৯৭",
+      "পদার্থবিদ্যা",
+      "তরঙ্গ ও শক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (শিফট -২) (সেট-৩) শিক্ষাবর্ষ : ২০২৫-২০২৬ (16-01-2026)",
+    "exam_year": "2026",
+    "subcat_id": "6979",
+    "question_id": "619305",
+    "number": "12\n                        ",
+    "question_text": "একটি নদীর প্রস্থ d, নদীর স্রোতের বেগ a এবং নৌকার বেগ b (b>a) । ন্যূনতম দূরত্বে নদী পার হতে নৌকার কত সময় লাগবে?",
+    "options": [
+      "d√b2-a2",
+      "d√b2+a2",
+      "d√b2-a2",
+      "d√b2+a2"
+    ],
+    "correct_answer": "d√b2-a2",
+    "correct_option_index": 0,
+    "subject": "পদার্থবিদ্যা",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (শিফট -২) (সেট-৩) শিক্ষাবর্ষ : ২০২৫-২০২৬ (16-01-2026)",
+      "পদার্থবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-২) শিক্ষাবর্ষ : ২০২৪-২০২৫ (26-04-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6498",
+    "question_id": "541209",
+    "number": "5\n                        ",
+    "question_text": "একটি ফোটনের কম্পাঙ্ক। হলে ফোটনটির ভরবেগ কত?",
+    "options": [
+      "hfc2",
+      "hfc",
+      "hfc",
+      "hfc2"
+    ],
+    "correct_answer": "hfc",
+    "correct_option_index": 1,
+    "subject": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-২) শিক্ষাবর্ষ : ২০২৪-২০২৫ (26-04-2025)",
+      "পদার্থবিদ্যা",
+      "আধুনিক পদার্থবিজ্ঞানের সূচনা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-১) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+    "exam_year": "2023",
+    "subcat_id": "5704",
+    "question_id": "271446",
+    "number": "8\n                        ",
+    "question_text": "দ্বিগুণ চক্রগতির ব্যাসার্ধের একটি বস্তুর জড়তার ভ্রামক একই রাখতে হলে, এর ভর প্রথম বস্তুর তুলনায় কত হবে?",
+    "options": [
+      "2",
+      "12",
+      "12",
+      "14"
+    ],
+    "correct_answer": "14",
+    "correct_option_index": 3,
+    "subject": "নিউটনের বলবিদ্যা",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-১) শিক্ষাবর্ষ : ২০২২-২০২৩ (29-05-2023)",
+      "পদার্থবিদ্যা",
+      "নিউটনের বলবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-১) শিক্ষাবর্ষ : ২০১৯-২০২০",
+    "exam_year": "2020",
+    "subcat_id": "5292",
+    "question_id": "241128",
+    "number": "3\n                        ",
+    "question_text": "চার্লসের সূত্রটি নিচের কোন লেখচিত্রটি দিয়ে প্রকাশ করা হয়?",
+    "options": [],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "আদর্শ গ্যাসের সূত্র",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-১) শিক্ষাবর্ষ : ২০১৯-২০২০",
+      "পদার্থবিদ্যা",
+      "আদর্শ গ্যাসের সূত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "too_few_options",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-২) শিক্ষাবর্ষ : ২০১৯-২০২০",
+    "exam_year": "2020",
+    "subcat_id": "5294",
+    "question_id": "241786",
+    "number": "9\n                        ",
+    "question_text": "শূন্য মাধ্যমে আলোর বেগ নিচের কোনটির সমান?",
+    "options": [
+      "√ε0μ0",
+      "√ε0μ0",
+      "√1ε0μ0",
+      ""
+    ],
+    "correct_answer": "√1ε0μ0",
+    "correct_option_index": 2,
+    "subject": "গতিবিদ্যা",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় - C ইউনিট (বিজ্ঞান) (গ্রুপ-২) শিক্ষাবর্ষ : ২০১৯-২০২০",
+      "পদার্থবিদ্যা",
+      "গতিবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান অনুষদ ও লাইফ এন্ড আর্থ সায়েন্স অনুষদ) শিক্ষাবর্ষ : ২০২৫-২০২৬ (26-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6896",
+    "question_id": "610689",
+    "number": "13\n                        ",
+    "question_text": "11012= -10",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correct_answer": "13",
+    "correct_option_index": 0,
+    "subject": "পদার্থবিদ্যা",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান অনুষদ ও লাইফ এন্ড আর্থ সায়েন্স অনুষদ) শিক্ষাবর্ষ : ২০২৫-২০২৬ (26-12-2025)",
+      "পদার্থবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয়  —  A ইউনিট (বিজ্ঞান অনুষদ ও লাইফ এন্ড আর্থ সায়েন্স অনুষদ) ২০২৪-২৫  —  শিফট-৩ (22-02-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6432",
+    "question_id": "534997",
+    "number": "5\n                        ",
+    "question_text": "1 কুরি =?",
+    "options": [
+      "3.7×107Bq",
+      "3.7×1010Bq",
+      "3.7×10-7Bq",
+      "3.7×10-10Bq"
+    ],
+    "correct_answer": "3.7×1010Bq",
+    "correct_option_index": 1,
+    "subject": "পরমাণুর মডেল এবং নিউক্লিয়ার পদার্থবিজ্ঞান",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয়  —  A ইউনিট (বিজ্ঞান অনুষদ ও লাইফ এন্ড আর্থ সায়েন্স অনুষদ) ২০২৪-২৫  —  শিফট-৩ (22-02-2025)",
+      "পদার্থবিদ্যা",
+      "পরমাণুর মডেল এবং নিউক্লিয়ার পদার্থবিজ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয়  —  A ইউনিট (বিজ্ঞান অনুষদ ও লাইফ এন্ড আর্থ সায়েন্স অনুষদ) ২০২৪-২৫  —  শিফট-১ (22-02-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6430",
+    "question_id": "534928",
+    "number": "2\n                        ",
+    "question_text": "ˆi×(ˆi×ˆj)=কত?",
+    "options": [
+      "0",
+      "ˆj",
+      "-ˆj",
+      "ˆk"
+    ],
+    "correct_answer": "-ˆj",
+    "correct_option_index": 2,
+    "subject": "ভেক্টর",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয়  —  A ইউনিট (বিজ্ঞান অনুষদ ও লাইফ এন্ড আর্থ সায়েন্স অনুষদ) ২০২৪-২৫  —  শিফট-১ (22-02-2025)",
+      "পদার্থবিদ্যা",
+      "ভেক্টর"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয় — A ইউনিট - শিক্ষাবর্ষ : 2016-2017",
+    "exam_year": "2016",
+    "subcat_id": "4075",
+    "question_id": "167571",
+    "number": "11\n                        ",
+    "question_text": "1 H  সমান কত?",
+    "options": [
+      "1VA-1S-1",
+      "1AS-1V-1",
+      "1ASV-1",
+      "1VSA-1"
+    ],
+    "correct_answer": "1VSA-1",
+    "correct_option_index": 3,
+    "subject": "ভৌতজগত ও পরিমাপ",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয় — A ইউনিট - শিক্ষাবর্ষ : 2016-2017",
+      "পদার্থবিদ্যা",
+      "ভৌতজগত ও পরিমাপ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "barishal-university",
+    "exam_name": "ক ইউনিট",
+    "exam_year": "2011",
+    "subcat_id": "3479",
+    "question_id": "98070",
+    "number": "1\n                        ",
+    "question_text": "একটি বস্তুর বেগ ধ্রুবক কিন্তু শূন্য নয়। নিম্নের কোন লেখচিত্রটি এর গতিকে প্রকাশ করে?",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct_answer": "",
+    "correct_option_index": 2,
+    "subject": "মহাকর্ষ ও অভিকর্ষ",
+    "tags": [
+      "বরিশাল বিশ্ববিদ্যালয়",
+      "ক ইউনিট",
+      "পদার্থবিদ্যা",
+      "মহাকর্ষ ও অভিকর্ষ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "khulna-university",
+    "exam_name": "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান, প্রকৌশল ও প্রযুক্তিবিদ্যা স্কুল) শিক্ষাবর্ষ : ২০২৪-২৫ (18-04-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6472",
+    "question_id": "538224",
+    "number": "8\n                        ",
+    "question_text": "আদর্শ তাপমাত্রা ও চাপে একটি গ্যাসের চাপ রুদ্ধতাপীয় প্রক্রিয়ায় বেড়ে 2.5 গুণ হলো। চূড়ান্ত চাপ কত N/m2? (γ= 1.4)",
+    "options": [
+      "2.809×104",
+      "2.908×104",
+      "2.098×104",
+      "2.98×104"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "তাপগতিবিদ্যা",
+    "tags": [
+      "খুলনা বিশ্ববিদ্যালয়",
+      "খুলনা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান, প্রকৌশল ও প্রযুক্তিবিদ্যা স্কুল) শিক্ষাবর্ষ : ২০২৪-২৫ (18-04-2025)",
+      "পদার্থবিদ্যা",
+      "তাপগতিবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "cumilla-university",
+    "exam_name": "কুমিল্লা বিশ্ববিদ্যালয় — A ইউনিট (বিজ্ঞান)- শিক্ষাবর্ষ: ২০২৫-২৬ (30-01-2026) (সেট : ১)",
+    "exam_year": "2026",
+    "subcat_id": "7086",
+    "question_id": "626684",
+    "number": "9\n                        ",
+    "question_text": "গ্যাসের সান্দ্রতা গুণাঙ্ক ও পরম তাপমাত্রার মধ্যকার সম্পর্কটি হলো-",
+    "options": [
+      "η∝T",
+      "η∝1T",
+      "η∝1T",
+      "η∝-1T"
+    ],
+    "correct_answer": "η∝T",
+    "correct_option_index": 0,
+    "subject": "পদার্থবিদ্যা",
+    "tags": [
+      "কুমিল্লা বিশ্ববিদ্যালয়",
+      "কুমিল্লা বিশ্ববিদ্যালয় — A ইউনিট (বিজ্ঞান)- শিক্ষাবর্ষ: ২০২৫-২৬ (30-01-2026) (সেট : ১)",
+      "পদার্থবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় - A ইউনিট (৩য় শিফট) - শিক্ষাবর্ষ: ২০২৪-২০২৫ (05-05-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6522",
+    "question_id": "544734",
+    "number": "11\n                        ",
+    "question_text": "কোন তাপমাত্রায় গ্যাসের গতিশক্তি শুন্য হবে?",
+    "options": [
+      "303 °C",
+      "0°C",
+      "273 °C",
+      "273 °C"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় - A ইউনিট (৩য় শিফট) - শিক্ষাবর্ষ: ২০২৪-২০২৫ (05-05-2025)",
+      "পদার্থবিদ্যা",
+      "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "duplicate_options",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় - A ইউনিট (৩য় শিফট) - শিক্ষাবর্ষ: ২০২৪-২০২৫ (05-05-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6522",
+    "question_id": "544736",
+    "number": "13\n                        ",
+    "question_text": "1 টেসলা = ?",
+    "options": [
+      "1N.C-1.m-1",
+      "1N.A-1.m-1",
+      "1N.A.m-1",
+      "1C.C-1.m-1"
+    ],
+    "correct_answer": "1N.A-1.m-1",
+    "correct_option_index": 1,
+    "subject": "ভৌতজগত ও পরিমাপ",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় - A ইউনিট (৩য় শিফট) - শিক্ষাবর্ষ: ২০২৪-২০২৫ (05-05-2025)",
+      "পদার্থবিদ্যা",
+      "ভৌতজগত ও পরিমাপ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় - A ইউনিট (৩য় শিফট) - শিক্ষাবর্ষ: ২০২৪-২০২৫ (05-05-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6522",
+    "question_id": "544738",
+    "number": "15\n                        ",
+    "question_text": "2.0 m/s বেগে 1.0 kg ভরের বস্তুকে 1 মিটার উচ্চতায় উঠাতে কতটুকু বল প্রয়োগ করতে হবে?",
+    "options": [
+      "2 kg-wt",
+      "4 kg-wt",
+      "3 kg-wt",
+      "5 kg-wt"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "নিউটনের বলবিদ্যা",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় - A ইউনিট (৩য় শিফট) - শিক্ষাবর্ষ: ২০২৪-২০২৫ (05-05-2025)",
+      "পদার্থবিদ্যা",
+      "নিউটনের বলবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় - A ইউনিট (২য় শিফট) - শিক্ষাবর্ষ: ২০২৪-২০২৫ (05-05-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6521",
+    "question_id": "544627",
+    "number": "9\n                        ",
+    "question_text": "একজন সাইকেল আরোহী একটি নির্দিষ্ট গতিতে একটি বাঁক ঘুরছে। যদি সে তার বেগ দ্বিগুণ করে তাহলে তার বাঁক ও বেগের কোণের অনুপাত কত?",
+    "options": [
+      "1 : 2",
+      "2 : 1",
+      "1 : 4",
+      "4 : 1"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "নিউটনের বলবিদ্যা",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় - A ইউনিট (২য় শিফট) - শিক্ষাবর্ষ: ২০২৪-২০২৫ (05-05-2025)",
+      "পদার্থবিদ্যা",
+      "নিউটনের বলবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2016",
+    "subcat_id": "4259",
+    "question_id": "143646",
+    "number": "10\n                        ",
+    "question_text": "ˉ∇.ˉA=?",
+    "options": [
+      "স্কেলার রাশি",
+      "ভেক্টর",
+      "A2",
+      "A"
+    ],
+    "correct_answer": "স্কেলার রাশি",
+    "correct_option_index": 0,
+    "subject": "মহাকর্ষ ও অভিকর্ষ",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "পদার্থবিদ্যা",
+      "মহাকর্ষ ও অভিকর্ষ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "hstu",
+    "exam_name": "B ইউনিট",
+    "exam_year": "2014",
+    "subcat_id": "4272",
+    "question_id": "144303",
+    "number": "12\n                        ",
+    "question_text": "BH=?",
+    "options": [
+      "∈",
+      "∈0",
+      "σ",
+      "μ"
+    ],
+    "correct_answer": "μ",
+    "correct_option_index": 3,
+    "subject": "মহাকর্ষ ও অভিকর্ষ",
+    "tags": [
+      "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "B ইউনিট",
+      "পদার্থবিদ্যা",
+      "মহাকর্ষ ও অভিকর্ষ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "bsmrstu",
+    "exam_name": "H ইউনিট",
+    "exam_year": "2017",
+    "subcat_id": "4822",
+    "question_id": "96249",
+    "number": "9\n                        ",
+    "question_text": "সরল ছন্দিত গতিশীল একটি বস্তর বিস্তার 0.5m দোলনকাল 2 sec এবং বেগ 1.1m/sec হলে, বস্তটি সরণ কত?",
+    "options": [
+      "0.354m",
+      "0.334m",
+      "0.354m",
+      "0.354m"
+    ],
+    "correct_answer": "0.354m",
+    "correct_option_index": 0,
+    "subject": "সরল দোলন গতি",
+    "tags": [
+      "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "H ইউনিট",
+      "পদার্থবিদ্যা",
+      "সরল দোলন গতি"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "bsmrstu",
+    "exam_name": "A ইউনিট",
+    "exam_year": "2017",
+    "subcat_id": "4417",
+    "question_id": "95687",
+    "number": "7\n                        ",
+    "question_text": "ইয়ং এর দ্বি-চিড় পরীক্ষায় ব্যতিচার সৃষ্টির ক্ষেত্রে উজ্জলতার শর্ত কোনটি?",
+    "options": [
+      "পথ পার্থক্যλ--এর যুগ্ম গুণিতক",
+      "পথ পার্থক্যλ--এর যুগ্ম গুণিতক",
+      "পথ পার্থক্যλ/2-এর যুগ্ম গুণিতক",
+      "পথ পার্থক্যλ/2-এর অযুগ্ম গুণিতক"
+    ],
+    "correct_answer": "পথ পার্থক্যλ/2-এর যুগ্ম গুণিতক",
+    "correct_option_index": 2,
+    "subject": "ভৌত আলোকবিজ্ঞান",
+    "tags": [
+      "গোপালগঞ্জ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+      "A ইউনিট",
+      "পদার্থবিদ্যা",
+      "ভৌত আলোকবিজ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "99225",
+    "number": "2\n                        ",
+    "question_text": "3000A∘3000A°তরঙ্গ দৈর্ঘ্যের একটি অতি বেগুনি রশ্মি 2.28 eV  কার্যাপেক্ষক বিশিষ্ট একটি বস্তুর পৃষ্ঠে আপতিত হয়ে একটি ইলেকট্রন নির্গত করল। নির্গত[h=6.62×10−34Js,9.1×10−31kg][h=6.62×10-34Js,9.1×10-31kg]ইলেক্ট্রনের বেগ কত হবে ?[h=6.62×10−34Js,[h=6.62×10-34Js,ইলেক্ট্রনের ভর =9.1×10−31kg]9.1×10-31kg]",
+    "options": [
+      "V=8.08×105ms−1V=8.08×105ms-1"
+    ],
+    "correct_answer": "V=8.08×105ms−1V=8.08×105ms-1",
+    "correct_option_index": 0,
+    "subject": "তরঙ্গ ও শক্তি",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "পদার্থবিদ্যা",
+      "তরঙ্গ ও শক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100002",
+    "number": "3\n                        ",
+    "question_text": "ইয়ং এর দ্বি-চিড় পরীক্ষায়, দ্বি-চিড়কে এক -চিড় থেকে  5 cm  দূরে রাখা হল।5100A∘5100A°তরঙ্গদৈর্ঘ্যের সবুজ আলো এক-চিড় থেকে এসে দ্বি-চিড়ে আপতিত হল। এক-চিড় থেকে 205 cm দূরে রাখা পর্দায়  10 টি  ডোরার ব্যবধান  2cm  হলে, দ্বি-চিড়ের মধ্যবর্তী দূরত্ব বের কর।",
+    "options": [
+      "2.55×10−4m2.55×10-4m"
+    ],
+    "correct_answer": "2.55×10−4m2.55×10-4m",
+    "correct_option_index": 0,
+    "subject": "ভৌত আলোকবিজ্ঞান",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "পদার্থবিদ্যা",
+      "ভৌত আলোকবিজ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100003",
+    "number": "4\n                        ",
+    "question_text": "9.1×10−31kg9.1×10-31kgভর বিশিষ্ট একটি যদি নিউক্লিয়াসকে কেন্দ্র করে0.53×10−10m0.53×10-10mব্যাসার্ধের কক্ষপথে ঘুরতে থাকে, তবে তার কৌণিক বেগ বের কর। [প্লাঙ্কের ধ্রুবক =6.63×10−34rads−16.63×10-34rads-1]",
+    "options": [
+      "4.1×1016rads−14.1×1016rads-1"
+    ],
+    "correct_answer": "4.1×1016rads−14.1×1016rads-1",
+    "correct_option_index": 0,
+    "subject": "কৌণিক ভরবেগ",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "পদার্থবিদ্যা",
+      "কৌণিক ভরবেগ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4151",
+    "question_id": "100008",
+    "number": "9\n                        ",
+    "question_text": "একটি একক ভেক্টর নির্ণয় কর যাˆa=ˆi+ˆj+ˆka^=i^+j^+k^এবংˆb=ˆi−ˆj−ˆkb^=i^-j^-k^ভেক্টরদ্বয়ের সমতলীয় এবং→a→aভেক্টরের উপর লম্ব।",
+    "options": [
+      "একক ভেক্টর=±2ˆi−ˆj−ˆk√6=±2i^-j^-k^6"
+    ],
+    "correct_answer": "একক ভেক্টর=±2ˆi−ˆj−ˆk√6=±2i^-j^-k^6",
+    "correct_option_index": 0,
+    "subject": "ভেক্টর",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "ভেক্টর"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99208",
+    "number": "9\n                        ",
+    "question_text": "P এবন Q সমান্তরাল ও সদৃশ বল। P বলের ক্রিয়া রেখাকে এর সমান্তরাল বরাবর Q বলের দিকে x দূরত্বে সরানো হলে এদের লব্ধি d দূরত্বে সরে যায়। প্রমান কর যে,",
+    "options": [
+      "d=PxP+Q"
+    ],
+    "correct_answer": "d=PxP+Q",
+    "correct_option_index": 0,
+    "subject": "ভেক্টর",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "উচ্চতর গণিত",
+      "ভেক্টর"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+    "exam_year": "2016",
+    "subcat_id": "4109",
+    "question_id": "99214",
+    "number": "15\n                        ",
+    "question_text": "দুটি নৌকা প্রত্যেকে 5 km/h বেগে চলে 3 km/h  বেগে প্রবাহিত 550 m চওড়া একটি নদী পাড়ি দিতে চায়। একটি নৌকা নুন্যতম পথে ও অপরটি নুন্যতম সময়ে নদীটি পাড়ি দেয়। তারা একই সময়ে যাত্রা করলে তাদের অপর পাড়ে পৌঁছানোর সময়ের পার্থক্য নির্ণয় কর।",
+    "options": [
+      "1.65 min"
+    ],
+    "correct_answer": "1.65 min",
+    "correct_option_index": 0,
+    "subject": "গতিবিদ্যা",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৬-২০১৭",
+      "পদার্থবিদ্যা",
+      "গতিবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "buet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৬-২০০৭",
+    "exam_year": "2006",
+    "subcat_id": "4119",
+    "question_id": "99310",
+    "number": "7\n                        ",
+    "question_text": "অনুভূমিক দিকে এবং অনুভূমিকের সাথে 30° কোণে ক্রিয়াশীল দু'টি বল 5 একক ওজনের বস্তুকে স্থিরভাবে ধরে রাখে। বল দু'টির মান কত?",
+    "options": [
+      "53,10",
+      "53,10",
+      "5, 10",
+      "5,103"
+    ],
+    "correct_answer": "53,10",
+    "correct_option_index": 1,
+    "subject": "বল",
+    "tags": [
+      "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (বুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৬-২০০৭",
+      "পদার্থবিদ্যা",
+      "বল"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+    "exam_year": "2009",
+    "subcat_id": "4138",
+    "question_id": "200318",
+    "number": "9\n                        ",
+    "question_text": "যখন কোন ইঞ্জিন একজন স্থির শ্রোতাকে অতিক্রম করে তখন ইঞ্জিনের হুইসেলের কম্পাঙ্ক 6:5 অনুপাতে পরিবর্তিত হয়। বাতাসে শব্দের বেগ 332 m/sec হলে ইঞ্জিনের বেগ কত?",
+    "options": [
+      "30m/sec",
+      "300m/sec",
+      "300cm/sec",
+      "332m/sec",
+      "300m/sec"
+    ],
+    "correct_answer": "30m/sec",
+    "correct_option_index": 0,
+    "subject": "তরঙ্গ ও শব্দ (Waves and Sound)",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+      "পদার্থবিদ্যা",
+      "তরঙ্গ ও শব্দ (Waves and Sound)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "kuet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+    "exam_year": "2009",
+    "subcat_id": "4138",
+    "question_id": "200319",
+    "number": "10\n                        ",
+    "question_text": "একই দিকে চলমান দুটি শব্দ তরঙ্গের সমীকরণ যথাক্রমেy=0.25sin316এবংy=0.25sin310t। প্রতি সেকেন্ডে উৎপন্ন বীটের সংখ্যা কত?",
+    "options": [
+      "π",
+      "3π",
+      "3π",
+      "π3",
+      "6π"
+    ],
+    "correct_answer": "3π",
+    "correct_option_index": 2,
+    "subject": "তরঙ্গ ও শব্দ (Waves and Sound)",
+    "tags": [
+      "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (কুয়েট)",
+      "শিক্ষাবর্ষঃ ২০০৯-২০১০",
+      "পদার্থবিদ্যা",
+      "তরঙ্গ ও শব্দ (Waves and Sound)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4679",
+    "question_id": "231216",
+    "number": "1\n                        ",
+    "question_text": "আদর্শ তাপমাত্রা ও চাপে নির্দিষ্ট আয়তনের শুষ্ক গ্যাসকে (i)  সমোষ্ণ অবস্থায়, এবং (ii)  রচদ্ধতাপ অবস্থায় তিনগুণ আয়তনে প্রসারিত হতে দেয়া হল। প্রতিক্ষেত্রে চূড়ান্ত চাপ কত হবে নির্ণয় কর।(γ=1.4",
+    "options": [
+      "P2=21764.408Pa"
+    ],
+    "correct_answer": "P2=21764.408Pa",
+    "correct_option_index": 0,
+    "subject": "আদর্শ গ্যাসের সূত্র",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "পদার্থবিদ্যা",
+      "আদর্শ গ্যাসের সূত্র"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4679",
+    "question_id": "231218",
+    "number": "3\n                        ",
+    "question_text": "একটি জলবিদ্যুৎ পাওয়ার স্টেশন লেকের পানি ব্যবহার করে। টার্বাইন থেকে পানি স্তরের উচ্চতা 50m ।  দক্ষতা 50%  ধরে 1 MW ক্ষমতা পাওয়ার জন্য প্রতি সেকেন্ড টার্বাইন দিয়ে প্রবাহিত পানির ভর নির্ণয় কর।",
+    "options": [
+      "4081.633 kg"
+    ],
+    "correct_answer": "4081.633 kg",
+    "correct_option_index": 0,
+    "subject": "ক্ষমতা",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "পদার্থবিদ্যা",
+      "ক্ষমতা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4679",
+    "question_id": "231219",
+    "number": "4\n                        ",
+    "question_text": "কোন ট্রানজিস্টরের কমন বেস সার্কিটে এমিটর কারেন্ট100μAথেকে150μAএ উন্নীত করায় কালেক্টর কারেন্ট98μAথেকে147μAউন্নীত হল। কারেন্ট অ্যামপ্লিফিকেশন ফ্যাক্টর এবং কারেন্ট গেইন নির্ণয় কর।",
+    "options": [
+      "β=49"
+    ],
+    "correct_answer": "β=49",
+    "correct_option_index": 0,
+    "subject": "ট্রানজিস্টর বর্তনীর মৌলিক বিন্যাস ও তড়িতের প্রবাহ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "পদার্থবিদ্যা",
+      "ট্রানজিস্টর বর্তনীর মৌলিক বিন্যাস ও তড়িতের প্রবাহ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4679",
+    "question_id": "231366",
+    "number": "12\n                        ",
+    "question_text": "এক মিটার দৈর্ঘ্যের একটি সরল দোলকের ববের ভর 200 গ্রাম । এটাকে60°কোণে টেনে ছেড়ে দিয়ে মুক্তভাবে দুলতে দেওয়া হলো। ববের গতিশক্তি বের কর যখন (i) এটা সাম্যাবস্থা দিয়ে অতিক্রম করে (ii)  সুতা লম্বের সাথে30°কোণ করে(g=10m/sec2)",
+    "options": [
+      "0.732J"
+    ],
+    "correct_answer": "0.732J",
+    "correct_option_index": 0,
+    "subject": "সরল দোলকের গতি",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "পদার্থবিদ্যা",
+      "সরল দোলকের গতি"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4679",
+    "question_id": "231369",
+    "number": "13\n                        ",
+    "question_text": "ধনাত্মক x- অক্ষের সঙ্গে ভেক্টর→A=-3i+jযে কোণ উৎপন্ন  করে তা নির্ণয় কর।",
+    "options": [
+      "θ=150°or210°"
+    ],
+    "correct_answer": "θ=150°or210°",
+    "correct_option_index": 0,
+    "subject": "ভেক্টর",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "উচ্চতর গণিত",
+      "ভেক্টর"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231675",
+    "number": "11\n                        ",
+    "question_text": "একটি কৃত্রিম উপগ্রহ পৃথিবী পৃষ্ঠ থেকে 700 km উচ্চতায় বৃত্তাকার পথে ঘুরছে। এর আনুভূমিক বেগ নির্ণয় কর। [পৃথিবীর ব্যাসার্ধ= 6300 km  এবং পৃথিবী পৃষ্ঠে g = 0=9.8 m /sec2]",
+    "options": [
+      "7454.26ms-1"
+    ],
+    "correct_answer": "7454.26ms-1",
+    "correct_option_index": 0,
+    "subject": "মহাকর্ষ ও অভিকর্ষ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "পদার্থবিদ্যা",
+      "মহাকর্ষ ও অভিকর্ষ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231676",
+    "number": "12\n                        ",
+    "question_text": "ফ্রান্সের আইফেল টাওয়ারের0°Fএ উচ্চতা 336 meter. গ্রীষ্মকাল সর্বোচ্চ তাপমাত্রা100°Fও শীতকালে সর্বনিম্ন তাপমাত্রা0°F. গ্রীষ্মকালে টাওয়ারটি শীতকালের চেয়ে কতটা বড় হয়? টাওয়ারটি লোহার তৈরি ও লোহার দৈর্ঘ্য প্রসারণ গুণাঙ্কα=12×10-6/°C",
+    "options": [
+      "0.224 m"
+    ],
+    "correct_answer": "0.224 m",
+    "correct_option_index": 0,
+    "subject": "তাপগতিবিদ্যা",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "পদার্থবিদ্যা",
+      "তাপগতিবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231677",
+    "number": "13\n                        ",
+    "question_text": "কোন পাইলট ভূমির সমান্তরাল প্লেনে করে প্রতি ঘন্টায় 200 km বেগে যাচ্ছিলেন। পাইলট প্লেন থেকে একটি বন্দুক ফায়ার করলেন এবং মাটি থেকে এর প্রতিধ্বনি  3 seconds  পরে শুনলেন। বাতাসে শব্দের বেগ 340 m/sce হলে, ভূমি থেকে প্লেনের উচ্চতা নির্ণয় কর।",
+    "options": [
+      "503.14 m"
+    ],
+    "correct_answer": "503.14 m",
+    "correct_option_index": 0,
+    "subject": "তরঙ্গ ও শব্দ (Waves and Sound)",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "পদার্থবিদ্যা",
+      "তরঙ্গ ও শব্দ (Waves and Sound)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+    "exam_year": "2017",
+    "subcat_id": "4177",
+    "question_id": "231679",
+    "number": "15\n                        ",
+    "question_text": "4×1015Hzকম্পাঙ্কের বিকিরন কোন ধাতব পৃষ্ঠে আপতিত হলে সর্বোচ্চ3.6×10-19Jগতিশক্তি সম্পন্ন ইলেক্ট্রন নির্গত হয়। ঐ ধাতুর সুচনা কম্পাঙ্ক কত?",
+    "options": [
+      "3.456×1015Hz"
+    ],
+    "correct_answer": "3.456×1015Hz",
+    "correct_option_index": 0,
+    "subject": "কাজ, শক্তি ও ক্ষমতা",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৭-২০১৮",
+      "পদার্থবিদ্যা",
+      "কাজ, শক্তি ও ক্ষমতা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231724",
+    "number": "11\n                        ",
+    "question_text": "p  এর মান কত হলে ভেক্টর→v=(5x+2y)i^+(2py-z)j^+(x-2z)→kসলিনয়ডাল হবে?",
+    "options": [
+      "p=-32"
+    ],
+    "correct_answer": "p=-32",
+    "correct_option_index": 0,
+    "subject": "ভেক্টর",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "পদার্থবিদ্যা",
+      "ভেক্টর"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231725",
+    "number": "12\n                        ",
+    "question_text": "যদি পৃথিবীর ভর চন্দ্রের ভরের 49  গুণ এবং তাদের কেন্দ্রের মধ্যবর্তী দূরত্বR=40×104হয় তবে , চন্দ্র ও পৃথিবীর সংযোগকারী রেখার কোথায় কোন বস্তুর উপর উভয়ের টান সমান হবে?",
+    "options": [
+      "=3.5×105km"
+    ],
+    "correct_answer": "=3.5×105km",
+    "correct_option_index": 0,
+    "subject": "মহাকর্ষ ও অভিকর্ষ",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "পদার্থবিদ্যা",
+      "মহাকর্ষ ও অভিকর্ষ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231726",
+    "number": "13\n                        ",
+    "question_text": "একটি অগ্রগামী তরঙ্গের সমীকরণ,  y= 5 sin(300πt-1.57x), এখানে সব কয়টি রাশি  SI এককে প্রদত্ত। তরঙ্গটির বিস্তার , কম্পাঙ্ক, বেগ ও পর্যায়কাল নির্ণয় কর।",
+    "options": [
+      "6.67×10-3s"
+    ],
+    "correct_answer": "6.67×10-3s",
+    "correct_option_index": 0,
+    "subject": "তরঙ্গ ও শক্তি",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "পদার্থবিদ্যা",
+      "তরঙ্গ ও শক্তি"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "ruet",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+    "exam_year": "2015",
+    "subcat_id": "4175",
+    "question_id": "231727",
+    "number": "14\n                        ",
+    "question_text": "একটি রাস্তা 100 m  ব্যাসার্ধে বাঁক নিয়েছে। ঐ স্থানে রাস্তাটি চওড়া  5m  এবং এর ভিতরের কিনারা হতে বাইরের কিনারা 50 cm উঁচু। সর্বোচ্চ কত বেগে ঐ স্থানে নিরাপদে  বাঁক নেয়া যাবে?",
+    "options": [
+      "9.899ms-1"
+    ],
+    "correct_answer": "9.899ms-1",
+    "correct_option_index": 0,
+    "subject": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+    "tags": [
+      "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (রুয়েট)",
+      "শিক্ষাবর্ষঃ ২০১৫-২০১৬",
+      "পদার্থবিদ্যা",
+      "আধুনিক পদার্থবিজ্ঞানের সূচনা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "too_few_options"
+    ]
+  },
+  {
+    "university": "shere-bangla-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১১-২০১২",
+    "exam_year": "2011",
+    "subcat_id": "4533",
+    "question_id": "234628",
+    "number": "2\n                        ",
+    "question_text": "কোনো মাধ্যমে দুটি শব্দের তরঙ্গদৈর্ঘ্য λ₁ ও λ₂ এবং সংশ্লিষ্ট কম্পাংক",
+    "options": [
+      "λ1λ2=f1f2",
+      "λ1λ2=f2f1",
+      "λ1λ2=f1f2",
+      "λ1λ2=f1f2"
+    ],
+    "correct_answer": "λ1λ2=f2f1",
+    "correct_option_index": 1,
+    "subject": "তরঙ্গ ও শব্দ (Waves and Sound)",
+    "tags": [
+      "শেরে বাংলা কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০১১-২০১২",
+      "পদার্থবিদ্যা",
+      "তরঙ্গ ও শব্দ (Waves and Sound)"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "mat",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+    "exam_year": "2019",
+    "subcat_id": "4676",
+    "question_id": "204504",
+    "number": "13\n                        ",
+    "question_text": "পর্যায়কাল ও বল ধ্রুবকের মধ্যে সম্পর্ক সূচক সমীকরণ কোনটি ?",
+    "options": [
+      "T∞K",
+      "T∞1K",
+      "C.K∞T",
+      "T∞K"
+    ],
+    "correct_answer": "T∞1K",
+    "correct_option_index": 1,
+    "subject": "বল",
+    "tags": [
+      "মেডিকেল কলেজ ভর্তি পরীক্ষার প্রশ্নসমুহ",
+      "শিক্ষাবর্ষঃ ২০১৮-২০১৯",
+      "পদার্থবিদ্যা",
+      "বল"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "mat",
+    "exam_name": "শিক্ষাবর্ষঃ ১৯৯৪-১৯৯৫",
+    "exam_year": "1995",
+    "subcat_id": "4491",
+    "question_id": "203348",
+    "number": "1\n                        ",
+    "question_text": "ইয়ং এর গুণাঙ্ক হচ্ছে",
+    "options": [
+      "দৈর্ঘ্য পীড়ন÷দৈর্ঘ্য ‍বিকৃতি",
+      "পার্শ্ব বিকৃতি÷দৈর্ঘ্য বিকৃতি",
+      "পার্শ্ব বিকৃতি÷দৈর্ঘ্য বিকৃতি",
+      "কৃন্তন পীড়ন÷কুন্ডন বিকৃতি"
+    ],
+    "correct_answer": "দৈর্ঘ্য পীড়ন÷দৈর্ঘ্য ‍বিকৃতি",
+    "correct_option_index": 0,
+    "subject": "ইয়ং এর স্থিতিস্থাপক গুণাঙ্ক",
+    "tags": [
+      "মেডিকেল কলেজ ভর্তি পরীক্ষার প্রশ্নসমুহ",
+      "শিক্ষাবর্ষঃ ১৯৯৪-১৯৯৫",
+      "পদার্থবিদ্যা",
+      "ইয়ং এর স্থিতিস্থাপক গুণাঙ্ক"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "mat",
+    "exam_name": "শিক্ষাবর্ষঃ ১৯৮৯-১৯৯০",
+    "exam_year": "1990",
+    "subcat_id": "4496",
+    "question_id": "204295",
+    "number": "8\n                        ",
+    "question_text": "কোনটি সত?",
+    "options": [
+      "কর্ণিয়া প্রতসরণশীল বলিয়া আলোকরশ্মি প্রবেশের অনুমতি দেয়",
+      "লেন্স আলোক রশ্মিকে রেটিনার সুনির্দিষ্ট অংশে প্রতিফলিত করে",
+      "স্ক্লেরা আলোক রশ্মিকে গ্রহণ করিয়া মস্তিষ্কে প্রেরণ করে",
+      "আইরিস আলোক নিয়ন্ত্রণে কোন কাজ করে না"
+    ],
+    "correct_answer": "কর্ণিয়া প্রতসরণশীল বলিয়া আলোকরশ্মি প্রবেশের অনুমতি দেয়",
+    "correct_option_index": 0,
+    "subject": "গতিবিদ্যা",
+    "tags": [
+      "মেডিকেল কলেজ ভর্তি পরীক্ষার প্রশ্নসমুহ",
+      "শিক্ষাবর্ষঃ ১৯৮৯-১৯৯০",
+      "পদার্থবিদ্যা",
+      "গতিবিদ্যা"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  }
+]

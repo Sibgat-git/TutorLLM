@@ -1,0 +1,594 @@
+[
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6905",
+    "question_id": "611499",
+    "number": "33\n                        ",
+    "question_text": "কোন দেশটি মৌসুমী জলবায়ু অঞ্চলের অন্তর্ভুক্ত নয়? (Which country is not included in the monsoon climate region?)",
+    "options": [
+      "যুক্তরাষ্ট্র (United States)",
+      "ব্রাজিল (Brazil)",
+      "ভারত (India)",
+      "বাংলাদেশ (Bangladesh)"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "ভূগোল",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - A ইউনিট (বিজ্ঞান) (বিভাগ পরিবর্তন) শিক্ষাবর্ষ : ২০২৫-২০২৬ (27-12-2025)",
+      "ভূগোল"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - চারুকলা ইউনিট শিক্ষাবর্ষ : ২০২৫-২০২৬ (29-11-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6846",
+    "question_id": "602029",
+    "number": "11\n                        ",
+    "question_text": "ড্রয়িং হলো-",
+    "options": [
+      "পেনসিলে আঁকা চিত্র",
+      "রঙে আঁকা চিত্র",
+      "কালিতে আঁকা চিত্র",
+      "রেখাচিত্র"
+    ],
+    "correct_answer": "রেখাচিত্র",
+    "correct_option_index": 3,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - চারুকলা ইউনিট শিক্ষাবর্ষ : ২০২৫-২০২৬ (29-11-2025)",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - চারুকলা ইউনিট শিক্ষাবর্ষ : ২০২৫-২০২৬ (29-11-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6846",
+    "question_id": "602030",
+    "number": "12\n                        ",
+    "question_text": "Golden Ratio-",
+    "options": [
+      "স্বর্ণমূল্য",
+      "অর্থনৈতিক সমৃদ্ধি",
+      "প্রাকৃতিক অনুপাত",
+      "সুবর্ণ সুযোগ"
+    ],
+    "correct_answer": "প্রাকৃতিক অনুপাত",
+    "correct_option_index": 2,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - চারুকলা ইউনিট শিক্ষাবর্ষ : ২০২৫-২০২৬ (29-11-2025)",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - (চারুকলা ইউনিট) শিক্ষাবর্ষ : ২০২৪-২০২৫ (01-04-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6368",
+    "question_id": "531973",
+    "number": "5\n                        ",
+    "question_text": "গ্রাফিতি-",
+    "options": [
+      "দেয়াললিপি ও দেয়ালচিত্র",
+      "গ্রাফিক প্রিন্ট",
+      "গ্রাফাইটের দেয়াল",
+      "গ্রাফযুক্ত চিত্র"
+    ],
+    "correct_answer": "দেয়াললিপি ও দেয়ালচিত্র",
+    "correct_option_index": 0,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - (চারুকলা ইউনিট) শিক্ষাবর্ষ : ২০২৪-২০২৫ (01-04-2025)",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "আন্ডারগ্র্যাজুয়েট প্রোগ্রাম ভর্তি পরীক্ষা  —  কলা ও সামাজিক বিজ্ঞান ইউনিট (সাত কলেজ) ২০২৩-২০২৪",
+    "exam_year": "2024",
+    "subcat_id": "6178",
+    "question_id": "446812",
+    "number": "8\n                        ",
+    "question_text": "বাংলাদেশের সবচেয়ে ছোটো প্রশাসনিক বিভাগ-",
+    "options": [
+      "কুমিল্লা",
+      "বরিশাল",
+      "সিলেট",
+      "রংপুর"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "আন্ডারগ্র্যাজুয়েট প্রোগ্রাম ভর্তি পরীক্ষা  —  কলা ও সামাজিক বিজ্ঞান ইউনিট (সাত কলেজ) ২০২৩-২০২৪",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "dhaka-university",
+    "exam_name": "ঢাকা বিশ্ববিদ্যালয় - খ ইউনিট (মানবিক) শিক্ষাবর্ষ : (2010-2011)",
+    "exam_year": "2010",
+    "subcat_id": "3149",
+    "question_id": "127850",
+    "number": "10\n                        ",
+    "question_text": "ইউএনবি কী?",
+    "options": [
+      "একটি সংবাদ সংস্থা",
+      "একটি বহুজাতিক কোম্পানি",
+      "একটি ঔষধ কোম্পানি",
+      "একটি বিদেশী সংস্থা"
+    ],
+    "correct_answer": "একটি সংবাদ সংস্থা",
+    "correct_option_index": 0,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "ঢাকা বিশ্ববিদ্যালয় - খ ইউনিট (মানবিক) শিক্ষাবর্ষ : (2010-2011)",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "chittagong-university",
+    "exam_name": "চট্টগ্রাম বিশ্ববিদ্যালয়  —  B ইউনিট (কলা ও মানববিদ্যা অনুষদ)  —  সেশন: ২০২৪-২০২৫ (08-03-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6446",
+    "question_id": "535868",
+    "number": "1\n                        ",
+    "question_text": "রদাঁ কে ছিলেন?",
+    "options": [
+      "চিত্রশিল্পী",
+      "ভাস্কর",
+      "লেখক",
+      "সংগীতশিল্পী"
+    ],
+    "correct_answer": "ভাস্কর",
+    "correct_option_index": 1,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "চট্টগ্রাম বিশ্ববিদ্যালয়",
+      "চট্টগ্রাম বিশ্ববিদ্যালয়  —  B ইউনিট (কলা ও মানববিদ্যা অনুষদ)  —  সেশন: ২০২৪-২০২৫ (08-03-2025)",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "chittagong-university",
+    "exam_name": "বিজ্ঞান ইউনিট —  (২০২২-২০২৩) ২য় শিফট (16-05-2023)",
+    "exam_year": "2023",
+    "subcat_id": "5648",
+    "question_id": "266948",
+    "number": "6\n                        ",
+    "question_text": "বাসবত্রাস কে?",
+    "options": [
+      "মেঘনাদ",
+      "বিভীষণ",
+      "রাম",
+      "রাবণ"
+    ],
+    "correct_answer": "মেঘনাদ",
+    "correct_option_index": 0,
+    "subject": "বিভীষণের প্রতি মেঘনাদ",
+    "tags": [
+      "চট্টগ্রাম বিশ্ববিদ্যালয়",
+      "বিজ্ঞান ইউনিট —  (২০২২-২০২৩) ২য় শিফট (16-05-2023)",
+      "বাংলা",
+      "বিভীষণের প্রতি মেঘনাদ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় — B ইউনিট (অ-বাণিজ্য) শিক্ষাবর্ষ : ২০১৭-২০১৮",
+    "exam_year": "2018",
+    "subcat_id": "4769",
+    "question_id": "224214",
+    "number": "13\n                        ",
+    "question_text": "বিটকয়েন' কী ?",
+    "options": [
+      "ডিজিটাল মুদ্রা",
+      "কেন্দ্রীয় ব্যাংকের মুদ্রা",
+      "বেসরকারী ব্যাংকের মুদ্রা",
+      "কোনটিই নয়"
+    ],
+    "correct_answer": "ডিজিটাল মুদ্রা",
+    "correct_option_index": 0,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় — B ইউনিট (অ-বাণিজ্য) শিক্ষাবর্ষ : ২০১৭-২০১৮",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় — A4 ইউনিট (মানবিক) শিক্ষাবর্ষ : ২০১২-২০১৩",
+    "exam_year": "2013",
+    "subcat_id": "4084",
+    "question_id": "220758",
+    "number": "3\n                        ",
+    "question_text": "খারাজ বলা হয়-",
+    "options": [
+      "অমুসলিমদের ভূমিকর",
+      "মুসলিমদের ভূমিকর",
+      "অমুসলিমদের নিরাপত্তা কর",
+      "কোনটিই নয়"
+    ],
+    "correct_answer": "অমুসলিমদের ভূমিকর",
+    "correct_option_index": 0,
+    "subject": "আরবি ও ইসলামিক স্টাডিজ",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় — A4 ইউনিট (মানবিক) শিক্ষাবর্ষ : ২০১২-২০১৩",
+      "আরবি ও ইসলামিক স্টাডিজ"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "rajshahi-university",
+    "exam_name": "রাজশাহী বিশ্ববিদ্যালয় — A3 ইউনিট (মানবিক) শিক্ষাবর্ষ : ২০১২-২০১৩",
+    "exam_year": "2013",
+    "subcat_id": "4082",
+    "question_id": "219291",
+    "number": "15\n                        ",
+    "question_text": "ব্রিটেনের রাজা পঞ্চম জর্জ ও রানি মেরি ভারতে সফরে আসেন-",
+    "options": [
+      "১৯০৫ সালে",
+      "১৯১১ সালে",
+      "১৯১১ সালে",
+      "১৯১৮ সালে"
+    ],
+    "correct_answer": "১৯১১ সালে",
+    "correct_option_index": 1,
+    "subject": "ইতিহাস",
+    "tags": [
+      "রাজশাহী বিশ্ববিদ্যালয়",
+      "রাজশাহী বিশ্ববিদ্যালয় — A3 ইউনিট (মানবিক) শিক্ষাবর্ষ : ২০১২-২০১৩",
+      "ইতিহাস"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয়  —  ই ইউনিট (চারুকলা অনুষদ) (২০২৪-২০২৫) | (31-01-2025)",
+    "exam_year": "2025",
+    "subcat_id": "6385",
+    "question_id": "532790",
+    "number": "7\n                        ",
+    "question_text": "'গ্রাফিতি' কী?",
+    "options": [
+      "গ্রাফিক প্রিন্ট",
+      "গ্রাফাইটের দেয়াল",
+      "গ্রাফযুক্ত চিত্র",
+      "দেয়াল লিপি"
+    ],
+    "correct_answer": "দেয়াল লিপি",
+    "correct_option_index": 3,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয়  —  ই ইউনিট (চারুকলা অনুষদ) (২০২৪-২০২৫) | (31-01-2025)",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয় - D ইউনিট - শিক্ষাবর্ষ : 2017-2018",
+    "exam_year": "2018",
+    "subcat_id": "3359",
+    "question_id": "167464",
+    "number": "8\n                        ",
+    "question_text": "EPA কী?",
+    "options": [
+      "Equal Production Authority",
+      "Einvironmental Protection Agency",
+      "Exchange Partnership Agency",
+      "Employment Protection Authority"
+    ],
+    "correct_answer": "Einvironmental Protection Agency",
+    "correct_option_index": 1,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয় - D ইউনিট - শিক্ষাবর্ষ : 2017-2018",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয় - খ ইউনিট - শিক্ষাবর্ষ : 2015-2016",
+    "exam_year": "2016",
+    "subcat_id": "3367",
+    "question_id": "170033",
+    "number": "5\n                        ",
+    "question_text": "ইয়াক -১৩০ কি ?",
+    "options": [
+      "ইরাকের অত্যাধুনিক যুদ্ধ বিমান",
+      "ইরানের তৈরি পারমানবিক ক্ষেপণাস্ত্র",
+      "রাশিয়ার তৈরি অত্যাধুনিক প্রশিক্ষণ বিমান",
+      "চীনের তৈরি পারমানবিক ক্ষেপণাস্ত্র"
+    ],
+    "correct_answer": "রাশিয়ার তৈরি অত্যাধুনিক প্রশিক্ষণ বিমান",
+    "correct_option_index": 2,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয় - খ ইউনিট - শিক্ষাবর্ষ : 2015-2016",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jagannath-university",
+    "exam_name": "জগন্নাথ বিশ্ববিদ্যালয় - D ইউনিট - শিক্ষাবর্ষ : 2008-2009",
+    "exam_year": "2008",
+    "subcat_id": "3781",
+    "question_id": "167076",
+    "number": "1\n                        ",
+    "question_text": "ডব্লুটিও কি ?",
+    "options": [
+      "আন্তর্জাতিক চুক্তি বিষয়ক একটি সংস্থা",
+      "পানি বিষয়ক একটি সংস্থা",
+      "আন্তর্জাতিক বাণিজ্য বিষয়ক একটি সংস্থা",
+      "ভুবিষ্যৎ আবহাওয়া বিষয়ক একটি সংস্থা"
+    ],
+    "correct_answer": "আন্তর্জাতিক বাণিজ্য বিষয়ক একটি সংস্থা",
+    "correct_option_index": 2,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "জগন্নাথ বিশ্ববিদ্যালয়",
+      "জগন্নাথ বিশ্ববিদ্যালয় - D ইউনিট - শিক্ষাবর্ষ : 2008-2009",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - C ইউনিট (মানবিক) শিক্ষাবর্ষ : ২০২৩ - ২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "6965",
+    "question_id": "618201",
+    "number": "8\n                        ",
+    "question_text": "কোনটি 'সাহিত্যিক' শব্দের প্রকৃতি ও প্রত্যয়?",
+    "options": [
+      "সাহি+ ইত্যিক",
+      "সাহি+ ইত্যিক",
+      "সাহিত্য + ষ্ণিক",
+      "সাহিত্য + নিক"
+    ],
+    "correct_answer": "সাহিত্য + ষ্ণিক",
+    "correct_option_index": 2,
+    "subject": "বঙ্গবন্ধু তুলনামূলক সাহিত্য ও সংস্কৃতি ইনস্টিটিউট",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - C ইউনিট (মানবিক) শিক্ষাবর্ষ : ২০২৩ - ২৪ (সেট : O)",
+      "বঙ্গবন্ধু তুলনামূলক সাহিত্য ও সংস্কৃতি ইনস্টিটিউট"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - C ইউনিট (মানবিক) শিক্ষাবর্ষ : ২০২৩ - ২৪ (সেট : O)",
+    "exam_year": "2024",
+    "subcat_id": "6965",
+    "question_id": "618203",
+    "number": "10\n                        ",
+    "question_text": "মিথ হলো-",
+    "options": [
+      "পৌরাণিক কথা",
+      "বহু ঈশ্বরবাদ",
+      "মহাপ্রাণবাদ",
+      "ধর্মীয় কাহিনি"
+    ],
+    "correct_answer": "পৌরাণিক কথা",
+    "correct_option_index": 0,
+    "subject": "বঙ্গবন্ধু তুলনামূলক সাহিত্য ও সংস্কৃতি ইনস্টিটিউট",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - C ইউনিট (মানবিক) শিক্ষাবর্ষ : ২০২৩ - ২৪ (সেট : O)",
+      "বঙ্গবন্ধু তুলনামূলক সাহিত্য ও সংস্কৃতি ইনস্টিটিউট"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "jahangirnagar-university",
+    "exam_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - C1 ইউনিট (নাটক ও নাট্যতত্ত্ব বিভাগ এবং চারুকলা বিভাগ) শিক্ষাবর্ষ : ২০১৮ - ১৯ (সেট : A)",
+    "exam_year": "2019",
+    "subcat_id": "7013",
+    "question_id": "621096",
+    "number": "13\n                        ",
+    "question_text": "আগরতলা ষড়যন্ত্র মামলা কবে দায়ের করা হয়?",
+    "options": [
+      "৬ মার্চ ১৯৬৭",
+      "৩ জানুয়ারি ১৯৬৯",
+      "২২ ফেব্রুয়ারি ১৯৬৯",
+      "১৮ জুন ১৯৬৮"
+    ],
+    "correct_answer": "",
+    "correct_option_index": -1,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় - C1 ইউনিট (নাটক ও নাট্যতত্ত্ব বিভাগ এবং চারুকলা বিভাগ) শিক্ষাবর্ষ : ২০১৮ - ১৯ (সেট : A)",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "empty_answer",
+      "out_of_range"
+    ]
+  },
+  {
+    "university": "cumilla-university",
+    "exam_name": "কুমিল্লা বিশ্ববিদ্যালয় — B ইউনিট (মানবিক)- শিক্ষাবর্ষ: ২০১৮-২০১৯",
+    "exam_year": "2018",
+    "subcat_id": "4743",
+    "question_id": "100107",
+    "number": "2\n                        ",
+    "question_text": "যুক্তিবিদ্যার প্রধান কাজ -",
+    "options": [
+      "সুযুক্তি এবং কুযুক্তির পার্থক্য  নির্ণয়",
+      "চেতনা বৃদ্ধি",
+      "বুুদ্ধিবৃত্তি",
+      "চেতনা বৃদ্ধি"
+    ],
+    "correct_answer": "চেতনা বৃদ্ধি",
+    "correct_option_index": 3,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "কুমিল্লা বিশ্ববিদ্যালয়",
+      "কুমিল্লা বিশ্ববিদ্যালয় — B ইউনিট (মানবিক)- শিক্ষাবর্ষ: ২০১৮-২০১৯",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  },
+  {
+    "university": "shere-bangla-agricultural-university",
+    "exam_name": "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+    "exam_year": "2014",
+    "subcat_id": "4530",
+    "question_id": "234707",
+    "number": "11\n                        ",
+    "question_text": "অটিজম কি?",
+    "options": [
+      "একটি রোগ",
+      "অস্বাভাবিকতা",
+      "স্নায়ুবিকাশ জনিত সমস্যা",
+      "মানসিক অবসাদ"
+    ],
+    "correct_answer": "স্নায়ুবিকাশ জনিত সমস্যা",
+    "correct_option_index": 2,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "শেরে বাংলা কৃষি বিশ্ববিদ্যালয়",
+      "শিক্ষাবর্ষঃ ২০১৪-২০১৫",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "short_question"
+    ]
+  },
+  {
+    "university": "dat",
+    "exam_name": "শিক্ষাবর্ষঃ ২০০২-২০০৩",
+    "exam_year": "2002",
+    "subcat_id": "4570",
+    "question_id": "124422",
+    "number": "11\n                        ",
+    "question_text": "এক মোল সমান কত গ্রাম পানি ?",
+    "options": [
+      "১৮.২০ গ্রাম",
+      "১৭.০২ গ্রাম",
+      "১৮.০২ গ্রাম",
+      "১৭.০২ গ্রাম"
+    ],
+    "correct_answer": "১৮.০২ গ্রাম",
+    "correct_option_index": 2,
+    "subject": "সাধারণ জ্ঞান",
+    "tags": [
+      "ডেন্টাল কলেজ  ভর্তি পরীক্ষার প্রশ্নসমুহ",
+      "শিক্ষাবর্ষঃ ২০০২-২০০৩",
+      "সাধারণ জ্ঞান"
+    ],
+    "question_type": "mcq",
+    "question_image": null,
+    "quality_flags": [
+      "duplicate_options"
+    ]
+  }
+]
