@@ -1,0 +1,1472 @@
+{
+  "accounting": {
+    "sample_size": 20,
+    "score": 0.65,
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question_id": "196090",
+        "question_text": "which is the first private commercial bank in Bangladesh?",
+        "correct_answer": "AB Bank",
+        "model_answer": "AB Bank",
+        "passed": true
+      },
+      {
+        "question_id": "604895",
+        "question_text": "অর্থের সময় মূল্য নিচের কোনটির উপর নির্ভর করে না?",
+        "correct_answer": "অর্থের পরিমাণ",
+        "model_answer": "অর্থের পরিমাণ",
+        "passed": true
+      },
+      {
+        "question_id": "265481",
+        "question_text": "নিচের কোন পণ্যের জন্য উৎপাদনকারী কর্তৃক ব্যাপক প্রসার প্রয়োজন হয়?",
+        "correct_answer": "শপিং পণ্য",
+        "model_answer": "সুবিধা পণ্য",
+        "passed": false
+      },
+      {
+        "question_id": "604857",
+        "question_text": "বিক্রিত পণ্যের ব্যয় ৭৫,০০০ টাকা, উৎপাদিত পণ্যের ব্যয় ৪৫,০০০ টাকা এবং সমাপনী মজুদপণ্য ১২,০০০ টাকা হলে প্রারম্ভিক মজুদপণ্য কত?",
+        "correct_answer": "৪২,০০০",
+        "model_answer": "৪২,০০০",
+        "passed": true
+      },
+      {
+        "question_id": "546246",
+        "question_text": "অগ্রিম বীমা কোন ধরনের হিসাব?",
+        "correct_answer": "সম্পদ হিসাব",
+        "model_answer": "সম্পদ হিসাব",
+        "passed": true
+      },
+      {
+        "question_id": "105865",
+        "question_text": "যন্ত্রপাতির বার্ষিক মেরামত ব্যয় ৫,০০০ টাকা যন্ত্রপাতি হিসাবে ডেবিট করা হল। এটি কোন ধরনের ভুল?",
+        "correct_answer": "নীতিগত ভুল",
+        "model_answer": "নীতিগত ভুল",
+        "passed": true
+      },
+      {
+        "question_id": "604858",
+        "question_text": "AB কোম্পানি ৩,০০০ টাকা মূল্যের পণ্য ক্রয় করেছে, যার ক্রেডিট শর্ত হলো১১০১১০,n৩০n৩০। যদি বছরে ৩৬০ দিন হয়, তাহলে ক্রেডিট শর্তে প্রযোজ্য বার্ষিক সুদের হার কত?",
+        "correct_answer": "১৮.১৮%",
+        "model_answer": "১৮.১৮%",
+        "passed": true
+      },
+      {
+        "question_id": "129302",
+        "question_text": "ক্রয়মূল্যের উপর ২৫% মুনাফা বিক্রয় মূল্যের উপর মুনাফার হার হবে-",
+        "correct_answer": "২০",
+        "model_answer": "২০",
+        "passed": true
+      },
+      {
+        "question_id": "604853",
+        "question_text": "কোন নীতির অধীনে মালিকের ব্যক্তিগত লেনদেন এবং ব্যবসায়িক লেনদেনের মধ্যে পৃথকীকরণ করা হয়?",
+        "correct_answer": "ব্যবসায়ের স্বত্বানীতি",
+        "model_answer": "ব্যবসায়ের স্বত্বানীতি",
+        "passed": false
+      },
+      {
+        "question_id": "546256",
+        "question_text": "শেয়ার বিক্রির জন্য কোন দলিলটি প্রয়োজন হয়?",
+        "correct_answer": "বিবরণপত্র",
+        "model_answer": "বিবরণপত্র",
+        "passed": true
+      },
+      {
+        "question_id": "100817",
+        "question_text": "চট্টগ্রাম স্টক একচেঞ্জএর কার্যক্রম শুরু হয় কখন থেকে  ?",
+        "correct_answer": "১৯৯৫ সালের ১০ই অক্টোবর",
+        "model_answer": "১৯৯৫ সালের ১০ই অক্টোবর",
+        "passed": true
+      },
+      {
+        "question_id": "100377",
+        "question_text": "একটি ঠিকা ফার্মে কাঁচামালের ব্যয় ৪০,০০০ টাকা, প্রত্যক্ষ মজুরি ৬০,০০০ টাকা ও উপরি খরচ মুখ্য ব্যয়ের ৬০% হলে, উৎপাদন ব্যয় কত হবে?",
+        "correct_answer": "১৬০,০০০ টাকা",
+        "model_answer": "১৬০,০০০ টাকা",
+        "passed": true
+      },
+      {
+        "question_id": "105473",
+        "question_text": "নিম্নের কোন ভুলটি রেওয়ামিলে ধরা পড়ে না?",
+        "correct_answer": "পরিপূরক ভুল",
+        "model_answer": "পরিপূরক ভুল",
+        "passed": true
+      },
+      {
+        "question_id": "547814",
+        "question_text": "নিচের কোনটি কোম্পানির শেয়ারহোল্ডারদের স্বত্বের অংশ নয়?",
+        "correct_answer": "শেয়ারে বিনিয়োগ",
+        "model_answer": "শেয়ারে বিনিয়োগ",
+        "passed": false
+      },
+      {
+        "question_id": "546253",
+        "question_text": "সমাপনী দাখিলা প্রস্তুতের উদ্দেশ্য-",
+        "correct_answer": "আয়-ব্যয় হিসাব বন্ধ করা",
+        "model_answer": "আয়-ব্যয় হিসাব বন্ধ করা",
+        "passed": false
+      },
+      {
+        "question_id": "547833",
+        "question_text": "বিপণন গ্রাহকের জন্য কী সৃষ্টি করে?",
+        "correct_answer": "ভ্যালু",
+        "model_answer": "ভ্যালু",
+        "passed": true
+      },
+      {
+        "question_id": "547852",
+        "question_text": "নিচের কোনটি কেন্দ্রীয় ব্যাংকের দায়িত্ব নয়?",
+        "correct_answer": "ব্যাংকগুলোর লাভ বৃদ্ধি করা",
+        "model_answer": "ব্যাংকগুলোর লাভ বৃদ্ধি করা",
+        "passed": true
+      },
+      {
+        "question_id": "215315",
+        "question_text": "অগ্রিম বিমা প্রিমিয়াম খরচ হিসাবে দেখানো হয়না কোন নীতি অনুসরণ করে?",
+        "correct_answer": "মিলকরণ",
+        "model_answer": "ব্যয়",
+        "passed": false
+      },
+      {
+        "question_id": "218580",
+        "question_text": "প্রারম্ভিক মূলধন টা. ৫৬,৫০০ , সমাপনি মূলধন টা, ৫১,৩৫০ এবং উত্তোলন টা, ৩,০০০ হলে -",
+        "correct_answer": "ঐ বছরে ক্ষতি হয়েছিল ২,১৫০ টাকা",
+        "model_answer": "ঐ বছরে ক্ষতি হয়েছিল ২,১৫০ টাকা",
+        "passed": false
+      },
+      {
+        "question_id": "547810",
+        "question_text": "নিচের কোন হিসাবটির সমাপনী জাবেদা এবং খতিয়ান করার পরে শূন্য ব্যালেন্স হবে?",
+        "correct_answer": "পরিসেবা আয়",
+        "model_answer": "পরিসেবা আয়",
+        "passed": false
+      }
+    ]
+  },
+  "bangla": {
+    "sample_size": 20,
+    "score": 0.6,
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question_id": "153156",
+        "question_text": "'যদি সত্য বল তাহলে মুক্তি পাবে'-কোন বাক্যের উদাহরণ?",
+        "correct_answer": "মিশ্র বাক্যের",
+        "model_answer": "মিশ্র বাক্যের",
+        "passed": true
+      },
+      {
+        "question_id": "607054",
+        "question_text": "কোন শব্দে 'আধিক্য' অর্থে 'পরা' উপসর্গ ব্যবহৃত হয়েছে?",
+        "correct_answer": "পরাক্রান্ত",
+        "model_answer": "পরাক্রান্ত",
+        "passed": true
+      },
+      {
+        "question_id": "107701",
+        "question_text": "কবি কাজী নজরুল ইসলাম কত সালে জন্মগ্রহণ করেন?",
+        "correct_answer": "১৮৯৯",
+        "model_answer": "১৮৯৯",
+        "passed": true
+      },
+      {
+        "question_id": "618436",
+        "question_text": "'আমি কোনো দিনই কারুর বাণীকে বেদবাক্য বলে মেনে নেব না, যদি তার -প্রাণে তার সাড়া না দেয়।' শূন্যস্থানের যথার্থ শব্দ কোনটি?",
+        "correct_answer": "সত্যতা",
+        "model_answer": "নিজ",
+        "passed": false
+      },
+      {
+        "question_id": "136436",
+        "question_text": "জীবের  ডগা আর উপর -পাটি দাঁতের সংস্পর্শে উচ্চারিত হয়",
+        "correct_answer": "ত, থ",
+        "model_answer": "ত, থ",
+        "passed": true
+      },
+      {
+        "question_id": "137143",
+        "question_text": "শুদ্ধ বানানের শব্দগুচ্ছ শনাক্ত কর:",
+        "correct_answer": "সমীচীন, মুমূর্ষু, পুণ্য, অপরাহ্ন",
+        "model_answer": "সমীচীন, মুমূর্ষু, পুণ্য, অপরাহ্ন",
+        "passed": true
+      },
+      {
+        "question_id": "618165",
+        "question_text": "'এই মাটিতেই তো একদিন ফিরি যাইবা- থেমে আবার বলে, মাটিরে কষ্ট দেওন গুনাহ্।'- উক্তিটি কে কাকে করেছে?",
+        "correct_answer": "মজিদ, রহিমাকে",
+        "model_answer": "মজিদ, জমিলাকে",
+        "passed": false
+      },
+      {
+        "question_id": "556812",
+        "question_text": "'আহ্বান' শব্দটির শুদ্ধ উচ্চারণ কোনটি?",
+        "correct_answer": "আওভান",
+        "model_answer": "আহোবান",
+        "passed": false
+      },
+      {
+        "question_id": "241375",
+        "question_text": "নিচের কোন বানানটি শুদ্ধ নয়?",
+        "correct_answer": "নিলীমা",
+        "model_answer": "নিলীমা",
+        "passed": true
+      },
+      {
+        "question_id": "151380",
+        "question_text": "সাহিত্যে নোবেল পুরস্কার প্রত্যাখ্যান করেছিলেন-",
+        "correct_answer": "জাঁ পল সার্ত্রে",
+        "model_answer": "জাঁ পল সার্ত্রে",
+        "passed": true
+      },
+      {
+        "question_id": "419602",
+        "question_text": "নিচের কোনটি মাইকেল মধুসূদন দত্তের রচনা নয়?",
+        "correct_answer": "আমি বীরাঙ্গনা বলছি",
+        "model_answer": "আমি বীরাঙ্গনা বলছি",
+        "passed": true
+      },
+      {
+        "question_id": "86071",
+        "question_text": "শরৎচন্দ্র চট্রোপাধ্যায় কোন গ্রামে জন্মগ্রহণ করেন?",
+        "correct_answer": "দেবানন্দপুর",
+        "model_answer": "দেবানন্দপুর",
+        "passed": true
+      },
+      {
+        "question_id": "195506",
+        "question_text": "‘বাশি বাজে ঐ মধুর লগনে’ কোন বাচ্যের উদাহরণ?",
+        "correct_answer": "কর্মকৃর্তবাচ্য",
+        "model_answer": "ভাববাচ্য",
+        "passed": false
+      },
+      {
+        "question_id": "611467",
+        "question_text": "আপনার সত্যকে পথপ্রদর্শক কাণ্ডারি বলে জানা-",
+        "correct_answer": "দম্ভ নয়",
+        "model_answer": "দম্ভ নয়",
+        "passed": false
+      },
+      {
+        "question_id": "616703",
+        "question_text": "উপরের অনুচ্ছেদে 'অপরিচিতা' গল্পের কোন বিষয়ের প্রতিফলন ঘটেছে?",
+        "correct_answer": "সবগুলো",
+        "model_answer": "নারী শিক্ষার প্রয়োজনীয়তা",
+        "passed": false
+      },
+      {
+        "question_id": "85990",
+        "question_text": "\" ডাক্তার বাবুর হাতযশ আছে।\"এখানে 'হাত' অর্থ -",
+        "correct_answer": "নিপুণতা",
+        "model_answer": "নিপুণতা",
+        "passed": true
+      },
+      {
+        "question_id": "245330",
+        "question_text": "The rain started immediately after we had finished our reading- বাক্যটির সঠিক অনুবাদ কোনটি?",
+        "correct_answer": "আমাদের পড়া শেষ হওয়া মাত্র বৃষ্টি শুরু হয়েছিল",
+        "model_answer": "আমাদের পড়া শেষ হওয়া মাত্র বৃষ্টি শুরু হয়েছিল",
+        "passed": false
+      },
+      {
+        "question_id": "244693",
+        "question_text": "কোন কবিতায় বাতাবি লেবুর উল্লেখ আছে?",
+        "correct_answer": "তাহারেই পড়ে মনে",
+        "model_answer": "ঐকতান",
+        "passed": false
+      },
+      {
+        "question_id": "217096",
+        "question_text": "কোন উপন্যাসটি বিভূতিভূষণের লেখা নয়?",
+        "correct_answer": "কাজল",
+        "model_answer": "কাজল",
+        "passed": true
+      },
+      {
+        "question_id": "623740",
+        "question_text": "ভাষাকে রূপদান করতে কিসের সাহায্য নিতে হয়?",
+        "correct_answer": "বাগযন্ত্রের",
+        "model_answer": "বাগযন্ত্রের",
+        "passed": true
+      }
+    ]
+  },
+  "biology": {
+    "sample_size": 20,
+    "score": 0.85,
+    "difficulty": "easy",
+    "questions": [
+      {
+        "question_id": "196378",
+        "question_text": "নিচের কোন ভেষজ উদ্ভিদ ধরতে উচ্চ রক্তচাপের ঔষধ তৈরি করা হয় ?",
+        "correct_answer": "Adhatoda vasica",
+        "model_answer": "কোনটিই নয়",
+        "passed": false
+      },
+      {
+        "question_id": "94102",
+        "question_text": "রুই মাছের প্রধান চলন অঙ্গ কোনটি?",
+        "correct_answer": "পুচ্ছ পাখনা",
+        "model_answer": "পুচ্ছ পাখনা",
+        "passed": true
+      },
+      {
+        "question_id": "153879",
+        "question_text": "70S রাইবোসোমে প্রোটিন অণু রয়েছে-",
+        "correct_answer": "52 প্রকারের",
+        "model_answer": "52 প্রকারের",
+        "passed": true
+      },
+      {
+        "question_id": "417730",
+        "question_text": "নিউক্লিক অ্যাসিড পুনরাবৃত্ত একক কোনটি? (Which one is the repeating unit of nucleic acid?)",
+        "correct_answer": "নিউক্লিওটাইড (Nucleotide)",
+        "model_answer": "নিউক্লিওটাইড (Nucleotide)",
+        "passed": true
+      },
+      {
+        "question_id": "606750",
+        "question_text": "শাপলা যে শ্রেণির জলজ উদ্ভিদ তার নাম -",
+        "correct_answer": "মূলাবদ্ধ পত্রভাসমান",
+        "model_answer": "মূলাবদ্ধ পত্রভাসমান",
+        "passed": true
+      },
+      {
+        "question_id": "104401",
+        "question_text": "মানুষের মুখবিবরে লালাগ্রন্থির সংখ্যা হচ্ছে-",
+        "correct_answer": "3 জোড়া",
+        "model_answer": "3 জোড়া",
+        "passed": false
+      },
+      {
+        "question_id": "232161",
+        "question_text": "পরিবেশ ও অন্যান্য প্রয়োজনে কোনো দেশের শতকরা কতভাগ বনাঞ্চল থাকা দরকার?",
+        "correct_answer": "25",
+        "model_answer": "25",
+        "passed": true
+      },
+      {
+        "question_id": "232376",
+        "question_text": "তালিপামের বৈজ্ঞানিক নাম?",
+        "correct_answer": "corypha taliera",
+        "model_answer": "corypha taliera",
+        "passed": true
+      },
+      {
+        "question_id": "201737",
+        "question_text": "হাইড্রার মুকুল কী কাজে ব্যবহৃত হয়?",
+        "correct_answer": "অযৌন প্রজনন",
+        "model_answer": "অযৌন প্রজনন",
+        "passed": true
+      },
+      {
+        "question_id": "417729",
+        "question_text": "নিচের কোন কোষটি নিউক্লিয়াসবিহীন? (Which of the following cells does not have a nucleus?)",
+        "correct_answer": "সিভনল (Sieve Tube)",
+        "model_answer": "সিভনল (Sieve Tube)",
+        "passed": true
+      },
+      {
+        "question_id": "84893",
+        "question_text": "হাইড্রার অমরত্বের ব্যাখ্যা দেন যে বিজ্ঞানী তার নামঃ",
+        "correct_answer": "ট্রেম্বলে",
+        "model_answer": "ট্রেম্বলে",
+        "passed": true
+      },
+      {
+        "question_id": "130650",
+        "question_text": "কোন স্তন্যপায়ী  প্রাণীটি উড়তে পারে ?",
+        "correct_answer": "Pteropus giganteus",
+        "model_answer": "Pteropus giganteus",
+        "passed": true
+      },
+      {
+        "question_id": "421981",
+        "question_text": "থ্রম্বোসাইটোপেনিয়া নিম্নের কোন রোগের বিশেষ বৈশিষ্ট্য?",
+        "correct_answer": "ডেঙ্গু",
+        "model_answer": "ডেঙ্গু",
+        "passed": true
+      },
+      {
+        "question_id": "627490",
+        "question_text": "ভাস্কুলার বান্ডলে প্রোটোজাইলেমের বৈশিষ্ট্য কোনটি?",
+        "correct_answer": "সরু গর্তযুক্ত",
+        "model_answer": "সরু গর্তযুক্ত",
+        "passed": true
+      },
+      {
+        "question_id": "96242",
+        "question_text": "ম্যালপিজিয়ান নালিকা ভূমিকা পালন কর-",
+        "correct_answer": "রেচনে",
+        "model_answer": "রেচনে",
+        "passed": true
+      },
+      {
+        "question_id": "204291",
+        "question_text": "বিভাজন ক্ষমতা নাই কোন কোষের?",
+        "correct_answer": "স্নায়ু কোষ",
+        "model_answer": "স্নায়ু কোষ",
+        "passed": false
+      },
+      {
+        "question_id": "402734",
+        "question_text": "সবচেয়ে বেশী খাদ্যসার শোষিত হয়-",
+        "correct_answer": "জেজুনাম (jejunum)",
+        "model_answer": "জেজুনাম (jejunum)",
+        "passed": true
+      },
+      {
+        "question_id": "124950",
+        "question_text": "নিম্নের কোনটি DNA-এর বৈশিষ্ট্য নয় ?",
+        "correct_answer": "কোষের সর্বত্র বিস্তৃত থাকে",
+        "model_answer": "কোষের সর্বত্র বিস্তৃত থাকে",
+        "passed": true
+      },
+      {
+        "question_id": "609074",
+        "question_text": "প্রাণঘাতী (lethal) জিনের ক্ষেত্রে মেন্ডেলের ফেনোটাইপিক অনুপাত কোন্টি?",
+        "correct_answer": "2 : 1",
+        "model_answer": "2 : 1",
+        "passed": true
+      },
+      {
+        "question_id": "538161",
+        "question_text": "মনোহাইড্রিক অ্যালকোহলের সাথে ফ্যাটি এসিড এস্টারীভূত হয়ে কী উৎপন্ন হয়?",
+        "correct_answer": "মোম",
+        "model_answer": "মোম",
+        "passed": true
+      }
+    ]
+  },
+  "chemistry": {
+    "sample_size": 20,
+    "score": 0.8,
+    "difficulty": "easy",
+    "questions": [
+      {
+        "question_id": "100090",
+        "question_text": "উদ্ভিদের  বর্জ্যপদার্থ নয় কনটি ?",
+        "correct_answer": "লিপিড",
+        "model_answer": "লিপিড",
+        "passed": true
+      },
+      {
+        "question_id": "142286",
+        "question_text": "উৎসেচকের পরম তাপমাত্রা -",
+        "correct_answer": "35-40° C",
+        "model_answer": "35-40° C",
+        "passed": true
+      },
+      {
+        "question_id": "155594",
+        "question_text": "সেমুতাং গ্যাসক্ষেত্র অবস্থিত",
+        "correct_answer": "খাগড়াছড়িতে",
+        "model_answer": "বান্দরবানে",
+        "passed": false
+      },
+      {
+        "question_id": "95212",
+        "question_text": "কার্বলিক এসিড কোনটি?",
+        "correct_answer": "C6H5OH",
+        "model_answer": "C6H5OH",
+        "passed": true
+      },
+      {
+        "question_id": "202225",
+        "question_text": "নিম্নের কোনটি অ্যামিনো এসিডের কাজ নয়?",
+        "correct_answer": "গ্লিসারল তৈরিতে সহায়তা করা",
+        "model_answer": "গ্লিসারল তৈরিতে সহায়তা করা",
+        "passed": false
+      },
+      {
+        "question_id": "142073",
+        "question_text": "কোনটি ফসফোপ্রোটিন?",
+        "correct_answer": "দুধের কেসিনোজেন",
+        "model_answer": "দুধের কেসিনোজেন",
+        "passed": true
+      },
+      {
+        "question_id": "535282",
+        "question_text": "প্রাণির নখে কোন ধরনের প্রোটিন থাকে?",
+        "correct_answer": "কেরাটিন",
+        "model_answer": "কেরাটিন",
+        "passed": true
+      },
+      {
+        "question_id": "203020",
+        "question_text": "প্রাইমারি, সেকেন্ডারি, টারসিয়ারি অ্যালকোহল যে অনুসারে শ্রেণীবিভক্ত হয়েছে সেটি হলো-",
+        "correct_answer": "হাইড্রক্সিল মূলকের অবস্থান অনুসারে",
+        "model_answer": "হাইড্রক্সিল মূলকের অবস্থান অনুসারে",
+        "passed": true
+      },
+      {
+        "question_id": "123808",
+        "question_text": "মাস স্পেকট্রোমিটার অনুযায়ী1735CIএবং1737CIএর অনুপাত কত ?",
+        "correct_answer": "3 : 1",
+        "model_answer": "3 : 1",
+        "passed": true
+      },
+      {
+        "question_id": "126370",
+        "question_text": "নিচের কোনটি বাফার দ্রবণ?",
+        "correct_answer": "CH3COOH&CH3COONa",
+        "model_answer": "CH3COOH&CH3COONa",
+        "passed": true
+      },
+      {
+        "question_id": "205648",
+        "question_text": "অ্যাভোগাড্রোর প্রকল্প অনুযায়ীV∞n- যখন -",
+        "correct_answer": "T  ও  P  ধ্রুবক",
+        "model_answer": "T  ও  P  ধ্রুবক",
+        "passed": true
+      },
+      {
+        "question_id": "144692",
+        "question_text": "গ্রিন হাউস গ্যাসে CFC এর শতকরা পরিমাণ কত ?",
+        "correct_answer": "16%",
+        "model_answer": "14%",
+        "passed": false
+      },
+      {
+        "question_id": "95091",
+        "question_text": "5% (w/v)  NaOH  দ্রবনের মোলার ঘনমাত্রা কত?",
+        "correct_answer": "1.25 M",
+        "model_answer": "1.25 M",
+        "passed": true
+      },
+      {
+        "question_id": "84133",
+        "question_text": "সবল এসিড ও সবল ক্ষার এর প্রসমন তাপ কোন টি ?",
+        "correct_answer": "57.32 কিলোজুল",
+        "model_answer": "57.32 কিলোজুল",
+        "passed": true
+      },
+      {
+        "question_id": "180107",
+        "question_text": "কোন গ্যাসটি এসিড রেইনের জন্য দায়ী ?",
+        "correct_answer": "SO2",
+        "model_answer": "SO2",
+        "passed": true
+      },
+      {
+        "question_id": "153951",
+        "question_text": "কোন যৌগে আন্তঃআণবিক (অণু মধ্যস্থ) হাইড্রোজেন বন্ধন বিদ্যমান?",
+        "correct_answer": "আর্থ-নাইট্রোফেনল",
+        "model_answer": "প্যারা-নাইট্রোফেনল",
+        "passed": false
+      },
+      {
+        "question_id": "83927",
+        "question_text": "সবচেয়ে শক্তিশালী এসিড কোনটি?",
+        "correct_answer": "HNO3",
+        "model_answer": "HNO3",
+        "passed": true
+      },
+      {
+        "question_id": "205628",
+        "question_text": "কোনটি বিজারক নয়?",
+        "correct_answer": "F2",
+        "model_answer": "F2",
+        "passed": true
+      },
+      {
+        "question_id": "241795",
+        "question_text": "একটি রেফ্রিজারেটরের কর্মসম্পাদন সহগ 2। এটি শীতল তাপধার হতে প্রতি চক্রে 250। তাপ গ্রহণ করে। রেফ্রিজারেটরটি প্রতি চক্রে কী পরিমাপ তাপ উষ্ণ তাপধারে বর্জন করবে?",
+        "correct_answer": "375 J",
+        "model_answer": "375 J",
+        "passed": true
+      },
+      {
+        "question_id": "206802",
+        "question_text": "গ্রিগনার্ড বিকারক হলো-",
+        "correct_answer": "CH3MgCI",
+        "model_answer": "CH3MgCI",
+        "passed": true
+      }
+    ]
+  },
+  "english": {
+    "sample_size": 20,
+    "score": 0.7,
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question_id": "161802",
+        "question_text": "——- Mahabharata is -— greatest epic in the world literature.",
+        "correct_answer": "the,the",
+        "model_answer": "no article, the",
+        "passed": false
+      },
+      {
+        "question_id": "182869",
+        "question_text": "SCURRY : MOVE ::",
+        "correct_answer": "chatte :talk",
+        "model_answer": "chant : sing",
+        "passed": false
+      },
+      {
+        "question_id": "127634",
+        "question_text": "To \"cach off guard\" means-",
+        "correct_answer": "get someone when he/she is careless",
+        "model_answer": "get someone when he/she is careless",
+        "passed": true
+      },
+      {
+        "question_id": "222301",
+        "question_text": "If I had known the exact location of the office, I— given him the address.",
+        "correct_answer": "would have",
+        "model_answer": "would have",
+        "passed": true
+      },
+      {
+        "question_id": "626303",
+        "question_text": "Fill in the blanks",
+        "correct_answer": "dictate",
+        "model_answer": "determine",
+        "passed": false
+      },
+      {
+        "question_id": "625027",
+        "question_text": "Despite of the Taft-Hartley Act which forbids unfair union practices, some unions such as the air traffic controllers have voted to strike even though this acting might endanger the national security. Here which of the underlying word is incorrect?",
+        "correct_answer": "Despite",
+        "model_answer": "Despite",
+        "passed": true
+      },
+      {
+        "question_id": "234847",
+        "question_text": "He said to me ' May Allah Bless you'",
+        "correct_answer": "He wished that Allah might bless me.",
+        "model_answer": "He wished that Allah might bless me.",
+        "passed": true
+      },
+      {
+        "question_id": "86315",
+        "question_text": "What is the meaning of 'Herculean task'?",
+        "correct_answer": "task which needs great strength and determination",
+        "model_answer": "task which needs great strength and determination",
+        "passed": true
+      },
+      {
+        "question_id": "95085",
+        "question_text": "Sheelatold her teacher to explain the chapter one again .",
+        "correct_answer": "said to her teacher",
+        "model_answer": "asked her teacher",
+        "passed": false
+      },
+      {
+        "question_id": "618930",
+        "question_text": "The adjective of the word 'repair' is ____.",
+        "correct_answer": "repairable",
+        "model_answer": "repairable",
+        "passed": true
+      },
+      {
+        "question_id": "223959",
+        "question_text": "Trace the stranger in the following group:",
+        "correct_answer": "acre",
+        "model_answer": "Acre",
+        "passed": true
+      },
+      {
+        "question_id": "88292",
+        "question_text": "‘সে কলেরায় মারা গেছে’ Choose the correct translation--",
+        "correct_answer": "He died of cholera",
+        "model_answer": "He died of cholera",
+        "passed": true
+      },
+      {
+        "question_id": "166695",
+        "question_text": "Last year, Matt earned----------his brother, who has better position.",
+        "correct_answer": "twice as much as",
+        "model_answer": "twice as much as",
+        "passed": true
+      },
+      {
+        "question_id": "95387",
+        "question_text": "’Misanthropist’ mean-",
+        "correct_answer": "A hater of mankind",
+        "model_answer": "A hater of mankind",
+        "passed": true
+      },
+      {
+        "question_id": "533691",
+        "question_text": "Select the right form of the underlined verb-I shall write to him before hereturn",
+        "correct_answer": "returns",
+        "model_answer": "returns",
+        "passed": true
+      },
+      {
+        "question_id": "196310",
+        "question_text": "You must make your views known to all.",
+        "correct_answer": "তুমি অবশ্যই সকলকে তোমার মতামত জানতে দেবে।",
+        "model_answer": "তুমি অবশ্যই সকলকে তোমার মতামত জানিয়ে দেবে।",
+        "passed": false
+      },
+      {
+        "question_id": "582357",
+        "question_text": "The English translation of \"সে কলেরায় মারা গিয়েছে\"-",
+        "correct_answer": "He died of cholera",
+        "model_answer": "He died of cholera",
+        "passed": true
+      },
+      {
+        "question_id": "167859",
+        "question_text": "If you _____, you would have won.",
+        "correct_answer": "have tried",
+        "model_answer": "had tried",
+        "passed": false
+      },
+      {
+        "question_id": "161846",
+        "question_text": "Rahim ( write ) then.",
+        "correct_answer": "was writing",
+        "model_answer": "was writing",
+        "passed": true
+      },
+      {
+        "question_id": "620683",
+        "question_text": "Why social media is a debatable topic?",
+        "correct_answer": "Both A and B.",
+        "model_answer": "Both A and B.",
+        "passed": true
+      }
+    ]
+  },
+  "general_knowledge": {
+    "sample_size": 20,
+    "score": 0.7,
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question_id": "168367",
+        "question_text": "কোন সংশোধনীর মাধ্যমে বাংলাদেশে রাষ্ট্রপতি শাসন ব্যাবস্থা চালু করা হয়?",
+        "correct_answer": "চতুর্থ",
+        "model_answer": "চতুর্থ",
+        "passed": true
+      },
+      {
+        "question_id": "127852",
+        "question_text": "বাংলাদেশ যে দেশের কাছে কৃষি জমি ইজারা চেয়েছে-",
+        "correct_answer": "সেনেগাল",
+        "model_answer": "সেনেগাল",
+        "passed": true
+      },
+      {
+        "question_id": "170320",
+        "question_text": "পূব বাংলার নাম কোন সালে পূর্ব পাকিস্তান রাখা হয়?",
+        "correct_answer": "১৯৫৬",
+        "model_answer": "১৯৫৬",
+        "passed": true
+      },
+      {
+        "question_id": "124805",
+        "question_text": "নিম্নের কোন দেশেএ বিশ্বে সর্বপ্রথম নারীরা ভোটাধিকার পায়?",
+        "correct_answer": "নিউজিল্যান্ড",
+        "model_answer": "নিউজিল্যান্ড",
+        "passed": true
+      },
+      {
+        "question_id": "532509",
+        "question_text": "বাংলাদেশের ১০০ টাকার নোটে কোন মসজিদের ছবি আছে?",
+        "correct_answer": "তারা মসজিদ",
+        "model_answer": "ষাট গম্বুজ মসজিদ",
+        "passed": false
+      },
+      {
+        "question_id": "219284",
+        "question_text": "কারবালা অবস্থিত-",
+        "correct_answer": "ইরাকে",
+        "model_answer": "ইরাকে",
+        "passed": true
+      },
+      {
+        "question_id": "624166",
+        "question_text": "আরাকান রাজপ্রাসাদ বিভিন্ন সংস্কৃতির মিলন কেন্দ্রে পরিণত হওয়ার পেছনে মূল কারণ ছিল-",
+        "correct_answer": "ধরে নেয়া দাসদের প্রতিভা ও বিভিন্ন দেশ থেকে আগত বণিক শ্রেণী",
+        "model_answer": "ধরে নেয়া দাসদের প্রতিভা ও বিভিন্ন দেশ থেকে আগত বণিক শ্রেণী",
+        "passed": false
+      },
+      {
+        "question_id": "132634",
+        "question_text": "বাংলাদেশের মান সময় গ্রিনিচ সময় অপেক্ষা কত ঘণ্টা অগ্রবর্তী ?",
+        "correct_answer": "৬  ঘণ্টা",
+        "model_answer": "৬  ঘণ্টা",
+        "passed": true
+      },
+      {
+        "question_id": "220757",
+        "question_text": "যাবিল ফুরূয কতজন?",
+        "correct_answer": "বার জন",
+        "model_answer": "বার জন",
+        "passed": true
+      },
+      {
+        "question_id": "202323",
+        "question_text": "ঢাকা সেনানিবাসস্থ মুক্তিযুদ্ধ জাদুঘরের নাম কী?",
+        "correct_answer": "বিজয় কেতন",
+        "model_answer": "বিজয় কেতন",
+        "passed": false
+      },
+      {
+        "question_id": "534134",
+        "question_text": "ভারতবর্ষে প্রকাশিত প্রথম সংবাদপত্র কোনটি?",
+        "correct_answer": "বেঙ্গল গেজেট",
+        "model_answer": "বেঙ্গল গেজেট",
+        "passed": true
+      },
+      {
+        "question_id": "202130",
+        "question_text": "বাংলাদেশের মধ্যে সবচেয়ে বড় এক গম্বুজ বিশিষ্ট প্রাচীনতম মসজিদ নিম্নের কোনটি?",
+        "correct_answer": "সোনা মসজিদ",
+        "model_answer": "রণবিজয়পুর মসজিদ",
+        "passed": false
+      },
+      {
+        "question_id": "94344",
+        "question_text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের প্রথম প্রথানমন্ত্রী কে ছিলেন?",
+        "correct_answer": "তাজউদ্দিন আহমেদ",
+        "model_answer": "তাজউদ্দিন আহমেদ",
+        "passed": true
+      },
+      {
+        "question_id": "127842",
+        "question_text": "বাংলাদেশের জাতীয় শিশুনীতি অনুযায়ী শিশুর বয়স-",
+        "correct_answer": "জন্ম থেকে ১৮ বছর",
+        "model_answer": "জন্ম থেকে ১৮ বছর",
+        "passed": true
+      },
+      {
+        "question_id": "182317",
+        "question_text": "নিচের কোনটি তারাশঙ্কর রচিত?",
+        "correct_answer": "হাসুলী বাঁকের উপকথা",
+        "model_answer": "হাসুলী বাঁকের উপকথা",
+        "passed": true
+      },
+      {
+        "question_id": "222317",
+        "question_text": "Justice delayed is justice denied' বলেছেন ?",
+        "correct_answer": "ডব্লিউ ডি গ্লাডস্টোন",
+        "model_answer": "কোনটি নয়",
+        "passed": false
+      },
+      {
+        "question_id": "180857",
+        "question_text": "প্লাইস্টোসিন চারণভূমি কোন জেলায় অবস্থিত",
+        "correct_answer": "টাঙ্গাইল",
+        "model_answer": "টাঙ্গাইল",
+        "passed": true
+      },
+      {
+        "question_id": "607090",
+        "question_text": "নিম্নের কোন বিষয়টি 'জুলাই জাতীয় সনদ ২০২৫'-এ উল্লেখ করা হয়নি? (Which of the following topics is not mentioned in the 'July National Charter 2025'?)",
+        "correct_answer": "চিকিৎসার অধিকারকে মৌলিক অধিকার হিসেবে স্বীকৃতি দেওয়া হবে। (The right to healthcare will be recognized as a fundamental right.)",
+        "model_answer": "জাতীয় সংসদে নারী প্রতিনিধিত্ব ক্রমান্বয়ে একশত আসনে উন্নীত করা হবে। (Women's representation in the National Parliament will gradually be increased to one hundred seats.)",
+        "passed": false
+      },
+      {
+        "question_id": "182313",
+        "question_text": "WTO এর পূর্বতম  কী নাম ছিল?",
+        "correct_answer": "GATT",
+        "model_answer": "GATT",
+        "passed": true
+      },
+      {
+        "question_id": "422503",
+        "question_text": "গথিক শিল্পের শ্রেষ্ঠ প্রকাশ ঘটেছে-",
+        "correct_answer": "স্থাপত্যে",
+        "model_answer": "স্থাপত্যে",
+        "passed": true
+      }
+    ]
+  },
+  "ict": {
+    "sample_size": 20,
+    "score": 0.7,
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question_id": "628259",
+        "question_text": "টেলিযোগাযোগের মাধ্যমে সভা করাকে কী বলে?",
+        "correct_answer": "ভিডিও কনফারেন্স",
+        "model_answer": "টেলিকনফারেন্স",
+        "passed": false
+      },
+      {
+        "question_id": "627882",
+        "question_text": "Zoom ব্যবহার করে পাঠদানকে.....বলা যায়",
+        "correct_answer": "ই-লার্নিং",
+        "model_answer": "অনলাইন ক্লাস",
+        "passed": false
+      },
+      {
+        "question_id": "244326",
+        "question_text": "মেশিন লার্নিং এর সাথে নিচের কোনটি সবচেয়ে কম সামঞ্জস্যপূর্ণ?",
+        "correct_answer": "কৃত্তিম বুদ্ধিমত্তা",
+        "model_answer": "কম্পিউটার",
+        "passed": false
+      },
+      {
+        "question_id": "627879",
+        "question_text": "ডাটা কমিউনিকেশন সিস্টেমে নীচের কোনটিকে মিডিয়াম হিসাবে গণ্য করা হয়?",
+        "correct_answer": "ফাইবার অপটিক ক্যাবল",
+        "model_answer": "ফাইবার অপটিক ক্যাবল",
+        "passed": true
+      },
+      {
+        "question_id": "428512",
+        "question_text": "কম্পিউটার নেটওয়ার্কে রাউটারের প্রাথমিক কাজ কি?",
+        "correct_answer": "নেটওয়ার্ক ঠিকানা অনুবাদ",
+        "model_answer": "প্যাকেট সুইচিং এবং রাউটিং",
+        "passed": false
+      },
+      {
+        "question_id": "87329",
+        "question_text": "Modulator ও Demodulator এর সংক্ষিপ্ত রূপ কোনটি ?",
+        "correct_answer": "Modem",
+        "model_answer": "Modem",
+        "passed": true
+      },
+      {
+        "question_id": "604957",
+        "question_text": "নিচের কোনটি ইনপুট ডিভাইস? (Which of the following is an input device?)",
+        "correct_answer": "স্ক্যানার (Scanner)",
+        "model_answer": "স্ক্যানার (Scanner)",
+        "passed": true
+      },
+      {
+        "question_id": "428310",
+        "question_text": "নিচের কোনটি নন-পজিশনাল সংখ্যা?",
+        "correct_answer": "III",
+        "model_answer": "III",
+        "passed": true
+      },
+      {
+        "question_id": "533243",
+        "question_text": "রোবটের অ্যাকচুয়েটরকে আমরা তুলনা করতে পারি কিসের সাথে?",
+        "correct_answer": "হাত পা এর পেশি",
+        "model_answer": "হাত পা এর পেশি",
+        "passed": true
+      },
+      {
+        "question_id": "87331",
+        "question_text": "পূর্ণ-অভ্যন্তরীণ প্রতিফলনের নিয়ম অনুযায়ী ডেটা ট্রান্সমিশন হয় কোন ক্যাবল-এর ?",
+        "correct_answer": "অপটিক্যাল ফাইবার ক্যাবল",
+        "model_answer": "অপটিক্যাল ফাইবার ক্যাবল",
+        "passed": true
+      },
+      {
+        "question_id": "87328",
+        "question_text": "ডেটা স্থানাস্তরের হার কোনটি ?",
+        "correct_answer": "ব্যান্ডউইথ",
+        "model_answer": "ব্যান্ডউইথ",
+        "passed": true
+      },
+      {
+        "question_id": "604962",
+        "question_text": "5G নেটওয়ার্কের সাথে মূলত কোন প্রযুক্তি যুক্ত? (Which technology is primarily associated with 5G network?)",
+        "correct_answer": "মিলিমিটার ওয়েভস (Millimeter waves)",
+        "model_answer": "মিলিমিটার ওয়েভস (Millimeter waves)",
+        "passed": false
+      },
+      {
+        "question_id": "627883",
+        "question_text": "(11110.001)2=(?)10",
+        "correct_answer": "30.125",
+        "model_answer": "30.125",
+        "passed": true
+      },
+      {
+        "question_id": "627884",
+        "question_text": "VoIP এর ব্যান্ড উইডথ কত?",
+        "correct_answer": "0.7 Mbps",
+        "model_answer": "0.7 Mbps",
+        "passed": true
+      },
+      {
+        "question_id": "175950",
+        "question_text": "Who is good in physics and Mathematics but not in Computer science?",
+        "correct_answer": "E",
+        "model_answer": "E",
+        "passed": true
+      },
+      {
+        "question_id": "604967",
+        "question_text": "নিচের কোনটি C-এর রিজার্ভ কীওয়ার্ড নয়? (Which of the following is not a reserved keyword in C?)",
+        "correct_answer": "loop",
+        "model_answer": "loop",
+        "passed": true
+      },
+      {
+        "question_id": "604961",
+        "question_text": "নিচের কোন ডিভাইস ভিন্ন প্রোটোকল ব্যবহারকারী নেটওয়ার্কগুলোকে সংযুক্ত করতে পারে? (Which of the following devices can connect networks that use different protocols?)",
+        "correct_answer": "গেটওয়ে (Gateway)",
+        "model_answer": "গেটওয়ে (Gateway)",
+        "passed": false
+      },
+      {
+        "question_id": "611516",
+        "question_text": "একটি C ফাংশন10.563×102রিটার্ন করলে ফাংশনটির রিটার্ন টাইপ কী হবে? (What is the return type of a function in C if it returns10.563×102?)",
+        "correct_answer": "double",
+        "model_answer": "double",
+        "passed": true
+      },
+      {
+        "question_id": "604963",
+        "question_text": "কোন ট্রান্সলেটর পুরো হাই-লেভেল প্রোগ্রামকে একবারে মেশিন কোডে অনুবাদ করে? (Which translator translates an entire high-level program into machine code at once?)",
+        "correct_answer": "কম্পাইলার (Compiler)",
+        "model_answer": "কম্পাইলার (Compiler)",
+        "passed": true
+      },
+      {
+        "question_id": "611520",
+        "question_text": "একজন শিক্ষক ক্লাসের 30 জন ছাত্র-ছাত্রীর মধ্য থেকে 5 জনকে বেছে নিয়ে তাদের কাছে কিছু তথ্য পাঠালেন, এই যোগাযোগ পদ্ধতি নিচের কোনটির সাথে সম্পৃক্ত? (A teacher picks 5 from 30 students of a class and shares some information with them. Which of the following communication mechanism is related to this scenario?)",
+        "correct_answer": "মাল্টিকাস্ট (Multicast)",
+        "model_answer": "মাল্টিকাস্ট (Multicast)",
+        "passed": true
+      }
+    ]
+  },
+  "mathematics": {
+    "sample_size": 20,
+    "score": 0.95,
+    "difficulty": "easy",
+    "questions": [
+      {
+        "question_id": "109977",
+        "question_text": "অক্টেন সংখ্যা 3578 কে হেক্সাডেসিমেল আকারে রূপান্তরিত করো-",
+        "correct_answer": "(EF)16",
+        "model_answer": "(EF)16",
+        "passed": true
+      },
+      {
+        "question_id": "232855",
+        "question_text": "sec2tan-12+cosec2cot-13=?",
+        "correct_answer": "15",
+        "model_answer": "15",
+        "passed": true
+      },
+      {
+        "question_id": "161167",
+        "question_text": "০.০০০১ এর বর্গমূল কত?",
+        "correct_answer": "০.০১",
+        "model_answer": "০.০১",
+        "passed": true
+      },
+      {
+        "question_id": "533134",
+        "question_text": "-16×-1এর মান কত?",
+        "correct_answer": "-4",
+        "model_answer": "-4",
+        "passed": true
+      },
+      {
+        "question_id": "168891",
+        "question_text": "একটি সামান্তরিকের ক্ষেত্রফল-",
+        "correct_answer": "|A x B|",
+        "model_answer": "|A x B|",
+        "passed": true
+      },
+      {
+        "question_id": "231198",
+        "question_text": "|x - 1| <110হলে, |x2-1|-এর মান কোনটি?",
+        "correct_answer": "<21/100",
+        "model_answer": "<21/100",
+        "passed": true
+      },
+      {
+        "question_id": "271916",
+        "question_text": "১৯ ডিগ্রি কোণের বিপ্রতীপ কোণ-",
+        "correct_answer": "১৯ ডিগ্রি",
+        "model_answer": "১৯ ডিগ্রি",
+        "passed": true
+      },
+      {
+        "question_id": "200121",
+        "question_text": "যদিcosx+cosy=aএবংsinx+siny=bহয়, তবেcosx+yএর মান কোনটি?",
+        "correct_answer": "a2-b2a2+b2",
+        "model_answer": "a2-b2a2+b2",
+        "passed": true
+      },
+      {
+        "question_id": "628607",
+        "question_text": "31,25,19,13 ধারার পরবর্তী সংখ্যাটি কত হবে?",
+        "correct_answer": "7",
+        "model_answer": "7",
+        "passed": true
+      },
+      {
+        "question_id": "232466",
+        "question_text": "(a-B→=3এর বিস্তৃতিতে কোন পদ মধ্যম পদ?",
+        "correct_answer": "11তম",
+        "model_answer": "11তম",
+        "passed": true
+      },
+      {
+        "question_id": "200221",
+        "question_text": "একটি জলপ্রপাতে 100 মিটার উপর হতে পানি নিচে পতিত হয়। উপরের ও নিচের পানির তাপমাত্রার পার্থক্য নিণয় কর।[J=4.2J.Cal-1]",
+        "correct_answer": "0.234°C",
+        "model_answer": "0.234°C",
+        "passed": true
+      },
+      {
+        "question_id": "181689",
+        "question_text": "∑i=13(sin2θi+cos2θi)=?",
+        "correct_answer": "3",
+        "model_answer": "3",
+        "passed": true
+      },
+      {
+        "question_id": "95271",
+        "question_text": "3ˆi+aˆj+3ˆkএবং5ˆi+3ˆj+2ˆkপরস্পর লম্ব হলে  a  এর মান কত?",
+        "correct_answer": "-7",
+        "model_answer": "-7",
+        "passed": true
+      },
+      {
+        "question_id": "95156",
+        "question_text": "4x2+4y2-4x-24y+17=0বৃত্তের ক্ষেত্রফল কত?",
+        "correct_answer": "5π",
+        "model_answer": "5π",
+        "passed": true
+      },
+      {
+        "question_id": "99314",
+        "question_text": "একটি ত্রিভুজের বাহুগুলাে 13, 14 এবং 15 একক হলে, ত্রিভুজের ক্ষেত্রফল হবে-",
+        "correct_answer": "84 sq. units",
+        "model_answer": "84 sq. units",
+        "passed": true
+      },
+      {
+        "question_id": "200110",
+        "question_text": "যদিy=tan-1p+qxq-pxহয়, তবেdydxএর মান কত?",
+        "correct_answer": "11+x2",
+        "model_answer": "11+x2",
+        "passed": true
+      },
+      {
+        "question_id": "533126",
+        "question_text": "sin218°+sin236°+sin254°+sin272°এর মান কত?",
+        "correct_answer": "2",
+        "model_answer": "2",
+        "passed": true
+      },
+      {
+        "question_id": "176373",
+        "question_text": "If both S and T are chosen for the team , what other individuals mush be on the team with them?",
+        "correct_answer": "M and O only",
+        "model_answer": "M and O only",
+        "passed": true
+      },
+      {
+        "question_id": "143171",
+        "question_text": "রুপার ইয়ং এর গুনাংক কত একক?",
+        "correct_answer": "7.9×1011",
+        "model_answer": "7.9×10^10",
+        "passed": false
+      },
+      {
+        "question_id": "609008",
+        "question_text": "P(α,β)বিন্দুটিx2+y2+2gx+2fy+c=0বৃত্তের পরিধির উপর অবস্থিত হলে, p বিন্দুগামী অঙ্কিত ব্যাসের অপর প্রান্ত বিন্দুর ভূজ কত?",
+        "correct_answer": "-2g-α",
+        "model_answer": "-2g-α",
+        "passed": true
+      }
+    ]
+  },
+  "other": {
+    "sample_size": 20,
+    "score": 0.75,
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question_id": "199594",
+        "question_text": "E0cu/cu2+=-0.34VএবংE0Fe/Fe2+=0.44Vহলে,i) তামার পাত্রেFeSO4দ্রবন রাখা যায়।ii) তামার পাত্রেFeSO4দ্রবন রাখা যায় না।iii) লৌহ পাত্রেCuSO4দ্রবণ রাখা যায়।iv) লৌহ পাত্রেCuSO4দ্রবণ রাখা যায় না।উল্লিখিত উক্তিসমূহের জন্য নিচের কোন উত্তরটি সঠিক?",
+        "correct_answer": "i ও iv",
+        "model_answer": "i ও iv",
+        "passed": true
+      },
+      {
+        "question_id": "168246",
+        "question_text": "মার্কের পারহাইড্রল কোনটি?",
+        "correct_answer": "30% H2O2",
+        "model_answer": "30% H2O2",
+        "passed": true
+      },
+      {
+        "question_id": "180859",
+        "question_text": "অশ্বমন্ডলের গড় ঘনত্ব কত?",
+        "correct_answer": "5",
+        "model_answer": "3",
+        "passed": false
+      },
+      {
+        "question_id": "96084",
+        "question_text": "প্রস্তুত করার সময় উপজাত হিসেবে কোনটি পাওয়া যায়?",
+        "correct_answer": "FeSO4",
+        "model_answer": "FeSO4",
+        "passed": true
+      },
+      {
+        "question_id": "155588",
+        "question_text": "বাংলাদেশের অর্থনৈতিক নীতিনির্ধারণ এবং উন্নয়ন প্রকল্প অনুমোদন সংক্রান্ত সর্বোচ্চ সংস্থা-",
+        "correct_answer": "জাতীয় অর্থনৈতিক কাউন্সিলের নির্বাহী পরিষদ",
+        "model_answer": "জাতীয় অর্থনৈতিক কাউন্সিলের নির্বাহী পরিষদ",
+        "passed": false
+      },
+      {
+        "question_id": "97221",
+        "question_text": "বাংলা কৃৎ প্রত্যয় কত প্রকার ?",
+        "correct_answer": "২",
+        "model_answer": "২",
+        "passed": true
+      },
+      {
+        "question_id": "241136",
+        "question_text": "পীড়নের মাত্রা সমীকরণ-",
+        "correct_answer": "[ML-1T-2]",
+        "model_answer": "[ML-1T-2]",
+        "passed": true
+      },
+      {
+        "question_id": "203722",
+        "question_text": "নিচের বিভিন্ন ধরনের বিকিরণগুলো কোনটি থেকে বেশি তাপ পাওয়া যায়?",
+        "correct_answer": "অবলোহিত রশ্মি",
+        "model_answer": "অবলোহিত রশ্মি",
+        "passed": true
+      },
+      {
+        "question_id": "150579",
+        "question_text": "ঢাকা বিশ্ববিদ্যালয়ের বঙ্গবন্ধু শেখ মুজিবুর রহমান কোন বিষয়ে অধ্যায়ন করেন ?",
+        "correct_answer": "আইন",
+        "model_answer": "আইন",
+        "passed": true
+      },
+      {
+        "question_id": "125321",
+        "question_text": "তাপকে নিম্ন তাপমাত্রা থেকে উচ্চ তাপমাত্রায় পাঠানোর প্রক্রিয়াকে কী বলে ?",
+        "correct_answer": "হিমায়ন",
+        "model_answer": "হিমায়ন",
+        "passed": false
+      },
+      {
+        "question_id": "260315",
+        "question_text": "‘গলগ্রহ' বলতে বোঝায় -",
+        "correct_answer": "দায় বা বোঝা",
+        "model_answer": "দায় বা বোঝা",
+        "passed": true
+      },
+      {
+        "question_id": "234633",
+        "question_text": "নিচের কোন কেলাসটি দ্বৈত প্রতিসরাঙ্ক কেলাস?",
+        "correct_answer": "কোয়ার্টজ",
+        "model_answer": "কোয়ার্টজ",
+        "passed": false
+      },
+      {
+        "question_id": "207211",
+        "question_text": "কোনটি প্রাথমিক প্রমান বস্তু?",
+        "correct_answer": "K2CR2O7",
+        "model_answer": "K2CR2O7",
+        "passed": true
+      },
+      {
+        "question_id": "241780",
+        "question_text": "তারকার জ্বালানী মূলত কি?",
+        "correct_answer": "হাইড্রোজেন",
+        "model_answer": "হাইড্রোজেন",
+        "passed": true
+      },
+      {
+        "question_id": "124555",
+        "question_text": "কোনটি এক ক্ষারকীয় এসিডের উদাহরণ?",
+        "correct_answer": "ফরমিক এসিড",
+        "model_answer": "ফরমিক এসিড",
+        "passed": true
+      },
+      {
+        "question_id": "534409",
+        "question_text": "(NH4)2CO3→∆2NH3+CO2+H2Oএই বিক্রিয়ায়CO32-আয়ন কী হিসাবে কাজ করে? (What is the function ofCO32-ion in the reaction,(NH4)2CO3→∆2NH3+CO2+H2O?)",
+        "correct_answer": "ক্ষার (Base)",
+        "model_answer": "ক্ষার (Base)",
+        "passed": true
+      },
+      {
+        "question_id": "127724",
+        "question_text": "আমদানি -রপ্তানি নিয়ন্ত্রণ ব্যবস্থার হাতিয়ার হিসেবে নিম্নের কোনটি ব্যবহৃত হয় না?",
+        "correct_answer": "বহন পত্র",
+        "model_answer": "বহন পত্র",
+        "passed": true
+      },
+      {
+        "question_id": "611217",
+        "question_text": "কোন যৌগটি সন্নিবেশ বন্ধন গঠন করে না? (Which compound does not form coordinate bond?)",
+        "correct_answer": "CCl4",
+        "model_answer": "CCl4",
+        "passed": true
+      },
+      {
+        "question_id": "204038",
+        "question_text": "নাইট্রোজেন পরমাণুতে ৭টি প্রোটন ও ৭টি ইলেকট্রন থাকিলে নাইট্রাইড আয়নে থাকিবে-",
+        "correct_answer": "৭ প্রোটন ও ১০ ইলেকট্রন",
+        "model_answer": "৭ প্রোটন ও ১০ ইলেকট্রন",
+        "passed": true
+      },
+      {
+        "question_id": "605018",
+        "question_text": "সুদের হার বৃদ্ধি পেলে বিনিয়োগের কী হয়? (If rate of interest increases, what happens to investment?)",
+        "correct_answer": "হ্রাস পায় (decreases)",
+        "model_answer": "হ্রাস পায় (decreases)",
+        "passed": false
+      }
+    ]
+  },
+  "physics": {
+    "sample_size": 20,
+    "score": 0.6,
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question_id": "422632",
+        "question_text": "(i+j) এবং i এর মIধ্যবর্তী কোণ কত?",
+        "correct_answer": "45°",
+        "model_answer": "45°",
+        "passed": true
+      },
+      {
+        "question_id": "154816",
+        "question_text": "নিউক্লিয়নের মধ্যে কোন কণার পারস্পরিক বিনিময়ের দ্বারা সবল নিউক্লীয় বলের উৎপত্তি হয়?",
+        "correct_answer": "মেসন",
+        "model_answer": "মেসন",
+        "passed": true
+      },
+      {
+        "question_id": "197750",
+        "question_text": "নিচের কোনটি শব্দ তরঙ্গের ক্ষেত্রে সত্য নয় ?",
+        "correct_answer": "শব্দের পোলোরায়ন ঘটে",
+        "model_answer": "শব্দের পোলোরায়ন ঘটে",
+        "passed": false
+      },
+      {
+        "question_id": "142683",
+        "question_text": "ফিজোর একটি পরীক্ষায় চাকার দাতের সংখ্যা ছিল 744টি এবং প্রতি সেকেন্ডে ঘূর্ণন সংখ্যা ছিল 10.5। চাকা এবং অবতলে দর্পনের মধ্যবর্তী দূরত্ব 10 km  হলে আলোর বেগ কত?",
+        "correct_answer": "3.1248×108ms-1",
+        "model_answer": "**B) 3.1248×10⁸ms⁻¹**\n\n**সমাধান:**\n\nফিজোর পরীক্ষায় আলোর বেগের সূত্র:\n\n$$c = 4dNn$$\n\nযেখানে:\n- d = 10 km = 10,000 m\n- N = 744 (দাঁতের সংখ্যা)\n- n = 10.5 (প্রতি সেকেন্ডে ঘূর্ণন)\n\n$$c = 4 \\times 10000 \\times 744 \\times 10.5$$\n$$c = 4 \\times 10000 \\times 7812$$\n$$c = 312{,}480{,}000 \\text{ m/s}$$\n$$c = 3.1248 \\times 10^8 \\text{ ms}^{-1}$$",
+        "passed": false
+      },
+      {
+        "question_id": "203245",
+        "question_text": "শব্দানুভূতির স্থায়িত্বকাল বা শ্রুতিরেশ কত?",
+        "correct_answer": "110sec",
+        "model_answer": "1/10sec",
+        "passed": false
+      },
+      {
+        "question_id": "89799",
+        "question_text": "যদি পৃথিবীর ব্যাসার্ধ চন্দ্রের ব্যাসার্ধের 5 গুণ ও ভর 81 গুণ হয়, তবে একটি সেকেন্ড দোলকের দোলনকাল চন্দ্রপৃষ্ঠে কত হবে?",
+        "correct_answer": "3.6 s",
+        "model_answer": "3.6 s",
+        "passed": true
+      },
+      {
+        "question_id": "232172",
+        "question_text": "S. T. P.-তে হাইড্রোজেন অণুগুলোর মূল গড় বর্গ বেগ কত? S. T. P.-তে হাইড্রোজেন অণুর ঘনত্ব 0.09 Kg.m-3.",
+        "correct_answer": "1.84 Km.S-1",
+        "model_answer": "1.84 Km.S-1",
+        "passed": true
+      },
+      {
+        "question_id": "89634",
+        "question_text": "ভূ-পৃষ্ঠ থেকে কত উঁচুতে গেলে সেখানকার অভিকর্ষজ ত্বরণের মান ভূ-পৃষ্ঠে অভিকর্ষজ ত্বরণের মানের এক শতাংশ হবে? (পৃথিবীকে6.4×106mব্যাসার্ধের গোলক মনে করে)",
+        "correct_answer": "58.6×106m",
+        "model_answer": "**B) 56.6×10⁶m**\n\n**Working:**\n\nAt height h, gravitational acceleration: g' = GM/(R+h)²\n\nAt surface: g = GM/R²\n\nSetting g' = 0.01g:\n\nR²/(R+h)² = 1/100\n\n→ R/(R+h) = 1/10\n\n→ R+h = 10R\n\n→ h = 9R = 9 × 6.4×10⁶ = **57.6×10⁶ m**\n\nThe closest option is **B) 56.6×10⁶m**.",
+        "passed": false
+      },
+      {
+        "question_id": "155143",
+        "question_text": "তাপ প্রয়োগে কোন কঠিন পদার্থ তরল পদার্থে রূপান্তরিত না হয়ে সরাসরি বাষ্পে পরিণত হওয়াকে বলা হয়-",
+        "correct_answer": "উর্ধ্বপাতন",
+        "model_answer": "উর্ধ্বপাতন",
+        "passed": true
+      },
+      {
+        "question_id": "89636",
+        "question_text": "n-টাইপ অর্ধ-পরিবাহী তৈরির জন্য যে পরমাণু দ্বারা ডোপায়ন করা হয় তা-",
+        "correct_answer": "পঞ্চযোজী",
+        "model_answer": "পঞ্চযোজী",
+        "passed": true
+      },
+      {
+        "question_id": "133629",
+        "question_text": "একজন লোক একটি 10  কেজি ভরকে 20  সেকেন্ড সময়ে 10  মি উপরে তুলতে পারে এবং অপরজন 20 কেজি ভরকে 10 মি উপরে তুলতে পারে এবং অপরজন 20  কেজি ভরকে 10  সেকেন্ড সময়ে 20 মি. উপরে তুলতে পারে। প্রথম জনের সাপেক্ষে দ্বিতীয় জনের কাজ করার ক্ষমতার অনুপাত হবে -",
+        "correct_answer": "18",
+        "model_answer": "8",
+        "passed": false
+      },
+      {
+        "question_id": "89798",
+        "question_text": "40 kg ভরের একটি ট্রলি 180 J গতিশক্তিসহ একটি মসৃণ অনুভূমিক রাস্তায় চলাকালে এর মধ্যে থেকে যদি 20 kg ভর তুলে নেয়া হয়, তবে এর বর্তমান গতিশক্তি কত হবে?",
+        "correct_answer": "360 J",
+        "model_answer": "**D) 360 J**\n\n**Solution:**\n\nInitial KE = ½mv² = 180 J, with m = 40 kg\n\n→ v = 3 m/s (initial velocity)\n\nWhen 20 kg is removed (left stationary), conservation of momentum applies:\n\n40 × 3 = 20 × v_new + 20 × 0\n\nv_new = 6 m/s\n\nNew KE = ½ × 20 × 6² = **360 J**",
+        "passed": false
+      },
+      {
+        "question_id": "99375",
+        "question_text": "খাড়া উপরের উপরের দিকে উঠন্ত একটি বেলুনে অবস্থানরত একজন নভােচারীর হাতে 5 lb  ভরের একটি বস্তু 85 oz-wt চাপ সৃষ্টি করে। প্রথম 10 sec এ বেলুনটি কত উপরে উঠতে পারবে?",
+        "correct_answer": "100 ft",
+        "model_answer": "**B) 100 ft**\n\n**Solution:**\n\n- Actual weight of object = 5 lb = 80 oz-wt\n- Apparent weight (pressure on hand) = 85 oz-wt\n\nNet upward force on object = 85 − 80 = 5 oz-wt\n\nUsing Newton's second law (F = ma):\n\n$$a = \\frac{F_{net}}{m} = \\frac{5}{80} \\times g = \\frac{5}{80} \\times 32 = 2 \\text{ ft/s}^2$$\n\nDistance in first 10 seconds:\n\n$$s = \\frac{1}{2}at^2 = \\frac{1}{2} \\times 2 \\times (10)^2 = \\boxed{100 \\text{ ft}}$$",
+        "passed": false
+      },
+      {
+        "question_id": "200106",
+        "question_text": "এক ব্যক্তি কোন স্থানে যাওয়ার সময় ঘন্টায় 4 মাইল বেগে যায় এবং আসার সময় ঘন্টায় 3 মাইল বেগে ফেরত আসে। তার গড় গতিবেগ কত ?",
+        "correct_answer": "24/7 miles/hour",
+        "model_answer": "24/7 miles/hour",
+        "passed": true
+      },
+      {
+        "question_id": "215858",
+        "question_text": "একটি তরঙ্গের বিস্তার ০.4 M হলে T/4 সময়ে কম্পনের উৎস হতেλ8দূরত্বে অবস্থিত বিন্দুর সাম্যবস্থান হতে সরণ করতে হবে?",
+        "correct_answer": "0.28 m",
+        "model_answer": "0.28 m",
+        "passed": true
+      },
+      {
+        "question_id": "419936",
+        "question_text": "একটি ফোটনের শক্তি 6eV হলে এর ভরবেগ কত?",
+        "correct_answer": "3.2x10-27kgm/s",
+        "model_answer": "3.2x10-27kgm/s",
+        "passed": true
+      },
+      {
+        "question_id": "144186",
+        "question_text": "একটি সেকেন্ড দোলক প্রতি মিনিটে কতবার দোলন দেয়?",
+        "correct_answer": "60 বার",
+        "model_answer": "30 বার",
+        "passed": false
+      },
+      {
+        "question_id": "97971",
+        "question_text": "একই তাপমাত্রায় একই আয়তনের প্রথম পাত্রে একই আয়তনের প্রথম পাত্রে1molN2এর দ্বিতীয় পাত্রে1molCO2রাখা হলো। নিম্নের কোন উক্তিটি সঠিক নয়?",
+        "correct_answer": "১ম পাত্রে চাপ নিম্নতর",
+        "model_answer": "১ম পাত্রে চাপ নিম্নতর",
+        "passed": true
+      },
+      {
+        "question_id": "215855",
+        "question_text": "দুটি কৃঞ্চ বস্তুর নির্গত তাপশক্তির ১৬:১। দ্বিতীয় বস্তুর তাপমাত্রা ৩০০ হলে , প্রথম বস্তুর তাপমাত্রা কত ?",
+        "correct_answer": "600 K",
+        "model_answer": "600 K",
+        "passed": true
+      },
+      {
+        "question_id": "89637",
+        "question_text": "স্থির লিফটের ভিতরে একটি সরল দোলকের পর্যায়কাল T, যদি লিফটি g/3 ত্বরণে উপরে উঠতে থাকে তাহলে পর্যায়কাল হবে-",
+        "correct_answer": "√32T",
+        "model_answer": "√32T",
+        "passed": true
+      }
+    ]
+  }
+}

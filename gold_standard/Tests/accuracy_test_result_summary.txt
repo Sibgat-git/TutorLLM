@@ -1,0 +1,13 @@
+Summary:
+Subject               Score  Difficulty
+----------------------------------------
+accounting              65%  medium
+bangla                  60%  medium
+biology                 85%  easy
+chemistry               80%  easy
+english                 70%  medium
+general_knowledge       70%  medium
+ict                     70%  medium
+mathematics             95%  easy
+other                   75%  medium
+physics                 60%  medium

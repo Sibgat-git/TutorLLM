@@ -1,0 +1,2455 @@
+{
+  "accounting": {
+    "sample_size": 10,
+    "questions_all_weak": 0,
+    "distractor_quality_score": 1.0,
+    "questions": [
+      {
+        "question_id": "546253",
+        "question_text": "সমাপনী দাখিলা প্রস্তুতের উদ্দেশ্য-",
+        "correct_answer": "আয়-ব্যয় হিসাব বন্ধ করা",
+        "distractor_ratings": [
+          {
+            "option": "দায় হিসাব বন্ধ করা",
+            "rating": "weak",
+            "reason": "Liability accounts are permanent/real accounts — a student with even basic accounting knowledge knows they carry forward and are never closed."
+          },
+          {
+            "option": "সম্পদ হিসাব বন্ধ করা",
+            "rating": "weak",
+            "reason": "Asset accounts are also permanent accounts; there is no plausible link between closing entries and closing asset accounts."
+          },
+          {
+            "option": "মূলধন হিসাব বন্ধ করা",
+            "rating": "tempting",
+            "reason": "Closing entries ultimately transfer net income/loss into the capital account, so a student who partially understands the process may confuse 'updating' capital with 'closing' it."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "546248",
+        "question_text": "কোনটি লেনদেনের বৈশিষ্ট্য নয়?",
+        "correct_answer": "কেবল মুনাফা নির্দেশ করে",
+        "distractor_ratings": [
+          {
+            "option": "অর্থের মূল্য পরিমাপযোগ্য",
+            "rating": "tempting",
+            "reason": "Monetary measurability is a real but sometimes misremembered characteristic, so students unsure of the definition may second-guess it."
+          },
+          {
+            "option": "কমপক্ষে দুটি পক্ষ জড়িত",
+            "rating": "tempting",
+            "reason": "The dual-party (dual aspect) principle is a core accounting concept; students may confuse 'two parties' with a non-essential detail and flag it as the odd one out."
+          },
+          {
+            "option": "আর্থিক অবস্থার পরিবর্তন সাধন করে",
+            "rating": "weak",
+            "reason": "Changing financial position is so definitionally central to what a transaction is that it is easily recognized and eliminated by most students."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "547845",
+        "question_text": "কোনটি ঝুঁকির পরিমাপ নয়?",
+        "correct_answer": "সহভেদাঙ্ক",
+        "distractor_ratings": [
+          {
+            "option": "পরিমিত ব্যবধান",
+            "rating": "weak",
+            "reason": "Standard deviation is universally taught as the primary measure of risk, making it easy to eliminate."
+          },
+          {
+            "option": "ভেদাঙ্ক",
+            "rating": "weak",
+            "reason": "Variance is the square of standard deviation and equally well-known as a direct risk measure, easy to rule out."
+          },
+          {
+            "option": "বেটা",
+            "rating": "tempting",
+            "reason": "Beta measures systematic/market risk specifically in CAPM context, and students unfamiliar with portfolio theory might not immediately classify it as a risk measure."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "547849",
+        "question_text": "বর্তমান মূল্য হিসাব করতে কোন হার ব্যবহৃত হয়?",
+        "correct_answer": "বাট্টার হার",
+        "distractor_ratings": [
+          {
+            "option": "সুদের হার",
+            "rating": "tempting",
+            "reason": "সুদের হার ও বাট্টার হার ঘনিষ্ঠভাবে সম্পর্কিত এবং অনেক শিক্ষার্থী এই দুটি ধারণা গুলিয়ে ফেলেন।"
+          },
+          {
+            "option": "বিনিয়োগ হার",
+            "rating": "tempting",
+            "reason": "বর্তমান মূল্য গণনা বিনিয়োগ সিদ্ধান্তের সাথে সংশ্লিষ্ট বলে এটি প্রাসঙ্গিক মনে হতে পারে।"
+          },
+          {
+            "option": "কর হার",
+            "rating": "weak",
+            "reason": "কর হারের সাথে বর্তমান মূল্য নির্ধারণের সরাসরি কোনো সম্পর্ক নেই, তাই সহজেই বাদ দেওয়া যায়।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "272514",
+        "question_text": "ফাতেমা লিঃ ১০ টাকা মূল্যের ২০,০০০ শেয়ার ইস্যু করে যা পূর্ণ মূল্যে পরিশোধিত । চলতি বন্টযোগ্য মুনাফার পরিমাণ ১,৩০,০০০ টাকা। ১০% হারে লভ্যাংশ কত টাকা হবে?",
+        "correct_answer": "২০,০০০ টাকা",
+        "distractor_ratings": [
+          {
+            "option": "A) ১০,৩০০ টাকা",
+            "rating": "weak",
+            "reason": "No standard calculation path produces this figure; it doesn't correspond to any obvious misapplication of the given numbers."
+          },
+          {
+            "option": "B) ১৩,০০০ টাকা",
+            "rating": "tempting",
+            "reason": "Applying 10% directly to distributable profit (১,৩০,০০০ × 10% = ১৩,০০০) is a classic error — confusing the dividend base (share capital) with profit."
+          },
+          {
+            "option": "C) ১৫,০০০ টাকা",
+            "rating": "weak",
+            "reason": "No clear misapplication of the given data yields ১৫,০০০; it appears to be a filler distractor without a plausible derivation."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "604878",
+        "question_text": "নিচের কোনটি বাজারজাতকরণ গবেষণার ধাপ নয়?",
+        "correct_answer": "ক্রেতার চাহিদা বিশ্লেষণ",
+        "distractor_ratings": [
+          {
+            "option": "সমস্যা চিহ্নিতকরণ",
+            "rating": "tempting",
+            "reason": "সমস্যা চিহ্নিতকরণ বাজারজাতকরণ গবেষণার প্রকৃত প্রথম ধাপ, তাই শিক্ষার্থীরা সহজেই এটিকে সঠিক উত্তর ভেবে বিভ্রান্ত হতে পারে।"
+          },
+          {
+            "option": "তথ্য সংগ্রহ",
+            "rating": "tempting",
+            "reason": "তথ্য সংগ্রহ গবেষণার একটি মৌলিক ও সুপরিচিত ধাপ, তাই এটি NOT-a-step প্রশ্নে বিভ্রান্তিকর।"
+          },
+          {
+            "option": "তথ্য বিশ্লেষণ",
+            "rating": "tempting",
+            "reason": "তথ্য বিশ্লেষণও গবেষণা প্রক্রিয়ার একটি স্বীকৃত ধাপ এবং সঠিক উত্তর D-এর সাথে শব্দগত মিল ('বিশ্লেষণ') থাকায় এটি বিশেষভাবে বিভ্রান্তিকর।"
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "104391",
+        "question_text": "অবচয় কোন ধরনের হিসাব?",
+        "correct_answer": "মুনাফা জাতীয়",
+        "distractor_ratings": [
+          {
+            "option": "মূলধন জাতীয়",
+            "rating": "tempting",
+            "reason": "অবচয় সম্পদ হ্রাসের সাথে সম্পর্কিত বলে শিক্ষার্থীরা এটিকে মূলধন জাতীয় ভাবতে পারে।"
+          },
+          {
+            "option": "বিলম্বিত মুনাফাজাতীয়",
+            "rating": "tempting",
+            "reason": "অবচয়ের প্রকৃতি দীর্ঘমেয়াদি বলে এটিকে বিলম্বিত খরচ মনে হতে পারে।"
+          },
+          {
+            "option": "সঞ্চিতি হিসাব",
+            "rating": "weak",
+            "reason": "অবচয় একটি খরচ, সঞ্চিতি নয়—এই পার্থক্য সাধারণত সহজেই বোধগম্য।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "127077",
+        "question_text": "বাজেয়াপ্ত মেয়ার পুনঃবিক্রয়ের পর শেয়ার বাজেয়াপ্তকরণ হিসাবেরর উদ্বৃত্ত টাকা কোন হিসাবের স্থানাস্তর করতে হবে?",
+        "correct_answer": "মূলধন সঞ্চিত হিসাব",
+        "distractor_ratings": [
+          {
+            "option": "রাজস্ব সঞ্চিত হিসাব",
+            "rating": "tempting",
+            "reason": "Students often confuse revenue reserve with capital reserve; both are 'reserve' accounts, but the distinction (capital profit vs operating profit) is a common stumbling block."
+          },
+          {
+            "option": "সংরক্ষিত মূলধন হিসাব",
+            "rating": "tempting",
+            "reason": "Reserve capital and capital reserve are frequently conflated due to reversed terminology — a student who knows the correct term but misremembers the word order will pick this."
+          },
+          {
+            "option": "শেয়ার আবন্টন হিসাব",
+            "rating": "weak",
+            "reason": "Share allotment account belongs to the share issuance process, making it contextually irrelevant and easy to eliminate."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "547811",
+        "question_text": "নিম্নের কোন লেনদেনের ফলে হিসাব সমীকরণে একটি দায় কমবে এবং আরেকটি দায় বাড়বে?",
+        "correct_answer": "পাওনাদারের বিলে স্বীকৃতি প্রদান",
+        "distractor_ratings": [
+          {
+            "option": "ধারে সেবা প্রদান",
+            "rating": "weak",
+            "reason": "সেবা ধারে দিলে সম্পদ (দেনাদার) ও ইকুইটি (রাজস্ব) বাড়ে — দায়ের কোনো পরিবর্তন হয় না, তাই সহজেই বাদ দেওয়া যায়।"
+          },
+          {
+            "option": "পাওনাদারকে চেকের মাধ্যমে প্রদান",
+            "rating": "tempting",
+            "reason": "একটি দায় (পাওনাদার) কমে ঠিকই, কিন্তু বিপরীতে অন্য দায় নয়, সম্পদ (ব্যাংক) কমে — 'পাওনাদার' শব্দটি সঠিক উত্তরের সাথে মিলে যাওয়ায় বিভ্রান্তি তৈরি করতে পারে।"
+          },
+          {
+            "option": "দেনাদারের চেক প্রত্যাখ্যান",
+            "rating": "weak",
+            "reason": "এটি শুধু সম্পদের মধ্যে রদবদল (ব্যাংক কমে, দেনাদার বাড়ে) — দায়ের উপর কোনো প্রভাব নেই বলে সহজে বাদ দেওয়া যায়।"
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "604897",
+        "question_text": "বাণিজ্যিক ব্যাংকের আয়ের প্রধান উৎস কোনটি?",
+        "correct_answer": "ঋণ থেকে সুদ",
+        "distractor_ratings": [
+          {
+            "option": "মূলধন",
+            "rating": "weak",
+            "reason": "Capital is equity/funding, not income — easily eliminated as it belongs on the liabilities side of a balance sheet."
+          },
+          {
+            "option": "আমানত",
+            "rating": "tempting",
+            "reason": "Deposits are central to banking operations, so a student might conflate 'what banks handle most' with 'what banks earn from' — though deposits are actually a cost (liability)."
+          },
+          {
+            "option": "ফি ও কমিশন",
+            "rating": "tempting",
+            "reason": "Fees and commissions are a genuine revenue stream for banks, making this hard to dismiss — the distinction is that it's secondary to interest income, not absent."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      }
+    ]
+  },
+  "bangla": {
+    "sample_size": 10,
+    "questions_all_weak": 0,
+    "distractor_quality_score": 1.0,
+    "questions": [
+      {
+        "question_id": "543710",
+        "question_text": "'বিধ্বস্ত নীলিমা' কাব্যগ্রন্থটি রচনা করেছেন –",
+        "correct_answer": "শামসুর রাহমান",
+        "distractor_ratings": [
+          {
+            "option": "সুকান্ত ভট্টাচার্য",
+            "rating": "tempting",
+            "reason": "প্রসিদ্ধ বাংলা কবি হওয়ায় যারা নির্দিষ্ট কাব্যগ্রন্থ মনে রাখেননি তারা বিভ্রান্ত হতে পারেন।"
+          },
+          {
+            "option": "আবু জাফর ওবায়দুল্লাহ",
+            "rating": "tempting",
+            "reason": "শামসুর রাহমানের সমসাময়িক বাংলাদেশি কবি, একই যুগের প্রধান কবি হিসেবে পাঠক্রমে পাশাপাশি পড়ানো হয়।"
+          },
+          {
+            "option": "সুফিয়া কামাল",
+            "rating": "weak",
+            "reason": "বিখ্যাত কবি হলেও তাঁর রচনাশৈলী ও পরিচিত কাব্যগ্রন্থ 'বিধ্বস্ত নীলিমা'-র ঘরানার সাথে স্পষ্টতই মেলে না।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "126078",
+        "question_text": "‘বেদীতে না বসলে আমাদের উপদেম কেউ মানে না।’ উক্তিটি কোন রচনার অন্তর্গত?",
+        "correct_answer": "সাহিত্যে খেলা",
+        "distractor_ratings": [
+          {
+            "option": "যৌবনের গান",
+            "rating": "weak",
+            "reason": "যৌবন বা তারুণ্যের প্রসঙ্গ এই উক্তির সামাজিক কর্তৃত্বের থিমের সাথে স্পষ্টভাবে মেলে না, সহজেই বাদ দেওয়া যায়।"
+          },
+          {
+            "option": "অর্ধাঙ্গী",
+            "rating": "tempting",
+            "reason": "বেগম রোকেয়ার এই নারীবাদী প্রবন্ধের মূল বিষয়বস্তু — সমাজে নারীর কর্তৃত্বহীনতা ও তাদের কথা না শোনা — উক্তিটির থিমের সাথে অত্যন্ত ঘনিষ্ঠভাবে মিলে যায়।"
+          },
+          {
+            "option": "হৈমন্তী",
+            "rating": "tempting",
+            "reason": "রবীন্দ্রনাথের এই গল্পও সামাজিক নিয়মে নারীর কণ্ঠস্বর উপেক্ষিত হওয়ার থিম বহন করে এবং 'সাহিত্যে খেলা'র মতো একই লেখকের রচনা হওয়ায় বিভ্রান্তি তৈরি করে।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "127314",
+        "question_text": "পুরুষবাচক শব্দ নয়-",
+        "correct_answer": "দীর্ঘাঙ্গী",
+        "distractor_ratings": [
+          {
+            "option": "বেঙ্গমা",
+            "rating": "tempting",
+            "reason": "The 'মা' suffix strongly evokes the word for 'mother', making it look feminine to the casual reader, even though it is the masculine form of the mythical bird."
+          },
+          {
+            "option": "বর্ষীয়ান",
+            "rating": "weak",
+            "reason": "The 'আন' (ān) suffix is a well-known Sanskrit-origin masculine marker, making its masculine gender relatively easy to identify."
+          },
+          {
+            "option": "দু:খী",
+            "rating": "tempting",
+            "reason": "The 'ী' (ī) vowel ending is commonly associated with feminine words in Bengali (e.g., নারী, সুন্দরী), so learners may incorrectly classify it as non-masculine."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "249032",
+        "question_text": "আহসান হাবীব এর - পেশা কী ছিল?",
+        "correct_answer": "সাংবাদিকতা",
+        "distractor_ratings": [
+          {
+            "option": "শিক্ষকতা",
+            "rating": "tempting",
+            "reason": "বাংলা সাহিত্যিকদের একটি বড় অংশ শিক্ষকতার সাথে যুক্ত ছিলেন, তাই এটি স্বাভাবিক অনুমান মনে হয়।"
+          },
+          {
+            "option": "সরকারি কর্মকর্তা",
+            "rating": "tempting",
+            "reason": "সে যুগে অনেক বিশিষ্ট সাহিত্যিক সরকারি চাকরিতে যুক্ত থাকতেন, তাই এটি উড়িয়ে দেওয়া কঠিন।"
+          },
+          {
+            "option": "ব্যবসা",
+            "rating": "weak",
+            "reason": "কবি ও সাহিত্যিক পরিচয়ের সাথে ব্যবসার কোনো স্বাভাবিক সংযোগ নেই, সহজেই বাদ দেওয়া যায়।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "127321",
+        "question_text": "বাংলা ভাষায় 'ত্ব' যে ধরনের ব্যাকরণিক-",
+        "correct_answer": "প্রত্যয়",
+        "distractor_ratings": [
+          {
+            "option": "উপসর্গ",
+            "rating": "tempting",
+            "reason": "উপসর্গ (prefix) and প্রত্যয় (suffix) are both affixes in Bengali morphology — someone who knows 'ত্ব' is an affix but confuses prefix vs. suffix direction would pick this."
+          },
+          {
+            "option": "ফলা",
+            "rating": "weak",
+            "reason": "ফলা refers to consonant diacritics (য-ফলা, ব-ফলা, etc.) — an orthographic/phonological concept entirely unrelated to word-formation, easily eliminated by anyone with basic grammar awareness."
+          },
+          {
+            "option": "বিশেষণ",
+            "rating": "weak",
+            "reason": "বিশেষণ is a word class (adjective), not a morphological element, so it's a categorically different concept from 'ত্ব', which is a bound morpheme — most students would rule this out quickly."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "106894",
+        "question_text": "কোন্ কবিতায় বিষাদময় রিক্ততার অনুরণন ঘটেছে?",
+        "correct_answer": "তাহারেই পড়ে মনে",
+        "distractor_ratings": [
+          {
+            "option": "বঙ্গভাষা",
+            "rating": "tempting",
+            "reason": "A famous poem students may recall without clearly remembering its theme is linguistic pride, not melancholic emptiness."
+          },
+          {
+            "option": "জীবন বন্দনা",
+            "rating": "weak",
+            "reason": "The title literally means 'celebration of life,' which directly contradicts the theme of sorrowful emptiness, making it easy to eliminate."
+          },
+          {
+            "option": "পাঞ্জেরী",
+            "rating": "tempting",
+            "reason": "Carries genuine themes of longing, waiting in darkness, and melancholy that can be plausibly confused with বিষাদময় রিক্ততা."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "106618",
+        "question_text": "'রক্তাক্ত প্রান্তর' নাটকের পটভূমি কী ?",
+        "correct_answer": "পানিপথের যুদ্ধ ১৭৬১",
+        "distractor_ratings": [
+          {
+            "option": "পলাশির যুদ্ধ",
+            "rating": "tempting",
+            "reason": "Famous 18th-century battle (1757) from the same historical era, easy to confuse with another major battle of that period."
+          },
+          {
+            "option": "পানিপথের প্রথম যুদ্ধ",
+            "rating": "tempting",
+            "reason": "Shares the exact 'Panipat' location as the correct answer, making it a strong trap for anyone who remembers 'Panipat' but not the specific year/number."
+          },
+          {
+            "option": "পানিপথের দ্বিতীয়  যুদ্ধ",
+            "rating": "tempting",
+            "reason": "Also shares the 'Panipat' name; students who know the play is set at Panipat but are unsure which battle (1st, 2nd, or 3rd) can easily pick this."
+          },
+          {
+            "option": "সিপাহী বিদ্রোহ",
+            "rating": "weak",
+            "reason": "A much later event (1857) of a completely different character — an uprising, not a pitched battle — making it easy to eliminate with basic historical knowledge."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "221593",
+        "question_text": "কাজী নজরুল ইসলামের ‘জীবন-বন্দনা’ কবিতায় কূপমন্ডূক’ শব্দের ব্যঞ্জনাগত অর্থ-",
+        "correct_answer": "বাইরের জগৎ সম্পর্কে যাঁর জ্ঞান কম",
+        "distractor_ratings": [
+          {
+            "option": "কুয়োর মধ্যে বসবাসকারী ব্যাঙ",
+            "rating": "tempting",
+            "reason": "এটি 'কূপমন্ডূক'-এর আক্ষরিক অর্থ, তাই যারা আক্ষরিক ও ব্যঞ্জনাগত অর্থের পার্থক্য বোঝেন না তারা সহজেই বিভ্রান্ত হতে পারেন।"
+          },
+          {
+            "option": "কুয়ো থেকে পানি তোলার বালতি",
+            "rating": "weak",
+            "reason": "শব্দটির 'কূপ' অংশ থেকে অনুমান করে লেখা, কিন্তু অর্থগতভাবে সম্পূর্ণ অসংগত এবং সহজেই বাদ দেওয়া যায়।"
+          },
+          {
+            "option": "অত্যন্ত স্বার্থপর লোক",
+            "rating": "tempting",
+            "reason": "সংকীর্ণমনা ও স্বার্থপর ধারণাদ্বয় মানুষের কাছে প্রায়ই কাছাকাছি মনে হয়, তাই এটি কিছুটা বিভ্রান্তিকর হতে পারে।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "162285",
+        "question_text": "কাজি নজরুল ইসলামের প্রথম প্রকাশিত কাব্যগ্রন্থ কোনটি ?",
+        "correct_answer": "অগ্নি বীণা",
+        "distractor_ratings": [
+          {
+            "option": "সর্বহারা",
+            "rating": "tempting",
+            "reason": "নজরুলের একটি বাস্তব কাব্যগ্রন্থ (১৯২৬), তাই যারা সংগ্রহের নাম জানেন কিন্তু প্রকাশের ক্রম নিশ্চিত নন তারা বিভ্রান্ত হতে পারেন।"
+          },
+          {
+            "option": "দোলন চাপা",
+            "rating": "tempting",
+            "reason": "নজরুলের প্রকৃত কাব্যগ্রন্থ (১৯২৩) এবং অগ্নি বীণার খুব কাছাকাছি সময়ে প্রকাশিত হওয়ায় প্রথম গ্রন্থ হিসেবে ভুল করার সম্ভাবনা বেশি।"
+          },
+          {
+            "option": "সাম্যবাদী",
+            "rating": "tempting",
+            "reason": "নজরুলের বিখ্যাত কাব্যগ্রন্থ (১৯২৫) এবং নামটি সুপরিচিত হওয়ায় পরীক্ষার্থীরা সহজেই বিভ্রান্ত হতে পারেন।"
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "106185",
+        "question_text": "Lyric- এর বাংলা পরিভাষা কি?",
+        "correct_answer": "গীতিকবিতা",
+        "distractor_ratings": [
+          {
+            "option": "কার গীতি",
+            "rating": "weak",
+            "reason": "এটি একটি প্রশ্নবোধক বাক্যাংশ ('whose song'), কোনো পরিভাষা নয় — সহজেই বাতিলযোগ্য।"
+          },
+          {
+            "option": "গীতিকা",
+            "rating": "tempting",
+            "reason": "গীতিকবিতার সাথে শব্দগতভাবে অত্যন্ত মিল এবং এটি একটি বাস্তব বাংলা সাহিত্যিক পদ, তাই বিভ্রান্তিকর।"
+          },
+          {
+            "option": "সংগীতজ্ঞ",
+            "rating": "weak",
+            "reason": "এটি 'musicologist' অর্থাৎ একজন ব্যক্তিবাচক শব্দ, Lyric-এর পরিভাষা হওয়া সম্ভব নয়।"
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      }
+    ]
+  },
+  "biology": {
+    "sample_size": 10,
+    "questions_all_weak": 0,
+    "distractor_quality_score": 1.0,
+    "questions": [
+      {
+        "question_id": "142343",
+        "question_text": "চা কোন গ্রোত্রের উদ্ভিদ?",
+        "correct_answer": "Theaceae",
+        "distractor_ratings": [
+          {
+            "option": "Malvaceae",
+            "rating": "tempting",
+            "reason": "A well-known family (hibiscus, cotton) that students often associate with tropical/subtropical shrubs, making it a plausible guess."
+          },
+          {
+            "option": "Cruciferae",
+            "rating": "weak",
+            "reason": "The mustard/cabbage family of herbaceous plants — morphologically very distinct from tea, easily eliminated by basic botany knowledge."
+          },
+          {
+            "option": "Liliaceae",
+            "rating": "weak",
+            "reason": "A monocot family (lilies, onions) with parallel venation; tea is clearly a woody dicot shrub, so this is easily ruled out."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "183928",
+        "question_text": "পোলিও ভাইরাস হলো -",
+        "correct_answer": "RNA ভাইরাস",
+        "distractor_ratings": [
+          {
+            "option": "DNA ভাইরাস",
+            "rating": "tempting",
+            "reason": "DNA vs RNA distinction is a common memorization point; students unfamiliar with polio's specific genome type could plausibly choose this."
+          },
+          {
+            "option": "উদ্ভিদ ভাইরাস",
+            "rating": "weak",
+            "reason": "Polio is a well-known human disease, so classifying it as a plant virus is immediately implausible even with minimal biology knowledge."
+          },
+          {
+            "option": "সবগুলো",
+            "rating": "weak",
+            "reason": "Options B and C are mutually exclusive (DNA vs RNA, animal vs plant), making 'all of the above' logically self-defeating and easy to eliminate."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "183933",
+        "question_text": "মূলা, পালংশাক, ঝিঙ্গা ইত্যাদি -",
+        "correct_answer": "বড় দিনের উদ্ভিদ",
+        "distractor_ratings": [
+          {
+            "option": "ছোট দিনের উদ্ভিদ",
+            "rating": "tempting",
+            "reason": "শীতকালীন সবজি হওয়ায় শিক্ষার্থীরা সহজেই ভাবতে পারে এগুলো ছোট দিনে (শীতে) জন্মায়, তাই ছোট দিনের উদ্ভিদ — এটি একটি সাধারণ বিভ্রান্তি।"
+          },
+          {
+            "option": "দিন নিরপেক্ষ উদ্ভিদ",
+            "rating": "tempting",
+            "reason": "যারা নিশ্চিত নয় তারা 'মাঝামাঝি' বিকল্প হিসেবে এটি বেছে নিতে পারে, কারণ এটি পরিষ্কারভাবে ভুল মনে হয় না।"
+          },
+          {
+            "option": "কোনোটিই নয়",
+            "rating": "weak",
+            "reason": "সঠিক উত্তর (B) স্পষ্টভাবে বিকল্পে দেওয়া আছে, তাই এই অপশনটি সহজেই বাদ দেওয়া যায়।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "124563",
+        "question_text": "মূলের বেলায় কোন উক্তিটি সঠিক নয়?",
+        "correct_answer": "স্থলজ ও জলজ উভয় প্রকার উদ্ভিদেই মূলস্থান অঞ্চল বিদ্যমান",
+        "distractor_ratings": [
+          {
+            "option": "A) ভ্রুণমূল বৃদ্ধি পেয়ে যে মূল সৃষ্টি করে উহাকে সাধারণ মূল বলে",
+            "rating": "tempting",
+            "reason": "Factually correct (radicle → primary/tap root), but students may second-guess the Bengali term 'সাধারণ মূল' and wonder if a more specific term like 'প্রধান মূল' should be used instead."
+          },
+          {
+            "option": "C) মূলরোমে বহুকোষী রোম অবস্থিত",
+            "rating": "tempting",
+            "reason": "Root hairs are unicellular (এককোষী), not multicellular (বহুকোষী), making this statement appear factually wrong and a strong competing distractor against the intended correct answer B."
+          },
+          {
+            "option": "D) স্থায়ী অঞ্চল অন্তর্জনিষ্ণু",
+            "rating": "tempting",
+            "reason": "The technical term 'অন্তর্জনিষ্ণু' (endogenous) is unfamiliar to many students, making this true statement about lateral root origin seem potentially false."
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "203934",
+        "question_text": "কোনটি সরল খাদ্য?",
+        "correct_answer": "কোনোটিই নয়",
+        "distractor_ratings": [
+          {
+            "option": "মাংস",
+            "rating": "tempting",
+            "reason": "Students may associate meat primarily with protein and assume it qualifies as a single-nutrient 'simple' food."
+          },
+          {
+            "option": "মাছ",
+            "rating": "tempting",
+            "reason": "Like meat, fish is protein-rich and students may overlook its fat and mineral content, mistaking it for a simple food."
+          },
+          {
+            "option": "দুধ",
+            "rating": "tempting",
+            "reason": "Milk is commonly called a 'complete food,' which students may confuse with 'simple food,' making this a plausible distractor."
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "241694",
+        "question_text": "অক্সিজেনের অনুপস্থিতিতে কোষের মধ্যে শ্বসনের কোন ধাপ ঘটে?",
+        "correct_answer": "glycolysis",
+        "distractor_ratings": [
+          {
+            "option": "oxidative phosphorylation",
+            "rating": "weak",
+            "reason": "The word 'oxidative' directly implies oxygen involvement, making it easy to eliminate even for students with partial knowledge."
+          },
+          {
+            "option": "electron transport",
+            "rating": "tempting",
+            "reason": "Students may not immediately connect electron transport to oxygen as the terminal acceptor, making it plausible for those who haven't memorized the aerobic dependency."
+          },
+          {
+            "option": "citric acid cycle",
+            "rating": "tempting",
+            "reason": "The cycle doesn't directly consume O₂ in its reactions, so students might incorrectly assume it can proceed anaerobically — a classic misconception."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "94181",
+        "question_text": "লেমা ও প্যালিয়া  কিসের অংশবিশেষ ?",
+        "correct_answer": "স্পাইকলেট",
+        "distractor_ratings": [
+          {
+            "option": "পরাগধানী",
+            "rating": "tempting",
+            "reason": "লেমা ও প্যালিয়া ফুলের অংশের সাথে সম্পর্কিত, তাই যারা জানে এগুলো ফুলের কাঠামোর অংশ কিন্তু সঠিক পরিভাষা জানে না, তারা পরাগধানী বেছে নিতে পারে।"
+          },
+          {
+            "option": "পাতা",
+            "rating": "weak",
+            "reason": "লেমা ও প্যালিয়া পরিবর্তিত ব্র্যাক্ট হলেও সাধারণ পাতার সাথে সহজেই পার্থক্য করা যায়, তাই এটি দুর্বল বিকর্ষণকারী।"
+          },
+          {
+            "option": "ডিম্বক",
+            "rating": "weak",
+            "reason": "ডিম্বক ডিম্বাশয়ের অভ্যন্তরীণ প্রজনন কাঠামো, লেমা ও প্যালিয়ার সাথে এর কোনো রূপগত বা কার্যগত মিল নেই।"
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "628047",
+        "question_text": "ভুট্টার খরা সহিষ্ণু জাত উদ্ভাবনে ব্যবহৃত জিন কোনটি?",
+        "correct_answer": "cspB",
+        "distractor_ratings": [
+          {
+            "option": "At NHX1",
+            "rating": "tempting",
+            "reason": "এটি Arabidopsis-এর একটি আবায়োটিক স্ট্রেস টলারেন্স জিন (লবণ সহিষ্ণুতা), তাই খরা সহিষ্ণুতার সাথে সহজে গুলিয়ে ফেলা যায়।"
+          },
+          {
+            "option": "Cryl Ac",
+            "rating": "tempting",
+            "reason": "এই Bt জিনটি ভুট্টায় ব্যবহৃত হয় (Bt maize), তবে পোকামাকড় প্রতিরোধের জন্য — trait ভুল হলেও crop সঠিক হওয়ায় বিভ্রান্তিকর।"
+          },
+          {
+            "option": "nif",
+            "rating": "weak",
+            "reason": "নাইট্রোজেন স্থিতিকরণ জিন — খরা সহিষ্ণুতার সাথে কার্যগতভাবে দূরবর্তী সম্পর্ক, সহজেই বাতিল করা যায়।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "203932",
+        "question_text": "গলগি বস্তুর কাজের বেলায় কোনটি সত্য নয়?",
+        "correct_answer": "ভিটামিন তৈরিতে সাহায্য করে",
+        "distractor_ratings": [
+          {
+            "option": "প্রাণরস নিঃসরণে অংশ গ্রহণ করে",
+            "rating": "tempting",
+            "reason": "Secretion is a well-known Golgi function, but a student unsure of the exact scope might second-guess it as the false statement."
+          },
+          {
+            "option": "কোষবিভাজনে প্রেরণা যোগায়",
+            "rating": "tempting",
+            "reason": "Golgi does contribute to cell plate formation during plant cytokinesis, making 'cell division involvement' partially true and easy to confuse with a false claim."
+          },
+          {
+            "option": "কোনোটিই নয়",
+            "rating": "weak",
+            "reason": "Generic catch-all that a student eliminates once they identify any clearly false statement among the options."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "421984",
+        "question_text": "পূর্ণ বয়স্ক একজন ব্যক্তির ওজন 63 কেজিএবং উচ্চতা 64 ইঞ্চি হলে, তার BMI কত?",
+        "correct_answer": "23.8",
+        "distractor_ratings": [
+          {
+            "option": "24.8",
+            "rating": "tempting",
+            "reason": "Off by exactly 1.0 — a likely result of a small rounding or unit conversion error during calculation."
+          },
+          {
+            "option": "22.8",
+            "rating": "tempting",
+            "reason": "Off by exactly 1.0 in the other direction — equally plausible if the test-taker uses a slightly different conversion for inches to meters."
+          },
+          {
+            "option": "21.8",
+            "rating": "weak",
+            "reason": "Off by 2.0 from the correct value — a larger discrepancy that is harder to reach through a minor arithmetic slip, making it easier to eliminate."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      }
+    ]
+  },
+  "chemistry": {
+    "sample_size": 10,
+    "questions_all_weak": 0,
+    "distractor_quality_score": 1.0,
+    "questions": [
+      {
+        "question_id": "203099",
+        "question_text": "প্রকৃত কোষের বেলায় প্রযোজ্য-",
+        "correct_answer": "সালোকসংশ্লেষণ ক্লোরোপ্লাস্টিড দ্বারা সংঘটিত হয়",
+        "distractor_ratings": [
+          {
+            "option": "সুসংগঠিত ও স্বনিয়ন্ত্রিত নিউক্লিয়াস থাকে না",
+            "rating": "tempting",
+            "reason": "This describes a prokaryotic cell feature, and students who confuse আদি কোষ vs প্রকৃত কোষ definitions could easily pick this."
+          },
+          {
+            "option": "কোষ বিভাজনের মাকৃতন্তু গঠিত হয় না",
+            "rating": "tempting",
+            "reason": "Spindle fiber absence is a specific prokaryote trait; students with partial knowledge of cell division may not recall this distinction clearly."
+          },
+          {
+            "option": "আকারে অত্যন্ত ক্ষুদ্রাকার",
+            "rating": "weak",
+            "reason": "Tiny size is a well-known hallmark of bacteria (prokaryotes), making this easy to eliminate by anyone with basic cell biology knowledge."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "154680",
+        "question_text": "ক্যানিজারো বিক্রিয়া দেয় না।",
+        "correct_answer": "অ্যাসিট্যালাডিহাইড",
+        "distractor_ratings": [
+          {
+            "option": "ফলম্যালডিহাইড",
+            "rating": "weak",
+            "reason": "Formaldehyde is the most iconic textbook example of Cannizzaro reaction; any student who studied the topic will immediately eliminate it."
+          },
+          {
+            "option": "ট্রাইমিথাইল অ্যাসিট্যালডিহাইড",
+            "rating": "tempting",
+            "reason": "Students may incorrectly assume the three methyl groups supply alpha-hydrogens, missing that the alpha carbon itself is quaternary (no H), so it actually qualifies for Cannizzaro."
+          },
+          {
+            "option": "বেনজ্যালডিহাইড",
+            "rating": "weak",
+            "reason": "Benzaldehyde is a standard co-example with formaldehyde in every Cannizzaro reaction lesson; easily recognized and eliminated."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "84039",
+        "question_text": "20% NaOH দ্রবণের শক্তিমাত্রাকে মোলারিটিতে প্রকাশ করলে শক্তি মাত্রা কত হবে?",
+        "correct_answer": "5M",
+        "distractor_ratings": [
+          {
+            "option": "B) 10M",
+            "rating": "tempting",
+            "reason": "Likely from calculating moles (20/40 = 0.5 mol) but using 50 mL (mass of water) as volume instead of 100 mL (mass of solution), giving 0.5/0.05 = 10M."
+          },
+          {
+            "option": "C) 4M",
+            "rating": "tempting",
+            "reason": "Results from using an incorrect molar mass of 50 g/mol for NaOH instead of 40 g/mol in the formula M = (% × ρ × 10) / M_r."
+          },
+          {
+            "option": "D) 2M",
+            "rating": "weak",
+            "reason": "No straightforward arithmetic path from the given data leads to 2M; it is too far off from any common calculation shortcut to be a realistic distractor."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "204503",
+        "question_text": "সালোকসংশ্লেষণের আলোক পর্যায়ে উৎপন্ন কোনটি ?",
+        "correct_answer": "NADPH2ও ATP",
+        "distractor_ratings": [
+          {
+            "option": "পানি ও শর্করা",
+            "rating": "weak",
+            "reason": "Both are wrong — water is a reactant split in light reactions, and sugar is a dark-reaction product; no partial truth to anchor a misconception."
+          },
+          {
+            "option": "ATP ও শর্করা",
+            "rating": "tempting",
+            "reason": "ATP is genuinely produced in the light phase, so a student with partial knowledge accepts it and overlooks that sugar belongs to the Calvin cycle."
+          },
+          {
+            "option": "NADP ও শর্করা",
+            "rating": "weak",
+            "reason": "NADP is the oxidised reactant that enters the light reactions, not a product, making this doubly incorrect and easier to eliminate."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "205614",
+        "question_text": "1s22s22p63s23p64s2এই ইলেকট্রন বিন্যাসের মৌলটিকে ভূমি পর্যায় সারণীর কোথায় স্থান দেবে?",
+        "correct_answer": "৪ র্থ পর্যায় ২য় গ্রুপ",
+        "distractor_ratings": [
+          {
+            "option": "২ য় পর্যায় ৪ র্থ গ্রুপ",
+            "rating": "tempting",
+            "reason": "A student who confuses the principal quantum number '4' in 4s² with the group number could plausibly arrive at 'group 4', making this a believable swap of period and group values."
+          },
+          {
+            "option": "৬ ষ্ঠ পর্যায়ু ২ য় গ্রুপ",
+            "rating": "tempting",
+            "reason": "The group (2nd) is correctly identified, so only the period is wrong — a student who knows how to find the group but miscounts occupied shells could land on period 6."
+          },
+          {
+            "option": "২য় পর্যায় ৩য় গ্রুপ",
+            "rating": "weak",
+            "reason": "Both values are wrong with no clear error pathway — the configuration explicitly shows electrons up to n=4 and ends in s², making period 2 and group 3 easy to rule out."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "202225",
+        "question_text": "নিম্নের কোনটি অ্যামিনো এসিডের কাজ নয়?",
+        "correct_answer": "গ্লিসারল তৈরিতে সহায়তা করা",
+        "distractor_ratings": [
+          {
+            "option": "দেহ গঠনে সাহায্য করা",
+            "rating": "weak",
+            "reason": "এটি অ্যামিনো এসিডের সবচেয়ে পরিচিত কাজ, যেকোনো শিক্ষার্থী সহজেই এটিকে বাদ দিতে পারবে।"
+          },
+          {
+            "option": "আমিষ সংশ্লেষণ করা",
+            "rating": "weak",
+            "reason": "অ্যামিনো এসিড যে প্রোটিনের একক তা মূল সংজ্ঞাতেই আছে, তাই এটি বাদ দেওয়া অত্যন্ত সহজ।"
+          },
+          {
+            "option": "ইউরিয়া তৈরিতে সহায়তা করা",
+            "rating": "tempting",
+            "reason": "ইউরিয়া চক্রে অ্যামিনো এসিডের ভূমিকা (ডিঅ্যামিনেশন → অ্যামোনিয়া → ইউরিয়া) অনেক শিক্ষার্থীর অজানা থাকে, ফলে এটি সত্যিকারের ফাঁদ হিসেবে কাজ করে।"
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "124113",
+        "question_text": "কোন বিক্রিয়ার ফলে টলুইন উৎপন্ন করা সম্ভব?",
+        "correct_answer": "উর্টজ-ফিটিগ বিক্রিয়া",
+        "distractor_ratings": [
+          {
+            "option": "রাইমার-টাইম্যান বিক্রিয়া",
+            "rating": "tempting",
+            "reason": "ফেনল ও অ্যারোমাটিক যৌগ জড়িত থাকায় শিক্ষার্থীরা ভুল করে ভাবতে পারে এটি টলুইন তৈরি করতে পারে।"
+          },
+          {
+            "option": "ক্যানিজারো বিক্রিয়া",
+            "rating": "weak",
+            "reason": "অ্যালডিহাইডের অসমানুপাতিক বিক্রিয়া হিসেবে এটি হাইড্রোকার্বন সংশ্লেষণের সাথে স্পষ্টভাবে সম্পর্কহীন।"
+          },
+          {
+            "option": "কোব বিক্রিয়া",
+            "rating": "tempting",
+            "reason": "ফেনল ও অ্যারোমাটিক কার্বক্সিলেশন জড়িত থাকায় দুর্বল শিক্ষার্থীরা এটিকে টলুইন উৎপাদনের সাথে গুলিয়ে ফেলতে পারে।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "203238",
+        "question_text": "সালোকসংশ্লেষণ বিক্রিয়াটি-",
+        "correct_answer": "6CO2+12H2O→C6H12O6+6H2O+6O2",
+        "distractor_ratings": [
+          {
+            "option": "6CO2+12H2O→C6H12O6+6H2O",
+            "rating": "weak",
+            "reason": "Missing O2 entirely as a product — any student who knows plants release oxygen would immediately reject this."
+          },
+          {
+            "option": "6CO2+12H2O→C6H12O6+6O2",
+            "rating": "tempting",
+            "reason": "Matches the commonly memorized simplified form (6CO2+6H2O→C6H12O6+6O2); students unfamiliar with the full 12H2O version (Hill reaction context) will likely choose this."
+          },
+          {
+            "option": "কোনোটিই নয়",
+            "rating": "weak",
+            "reason": "A straightforward 'none of the above' trap that only catches students with very low confidence, since option C is a well-known correct equation."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "232374",
+        "question_text": "তাপে জমাট বাধে না কোন প্রটিন?",
+        "correct_answer": "গ্লুটোনিন",
+        "distractor_ratings": [
+          {
+            "option": "অ্যালবূমিন",
+            "rating": "tempting",
+            "reason": "A real protein closely associated with heat coagulation (egg-white albumin is the textbook example), so students unsure of the exact classification may hesitate before eliminating it."
+          },
+          {
+            "option": "গ্লোবিউলিন",
+            "rating": "tempting",
+            "reason": "Another genuine globular protein that does coagulate on heating; less iconically linked to coagulation than albumin, making it harder to confidently rule out."
+          },
+          {
+            "option": "কাইটিন",
+            "rating": "weak",
+            "reason": "Chitin is a polysaccharide (found in insect exoskeletons/fungal walls), not a protein at all — any student with basic biochemistry knowledge will immediately eliminate it."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "95012",
+        "question_text": "নিম্নের কোন যৌগ অণু মধ্যস্থ হাইড্রোজেন বন্ধন বিদ্যমান?",
+        "correct_answer": "অর্থো-নাইট্রোফেনল",
+        "distractor_ratings": [
+          {
+            "option": "পানি",
+            "rating": "tempting",
+            "reason": "পানি হাইড্রোজেন বন্ধনের সবচেয়ে পরিচিত উদাহরণ, তবে এটি আন্তঃঅণু (intermolecular) বন্ধন — অণু মধ্যস্থ (intramolecular) নয়; এই পার্থক্য অনেক শিক্ষার্থী মিস করে।"
+          },
+          {
+            "option": "প্যারা-নাইট্রোফেনল",
+            "rating": "tempting",
+            "reason": "সঠিক উত্তরের আইসোমার হওয়ায় অত্যন্ত বিভ্রান্তিকর; -OH ও -NO₂ গ্রুপ প্যারা অবস্থানে থাকায় জ্যামিতিকভাবে অণু মধ্যস্থ H-বন্ধন সম্ভব নয়, তবে শিক্ষার্থীরা অর্থো/প্যারা পার্থক্য না বুঝলে সহজেই বেছে নিতে পারে।"
+          },
+          {
+            "option": "মেটা-নাইট্রোফেনল",
+            "rating": "tempting",
+            "reason": "আরেকটি আইসোমার হিসেবে বিভ্রান্তিকর, তবে মেটা অবস্থানে -NO₂ থাকায় অণু মধ্যস্থ H-বন্ধন গঠনের জ্যামিতিক শর্ত পূরণ হয় না; অর্থো অবস্থানের গুরুত্ব জানা থাকলে এটি বাদ দেওয়া কিছুটা সহজ।"
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": false
+      }
+    ]
+  },
+  "english": {
+    "sample_size": 10,
+    "questions_all_weak": 0,
+    "distractor_quality_score": 1.0,
+    "questions": [
+      {
+        "question_id": "126957",
+        "question_text": "He  gave up ____ cricket when he got married.",
+        "correct_answer": "Playing",
+        "distractor_ratings": [
+          {
+            "option": "Of playing",
+            "rating": "tempting",
+            "reason": "Learners familiar with 'tired of playing' or 'fond of playing' may incorrectly extend that 'of + gerund' pattern to 'give up'."
+          },
+          {
+            "option": "To play",
+            "rating": "tempting",
+            "reason": "Infinitive vs gerund after phrasal verbs is a classic learner confusion point, and 'give up to play' sounds superficially plausible."
+          },
+          {
+            "option": "Play",
+            "rating": "weak",
+            "reason": "Bare infinitives rarely follow phrasal verbs, and most learners intuitively reject this form without needing to know the rule."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "166743",
+        "question_text": "‘Ring master’ is a person in charge of-",
+        "correct_answer": "a circus performer",
+        "distractor_ratings": [
+          {
+            "option": "a bus conductor",
+            "rating": "weak",
+            "reason": "No plausible word association with 'ring' or 'master' makes this easily dismissed."
+          },
+          {
+            "option": "a ticket checker",
+            "rating": "weak",
+            "reason": "Loosely tied to entertainment venues but 'ring master' gives no cue toward this role."
+          },
+          {
+            "option": "one who sells rings",
+            "rating": "tempting",
+            "reason": "Literal parsing of 'ring' + 'master' (expert seller) makes this plausible for someone unfamiliar with the compound term."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "170001",
+        "question_text": "An antonym of “hungry” :",
+        "correct_answer": "satiated",
+        "distractor_ratings": [
+          {
+            "option": "angry",
+            "rating": "tempting",
+            "reason": "Phonetically similar to 'hungry' and linked via the popular 'hangry' concept, making it a plausible distraction."
+          },
+          {
+            "option": "felling",
+            "rating": "weak",
+            "reason": "Appears to be a misspelling or nonsense word with no semantic connection to hunger, easily eliminated."
+          },
+          {
+            "option": "thirsty",
+            "rating": "tempting",
+            "reason": "Both 'hungry' and 'thirsty' describe bodily cravings, so a student may confuse semantic proximity with antonym relationship."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "220513",
+        "question_text": "Complet the sentence: shumi and Bokul __ my frieds When I studied in high School?",
+        "correct_answer": "were",
+        "distractor_ratings": [
+          {
+            "option": "A) are",
+            "rating": "tempting",
+            "reason": "Correct plural agreement with 'Shumi and Bokul' but ignores the past-tense context signaled by 'when I studied'."
+          },
+          {
+            "option": "B) is",
+            "rating": "weak",
+            "reason": "Wrong on both counts — singular verb for a clearly plural subject and wrong tense, making it easy to eliminate."
+          },
+          {
+            "option": "C) was",
+            "rating": "tempting",
+            "reason": "Correctly uses past tense but applies singular agreement, a common error when learners treat a compound subject as one unit."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "178663",
+        "question_text": "which statement is true according oto the passage?",
+        "correct_answer": "The truth can be used in dishonest ways.",
+        "distractor_ratings": [
+          {
+            "option": "A) whenever people tell the truth, they actually lie",
+            "rating": "weak",
+            "reason": "Self-contradictory on its face; a reader eliminates it immediately without needing the passage."
+          },
+          {
+            "option": "B) You shouldn't trust liars",
+            "rating": "tempting",
+            "reason": "Sounds like plausible moral advice a passage about honesty might endorse, so a careless reader could select it."
+          },
+          {
+            "option": "C) Politicians tell liars",
+            "rating": "weak",
+            "reason": "Grammatically malformed ('tell liars' is nonsensical), making it trivially dismissible before even evaluating content."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "145608",
+        "question_text": "He caught me while I _______.",
+        "correct_answer": "was talking",
+        "distractor_ratings": [
+          {
+            "option": "was talked",
+            "rating": "tempting",
+            "reason": "Shares the same auxiliary 'was' as the correct answer, so learners who confuse active/passive voice may not immediately reject it."
+          },
+          {
+            "option": "is talking",
+            "rating": "weak",
+            "reason": "Present tense clashes obviously with the past-tense 'caught', making it easy to eliminate even for low-level learners."
+          },
+          {
+            "option": "did talking",
+            "rating": "weak",
+            "reason": "'Did' + gerund is not a valid English structure, so it sounds unnatural and is quickly eliminated by most learners."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "625887",
+        "question_text": "What does the author say about the concerns parents have?",
+        "correct_answer": "They cause a disproportionate amount of stress in family relationships",
+        "distractor_ratings": [
+          {
+            "option": "Some of the issues are contradictory in nature",
+            "rating": "tempting",
+            "reason": "Plausible inference — parental concerns often do conflict (e.g., independence vs. safety), making this feel like a reasonable authorial observation."
+          },
+          {
+            "option": "They are understandable given the challenges of modern life",
+            "rating": "tempting",
+            "reason": "Sounds like exactly what a sympathetic author would say, making it a strong trap for readers who expect a validating tone."
+          },
+          {
+            "option": "The balance between work and family life is only a secondary problem",
+            "rating": "weak",
+            "reason": "The word 'only' and the narrow framing make this oddly specific and easy to dismiss without needing to recall the passage."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "207890",
+        "question_text": "আমি এই বিষয়ে কিছু জানি না- Translate into English.",
+        "correct_answer": "I do not know much about this matte.",
+        "distractor_ratings": [
+          {
+            "option": "I did not know much about the matter",
+            "rating": "tempting",
+            "reason": "Grammatically correct sentence that only fails by using past tense instead of present, an easy oversight for a test-taker."
+          },
+          {
+            "option": "I have not know nothing about the subject",
+            "rating": "weak",
+            "reason": "Contains a blatant double negative ('not know nothing') and a clear verb form error ('have not know'), making it easy to eliminate."
+          },
+          {
+            "option": "I do not knew about this matter",
+            "rating": "weak",
+            "reason": "Obvious tense conflict between auxiliary 'do' (present) and 'knew' (past) flags it as grammatically wrong immediately."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "166664",
+        "question_text": "Select the correct sentence.",
+        "correct_answer": "Driven by hunger, he stole a piece of bread",
+        "distractor_ratings": [
+          {
+            "option": "A",
+            "rating": "tempting",
+            "reason": "'Through' is a common preposition and 'driven through hunger' may sound plausible to learners unfamiliar with the fixed idiom 'driven by'."
+          },
+          {
+            "option": "C",
+            "rating": "weak",
+            "reason": "'Driven of' is an unnatural collocation that even intermediate learners would likely reject immediately."
+          },
+          {
+            "option": "D",
+            "rating": "weak",
+            "reason": "The misspelling 'hanger' (vs. 'hunger') makes this a double error that is trivially eliminated on sight."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "130202",
+        "question_text": "Farhana speaks English fluently : ----.  she  knows French.",
+        "correct_answer": "moreover",
+        "distractor_ratings": [
+          {
+            "option": "however",
+            "rating": "tempting",
+            "reason": "A very common discourse marker that test-takers often default to, and contrast connectors feel natural when listing separate skills."
+          },
+          {
+            "option": "since",
+            "rating": "weak",
+            "reason": "Implies causality, and there is no plausible causal link between knowing French and speaking English fluently."
+          },
+          {
+            "option": "although",
+            "rating": "tempting",
+            "reason": "Students who confuse concession with addition may select this, especially since both sentences state positive attributes that could feel like they need balancing."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      }
+    ]
+  },
+  "general_knowledge": {
+    "sample_size": 10,
+    "questions_all_weak": 0,
+    "distractor_quality_score": 1.0,
+    "questions": [
+      {
+        "question_id": "422502",
+        "question_text": "ঢাকা বিশ্ববিদ্যালয়ের বর্তমান চারুকলা অনুষদের প্রতিষ্ঠাকালীন নাম-",
+        "correct_answer": "গভর্নমেন্ট ইনস্টিটিউট অফ আর্টস",
+        "distractor_ratings": [
+          {
+            "option": "গভর্নমেন্ট কলেজ অফ আর্টস অ্যান্ড ক্রাফটস",
+            "rating": "tempting",
+            "reason": "'College' is a plausible institutional tier and 'Crafts' is a common addition in art institution names, making this sound authentically official."
+          },
+          {
+            "option": "গভর্নমেন্ট স্কুল অফ আর্টস",
+            "rating": "tempting",
+            "reason": "'School of Arts' is a globally common naming pattern for founding-era art institutions, closely mirroring the correct answer's structure."
+          },
+          {
+            "option": "গভর্নমেন্ট স্কুল অফ আর্টস অ্যান্ড ক্রাফটস",
+            "rating": "tempting",
+            "reason": "Combines the familiar 'School' label with 'Arts and Crafts', a pairing strongly associated with colonial-era South Asian art institutions, making it highly deceptive."
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "272070",
+        "question_text": "বাংলাদেশের বরগুনা ও পটুয়াখালী জেলায় যে ক্ষুদ্র নৃ-গোষ্ঠীর বাস-",
+        "correct_answer": "রাখাইন",
+        "distractor_ratings": [
+          {
+            "option": "হুদি",
+            "rating": "weak",
+            "reason": "হুদি একটি অপ্রচলিত নাম যা বেশিরভাগ শিক্ষার্থীর কাছে অপরিচিত, তাই সহজেই বাতিলযোগ্য।"
+          },
+          {
+            "option": "কুকি",
+            "rating": "tempting",
+            "reason": "কুকি বাংলাদেশের একটি পরিচিত নৃ-গোষ্ঠী এবং যারা ভৌগোলিক বিস্তার সম্পর্কে নিশ্চিত নন তারা এটিকে সঠিক মনে করতে পারেন।"
+          },
+          {
+            "option": "তুরি",
+            "rating": "weak",
+            "reason": "তুরি উত্তর-পশ্চিমাঞ্চলের নৃ-গোষ্ঠী হিসেবে কিছুটা পরিচিত, তবে উপকূলীয় জেলার সাথে কোনো সংযোগ না থাকায় সহজেই বাদ দেওয়া যায়।"
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "155589",
+        "question_text": "নাথান কমিশন যে বিশ্ববিদ্যালয় প্রতিষ্ঠার সঙ্গে যুক্ত-",
+        "correct_answer": "ঢাকা বিশ্ববিদ্যালয়",
+        "distractor_ratings": [
+          {
+            "option": "রাজশাহী বিশ্ববিদ্যালয়",
+            "rating": "weak",
+            "reason": "রাজশাহী বিশ্ববিদ্যালয় ১৯৫৩ সালে প্রতিষ্ঠিত — Nathan Commission (১৯১২) থেকে অনেক পরে, তাই সচেতন পরীক্ষার্থী সহজেই বাদ দিতে পারবে।"
+          },
+          {
+            "option": "কলকাতা বিশ্ববিদ্যালয়",
+            "rating": "tempting",
+            "reason": "কলকাতা বিশ্ববিদ্যালয় ব্রিটিশ আমলের প্রধান বিশ্ববিদ্যালয় এবং Nathan Commission ঐ একই যুগ ও অঞ্চলের সাথে সম্পর্কিত — ইতিহাস কম জানলে এটিকে সঠিক মনে হতে পারে।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "223946",
+        "question_text": "HDMI- এর পূর্ণ রুপ কি?",
+        "correct_answer": "High Defination Multimedia Interface",
+        "distractor_ratings": [
+          {
+            "option": "High Definition Multi language Interface",
+            "rating": "tempting",
+            "reason": "Keeps 'High Definition' and 'Interface' correct, only swapping 'Multimedia' for 'Multi language' — a plausible-sounding substitution."
+          },
+          {
+            "option": "Highly Definite Multinational Integrity",
+            "rating": "weak",
+            "reason": "'Multinational Integrity' is nonsensical for a hardware/AV standard and is easily eliminated on common sense."
+          },
+          {
+            "option": "Highly Defined Multimedia International",
+            "rating": "tempting",
+            "reason": "Gets 'Multimedia' right and 'Highly Defined' sounds close to 'High Definition', but 'International' instead of 'Interface' may not be obvious to someone unfamiliar with the acronym."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "167077",
+        "question_text": "কোন দেশে হাউস অফ কমনস পার্লামেন্টের নিম্ন কক্ষ ?",
+        "correct_answer": "যুক্তরাজ্য",
+        "distractor_ratings": [
+          {
+            "option": "যুক্তরাষ্ট্র",
+            "rating": "tempting",
+            "reason": "যুক্তরাষ্ট্রেও দ্বিকক্ষীয় আইনসভা আছে এবং অনেকে 'হাউস অফ রিপ্রেজেন্টেটিভস'-এর সাথে 'হাউস অফ কমনস' গুলিয়ে ফেলতে পারেন।"
+          },
+          {
+            "option": "অস্ট্রেলিয়া",
+            "rating": "tempting",
+            "reason": "অস্ট্রেলিয়ায়ও 'হাউস অফ রিপ্রেজেন্টেটিভস' নামক নিম্নকক্ষ আছে এবং এটি কমনওয়েলথভুক্ত দেশ হওয়ায় বিভ্রান্তি সৃষ্টি করতে পারে।"
+          },
+          {
+            "option": "নিউজিল্যান্ড",
+            "rating": "weak",
+            "reason": "নিউজিল্যান্ডে এককক্ষীয় সংসদ ব্যবস্থা আছে এবং 'হাউস অফ কমনস' নামে কোনো কক্ষ নেই, তাই সহজেই বাদ দেওয়া যায়।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "167292",
+        "question_text": "যমুনা সেতু নির্মানকারী কোম্পানির নাম কি ?",
+        "correct_answer": "হুন্দাই",
+        "distractor_ratings": [
+          {
+            "option": "দাইয়্যু",
+            "rating": "tempting",
+            "reason": "দাইয়্যু (Daewoo) একটি কোরিয়ান কনগ্লোমারেট যেটি নির্মাণ খাতেও সক্রিয়, হুন্দাইয়ের মতো একই দেশের কোম্পানি হওয়ায় সহজেই বিভ্রান্তি তৈরি করতে পারে।"
+          },
+          {
+            "option": "স্যামসাং",
+            "rating": "tempting",
+            "reason": "স্যামসাং একটি বিখ্যাত কোরিয়ান কোম্পানি এবং এর ইঞ্জিনিয়ারিং ও নির্মাণ বিভাগ থাকায় হুন্দাইয়ের সাথে গুলিয়ে ফেলার সম্ভাবনা আছে।"
+          },
+          {
+            "option": "টাটা",
+            "rating": "weak",
+            "reason": "টাটা একটি ভারতীয় কোম্পানি এবং বাংলাদেশে বড় অবকাঠামো নির্মাণের সাথে এর সম্পর্ক সুপরিচিত নয়, তাই সহজেই বাদ দেওয়া যায়।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "531972",
+        "question_text": "সাহিত্যে নোবেল পুরস্কার (২০২৪) পেয়েছেন-",
+        "correct_answer": "হান কাং",
+        "distractor_ratings": [
+          {
+            "option": "ডোরিস লেসিং",
+            "rating": "tempting",
+            "reason": "Real Nobel laureate (2007), so test-takers who remember a female winner but not the year could easily pick her."
+          },
+          {
+            "option": "ওলগা তোকারচুক",
+            "rating": "tempting",
+            "reason": "Won very recently (2018/2019) and is also a female author, making her highly confusable with the 2024 winner."
+          },
+          {
+            "option": "আনি এরনো",
+            "rating": "tempting",
+            "reason": "Won in 2022 — extremely recent and female, the closest chronological decoy and most likely to fool someone who is slightly off on the year."
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "602035",
+        "question_text": "বাংলাদেশে মুক্তিযুদ্ধভিত্তিক প্রথম ভাস্কর্য-",
+        "correct_answer": "জাগ্রত চৌরঙ্গী",
+        "distractor_ratings": [
+          {
+            "option": "সাবাস বাংলাদেশ",
+            "rating": "tempting",
+            "reason": "রাজশাহী বিশ্ববিদ্যালয়ের বিখ্যাত মুক্তিযুদ্ধভিত্তিক ভাস্কর্য — একজন শিক্ষার্থী সহজেই এটিকে 'প্রথম' মনে করতে পারে।"
+          },
+          {
+            "option": "অপরাজেয় বাংলা",
+            "rating": "tempting",
+            "reason": "ঢাকা বিশ্ববিদ্যালয়ের সবচেয়ে পরিচিত মুক্তিযুদ্ধভিত্তিক ভাস্কর্য হওয়ায় অধিকাংশ শিক্ষার্থী এটিকেই 'প্রথম' বলে বিভ্রান্ত হওয়ার সম্ভাবনা বেশি।"
+          },
+          {
+            "option": "স্বোপার্জিত স্বাধীনতা",
+            "rating": "tempting",
+            "reason": "এটিও একটি বাস্তব মুক্তিযুদ্ধভিত্তিক ভাস্কর্য (ঢাকা বিশ্ববিদ্যালয়), তাই বিষয়টি না জানলে সহজে বাতিল করা কঠিন।"
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "96014",
+        "question_text": "কোম্পানির পরিচালকমন্ডলীর ক্ষমতা কোন দলিল দ্বারা নির্ধারিত?",
+        "correct_answer": "পরিমেল নিয়মবলি দ্বারা",
+        "distractor_ratings": [
+          {
+            "option": "স্মারকলিপি দ্বারা",
+            "rating": "tempting",
+            "reason": "Memorandum of Association is the other foundational company document, and students commonly confuse its scope (company's external objects) with Articles of Association's scope (internal management rules)."
+          },
+          {
+            "option": "বিবরণপত্র দ্বারা",
+            "rating": "weak",
+            "reason": "A prospectus is a public capital-raising document with no role in defining board powers — easily eliminated by anyone with basic company law knowledge."
+          },
+          {
+            "option": "কোনোটিই নয়",
+            "rating": "weak",
+            "reason": "Since a specific correct document clearly exists (Articles of Association), 'none of the above' is implausible and easily dismissed."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "611531",
+        "question_text": "দৈবচয়ণ পদ্ধতির প্রধান উদ্দেশ্য কী? (What is the primary purpose of randomization?)",
+        "correct_answer": "পরীক্ষণ দলগুলোর মধ্যে পরীক্ষণ-পূর্ব পার্থক্য নিয়ন্ত্রণ করা (To control preexisting differences between experimental groups)",
+        "distractor_ratings": [
+          {
+            "option": "গবেষক ও অংশগ্রহণকারীর পক্ষপাত এড়ানো (To avoid researcher and participant bias)",
+            "rating": "tempting",
+            "reason": "Randomization does reduce bias, so a student who partially understands the concept may confuse bias-reduction with the more precise goal of equating groups on preexisting variables."
+          },
+          {
+            "option": "পরীক্ষণের ব্যয় ও সময় কমানো (To reduce the time and cost of the experiment)",
+            "rating": "weak",
+            "reason": "Cost and time have no conceptual link to randomization; any student with minimal research methods knowledge would immediately eliminate this."
+          },
+          {
+            "option": "পরীক্ষণের ফলাফল সহজে পুণরাবৃতি করা (To make the experimental results easier to replicate)",
+            "rating": "tempting",
+            "reason": "Replication is a genuine goal of rigorous research and is loosely associated with randomization, making this plausible enough to trap students who conflate methodological rigour with the specific function of random assignment."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      }
+    ]
+  },
+  "ict": {
+    "sample_size": 10,
+    "questions_all_weak": 1,
+    "distractor_quality_score": 0.9,
+    "questions": [
+      {
+        "question_id": "244325",
+        "question_text": "(DADA)16থেকে(BABA)16কত ছোট?",
+        "correct_answer": "(8224)10",
+        "distractor_ratings": [
+          {
+            "option": "(2021)16",
+            "rating": "tempting",
+            "reason": "Presents the answer in hex (matching the question's format) and is only 1 digit away from the correct hex equivalent (2020)₁₆, plausibly mimicking a last-digit arithmetic slip."
+          },
+          {
+            "option": "(2022)16",
+            "rating": "tempting",
+            "reason": "Also in hex format and only 2 away from (2020)₁₆; a student who correctly sets up D−B=2 but carries a small error would naturally land here."
+          },
+          {
+            "option": "(8021)10",
+            "rating": "weak",
+            "reason": "Decimal value with no clear arithmetic path from the subtraction — it's neither a recognizable off-by-one nor a common base-conversion mistake, making it easy to dismiss against the plausible hex options."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "428511",
+        "question_text": "নিম্নের কোনটি UNICODE এর উদাহরণ?",
+        "correct_answer": "UTF-8",
+        "distractor_ratings": [
+          {
+            "option": "ASCII",
+            "rating": "tempting",
+            "reason": "ASCII is a real and well-known character encoding standard, and students often conflate it with Unicode since both deal with character representation."
+          },
+          {
+            "option": "OTM-32",
+            "rating": "weak",
+            "reason": "Not a real standard; likely meant to mimic UTF-32, but the 'OTM' prefix is unfamiliar enough that most students would dismiss it immediately."
+          },
+          {
+            "option": "Hexa",
+            "rating": "weak",
+            "reason": "Hexadecimal is a number system, not a character encoding — a student with minimal CS knowledge would know it doesn't belong in this category."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "628264",
+        "question_text": "কম্পিউটার নেটওয়ার্কে সুইটের মূল উদ্দেশ্য কি?",
+        "correct_answer": "প্যাকেট ফিল্টারিং",
+        "distractor_ratings": [
+          {
+            "option": "নেটওয়ার্ক ঠিকানা অনুবাদ (NAT)",
+            "rating": "tempting",
+            "reason": "NAT is a real network function, and students who conflate switches with routers could plausibly pick this."
+          },
+          {
+            "option": "ডেটা এনক্রিপশন",
+            "rating": "weak",
+            "reason": "Encryption is not a primary function of any basic network forwarding device, making it easy to eliminate."
+          },
+          {
+            "option": "ভৌত স্তর সংযোগ",
+            "rating": "tempting",
+            "reason": "Hubs operate at the physical layer and are easily confused with switches by beginners unfamiliar with OSI layer distinctions."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "87328",
+        "question_text": "ডেটা স্থানাস্তরের হার কোনটি ?",
+        "correct_answer": "ব্যান্ডউইথ",
+        "distractor_ratings": [
+          {
+            "option": "ব্যান্ডমিটার",
+            "rating": "tempting",
+            "reason": "Sounds phonetically close to 'bandwidth' and uses a technical-sounding suffix, making it easy to confuse for someone unsure of the exact term."
+          },
+          {
+            "option": "ঢাটা ট্রান্সমিশন",
+            "rating": "tempting",
+            "reason": "Directly related to data transfer as a concept, so a student might conflate the process of transmission with the rate of transmission."
+          },
+          {
+            "option": "ডাটা কমিউনিকেশন",
+            "rating": "weak",
+            "reason": "Too broad a term (refers to the entire field of data exchange), making it easy to eliminate as it clearly doesn't describe a specific rate or measurement."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "627883",
+        "question_text": "(11110.001)2=(?)10",
+        "correct_answer": "30.125",
+        "distractor_ratings": [
+          {
+            "option": "A) 25.25",
+            "rating": "tempting",
+            "reason": "25 is plausibly close to 30 (a bit-counting slip), and 0.25 (2⁻²) is a common binary fraction someone might choose by misreading .001 as .01."
+          },
+          {
+            "option": "C) 10.125",
+            "rating": "weak",
+            "reason": "10 is far from 30 with no obvious error path from 11110₂, making this easily eliminated by anyone who attempts the conversion."
+          },
+          {
+            "option": "D) 25.125",
+            "rating": "tempting",
+            "reason": "The fractional part .125 is correct, so only the integer part is wrong — a partial-work error where someone miscounts the integer bits could plausibly land on 25."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "611515",
+        "question_text": "একটি পেজের সাথে অন্য পেজের সংযোগকে HTML-এ কী বলে? (In HTML, what is the name of connection between one page to another?)",
+        "correct_answer": "Hyper link",
+        "distractor_ratings": [
+          {
+            "option": "Hyper connection",
+            "rating": "tempting",
+            "reason": "Semantically intuitive — it literally describes connecting pages, making it a believable distractor for someone guessing from meaning rather than knowledge."
+          },
+          {
+            "option": "Hyper node",
+            "rating": "weak",
+            "reason": "\"Node\" is a networking/graph-theory term not commonly associated with HTML page linking, making it easier to eliminate."
+          },
+          {
+            "option": "Hyper edge",
+            "rating": "weak",
+            "reason": "Graph-theory jargon that feels out of place in an HTML context; unlikely to fool anyone with even basic web knowledge."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "175624",
+        "question_text": "E-mail এর অর্থ কি?",
+        "correct_answer": "Electronic mail",
+        "distractor_ratings": [
+          {
+            "option": "Emergency mail",
+            "rating": "tempting",
+            "reason": "'Emergency' starts with E and sounds like a legitimate specialized mail category, making it plausible to someone guessing."
+          },
+          {
+            "option": "Electrical mail",
+            "rating": "tempting",
+            "reason": "'Electrical' and 'Electronic' are closely related technical terms that are commonly confused, making this a strong distractor."
+          },
+          {
+            "option": "Effective mail",
+            "rating": "weak",
+            "reason": "'Effective' is a generic adjective with no technical connection to email or the E-prefix convention, easily eliminated."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "627877",
+        "question_text": "BCD কোডের বিট সংখ্যা কত?",
+        "correct_answer": "4 bit",
+        "distractor_ratings": [
+          {
+            "option": "6 bit",
+            "rating": "weak",
+            "reason": "6 বিট কোনো পরিচিত স্ট্যান্ডার্ড কোডের সাথে সম্পর্কিত নয়, তাই সহজেই বাদ দেওয়া যায়।"
+          },
+          {
+            "option": "8 bit",
+            "rating": "tempting",
+            "reason": "শিক্ষার্থীরা BCD-কে এক বাইট (8 bit) বা ASCII-এর সাথে গুলিয়ে ফেলতে পারে।"
+          },
+          {
+            "option": "16 bit",
+            "rating": "weak",
+            "reason": "16 বিট অত্যন্ত বড় মান, যা বেসিক ক্যারেক্টার এনকোডিংয়ের জন্য স্পষ্টতই অসামঞ্জস্যপূর্ণ।"
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "244326",
+        "question_text": "মেশিন লার্নিং এর সাথে নিচের কোনটি সবচেয়ে কম সামঞ্জস্যপূর্ণ?",
+        "correct_answer": "কৃত্তিম বুদ্ধিমত্তা",
+        "distractor_ratings": [
+          {
+            "option": "ডাটা সায়েন্স",
+            "rating": "tempting",
+            "reason": "Data Science and ML overlap heavily, but a student might argue DS is broader/distinct enough to seem 'least compatible,' making this a plausible wrong pick."
+          },
+          {
+            "option": "পূর্ববর্তী অভিজ্ঞতা",
+            "rating": "weak",
+            "reason": "ML is literally defined as learning from past experience/data, so any student with basic knowledge will immediately rule this out."
+          },
+          {
+            "option": "কম্পিউটার",
+            "rating": "weak",
+            "reason": "Computers are an obvious prerequisite for running ML algorithms — too self-evidently compatible to fool anyone."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "175949",
+        "question_text": "Who is good in h History , physics, computer science and Mathematics?",
+        "correct_answer": "None of them",
+        "distractor_ratings": [
+          {
+            "option": "A) D",
+            "rating": "weak",
+            "reason": "A single-letter label with no descriptive context gives the test-taker nothing to evaluate, making it trivially dismissible."
+          },
+          {
+            "option": "B) E",
+            "rating": "weak",
+            "reason": "Same issue — an opaque single letter that provides no plausible basis for selection, offering no real cognitive challenge."
+          },
+          {
+            "option": "C) A",
+            "rating": "weak",
+            "reason": "Identical problem; using 'A' as both an option label and the answer value creates confusion but still lacks any substantive hook to tempt a student."
+          }
+        ],
+        "weak_distractor_count": 3,
+        "all_distractors_weak": true
+      }
+    ]
+  },
+  "mathematics": {
+    "sample_size": 10,
+    "questions_all_weak": 1,
+    "distractor_quality_score": 0.9,
+    "questions": [
+      {
+        "question_id": "604999",
+        "question_text": "5 টি পর্যবেক্ষণের গড় 18 । যদি একটি মান বাদ দেয়া হয়, নতুন গড় হয় 15। বাদ দেয়া মানটি কত? (The mean of 5 observations is 18. If one value is removed, the new mean becomes 15. What is the value removed?)",
+        "correct_answer": "30",
+        "distractor_ratings": [
+          {
+            "option": "B) 23",
+            "rating": "tempting",
+            "reason": "Plausible magnitude — close to the given means (15, 18), so a student unsure of the method might accept it as a reasonable observation value."
+          },
+          {
+            "option": "C) 48",
+            "rating": "weak",
+            "reason": "Far too large relative to the means; no standard calculation error (e.g., wrong n, swapped operands) produces this value cleanly."
+          },
+          {
+            "option": "D) 53",
+            "rating": "weak",
+            "reason": "Even larger than C and the correct answer; easily eliminated since it's implausible given means of 15 and 18."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "99424",
+        "question_text": "x2+y2+2x-4y-11=0বক্ররেখার উপরিস্থিত (-1, -2) বিন্দুতে স্পর্শকের সমীকরণ হবে:",
+        "correct_answer": "y +2=0",
+        "distractor_ratings": [
+          {
+            "option": "y - 2 = 0",
+            "rating": "tempting",
+            "reason": "Uses y = 2, which is the y-coordinate of the circle's center (-1, 2), easy to confuse with the tangent point's y-coordinate (-2) by a sign error."
+          },
+          {
+            "option": "x - 2 = 0",
+            "rating": "weak",
+            "reason": "Vertical line x = 2 has no geometric connection to the point (-1, -2) or the circle's center (-1, 2), easily eliminated."
+          },
+          {
+            "option": "x + 2 = 0",
+            "rating": "weak",
+            "reason": "Vertical line x = -2 does not pass through the tangent point (-1, -2); a student who correctly identifies the tangent as horizontal would immediately discard both vertical options."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "83916",
+        "question_text": "ক্ষার ধাতু বলা হয় কোন গ্রুপের মৌলসমূকে?",
+        "correct_answer": "IA",
+        "distractor_ratings": [
+          {
+            "option": "IB",
+            "rating": "tempting",
+            "reason": "IB শুনতে IA-এর কাছাকাছি, এবং শিক্ষার্থীরা A/B উপগ্রুপের পার্থক্য নিয়ে বিভ্রান্ত হতে পারে।"
+          },
+          {
+            "option": "IIA",
+            "rating": "tempting",
+            "reason": "IIA হলো ক্ষারীয় মৃত্তিকা ধাতু (alkaline earth metals), যা ক্ষার ধাতুর সাথে নামের মিলের কারণে সহজেই গুলিয়ে ফেলা যায়।"
+          },
+          {
+            "option": "IIB",
+            "rating": "weak",
+            "reason": "IIB গ্রুপে Zn, Cd, Hg রয়েছে — এগুলো ক্ষার বা ক্ষারীয় কোনো শ্রেণিতে পড়ে না, তাই সহজেই বাদ দেওয়া যায়।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "176554",
+        "question_text": "who among them is the  shorter than F?",
+        "correct_answer": "B and C",
+        "distractor_ratings": [
+          {
+            "option": "C only",
+            "rating": "tempting",
+            "reason": "C is genuinely shorter than F, so a student who overlooks B could plausibly choose this partial answer."
+          },
+          {
+            "option": "B only",
+            "rating": "tempting",
+            "reason": "B is genuinely shorter than F, so a student who overlooks C faces the same partial-answer trap."
+          },
+          {
+            "option": "A only",
+            "rating": "weak",
+            "reason": "A is not shorter than F at all, so it shares nothing with the correct answer and is easily eliminated by process of elimination."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "99432",
+        "question_text": "যদি A = R - {3}, B = R - {1} এবং AB ফাংশনটি∫x=x-2x-3দ্বারা সঙ্গায়িত হয়, তবে∫-10এর মান কত?",
+        "correct_answer": "2",
+        "distractor_ratings": [
+          {
+            "option": "A) -1",
+            "rating": "weak",
+            "reason": "No natural arithmetic path leads here; would require multiple compounding errors with no clean intermediate step."
+          },
+          {
+            "option": "C) -2",
+            "rating": "tempting",
+            "reason": "A student who plugs 0 into only the numerator (0−2 = −2) while ignoring the denominator arrives directly at this."
+          },
+          {
+            "option": "D) 1",
+            "rating": "tempting",
+            "reason": "A student who confuses which term to zero out might write x−3 = x−2 → x = 3−2 = 1, swapping numerator and denominator logic."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "99313",
+        "question_text": "নিচের যােগজ এর মান হবে-∫-11xdx",
+        "correct_answer": "-1",
+        "distractor_ratings": [
+          {
+            "raw": "**Note:** There appears to be a mathematical error in this question. The correct value of ∫₋₁¹ x dx = [x²/2]₋₁¹ = (1/2) − (1/2) = **0** (since x is an odd function over a symmetric interval). The marked correct answer of **−1** is incorrect. Option D (0) is actually the right answer.\n\nEvaluating the wrong options with the actual correct answer being **0**:\n\n```json\n[\n  {\n    \"option\": \"A) 2\",\n    \"rating\": \"weak\",\n    \"reason\": \"Difficult to arrive at 2 through any standard computational mistake on this integral.\"\n  },\n  {\n    \"option\": \"B) 1\",\n    \"rating\": \"tempting\",\n    \"reason\": \"A student who evaluates only the positive half (∫₀¹ x dx × 2 = 1) or incorrectly adds both bounds' squared values could land here.\"\n  },\n  {\n    \"option\": \"C) -1\",\n    \"rating\": \"tempting\",\n    \"reason\": \"A student who applies the lower bound only (plugging x = −1 into x²/2 and ignoring the upper bound subtraction) could get −1/2, or might confuse the antiderivative sign convention.\"\n  }\n]\n```\n\n**Recommendation:** The correct answer should be changed to **D) 0**, or the integral limits should be revised (e.g., ∫₀¹ x dx = 1/2, which still doesn't match any option cleanly). The question needs correction before use."
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": true
+      },
+      {
+        "question_id": "176379",
+        "question_text": "Half of the people on a bus get off at each stop after the first, and no one gets on after the frish stop . If only one person gets off at number 7 , how many people got on at the first stop?",
+        "correct_answer": "64",
+        "distractor_ratings": [
+          {
+            "option": "B) 128",
+            "rating": "tempting",
+            "reason": "Off-by-one error going the wrong way — someone might count 7 halvings (including stop 1) instead of 6, giving 2^7 = 128."
+          },
+          {
+            "option": "C) 32",
+            "rating": "tempting",
+            "reason": "Off-by-one error going the other way — stopping at 5 halvings instead of 6, giving 2^5 = 32, easy to do when counting stops."
+          },
+          {
+            "option": "D) 1",
+            "rating": "weak",
+            "reason": "Just the number directly stated in the problem; no computation required to eliminate it."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "89462",
+        "question_text": "f(x)=4-x2ফাংশনটির ডোমেন কত?",
+        "correct_answer": "-2≤x≤2",
+        "distractor_ratings": [
+          {
+            "option": "-1≤x≤1",
+            "rating": "tempting",
+            "reason": "Correct interval structure but wrong boundary — student may confuse √(4-x²) with √(1-x²) or miscalculate √4=1."
+          },
+          {
+            "option": "-∞<x<∞",
+            "rating": "tempting",
+            "reason": "Correct answer if the function were the polynomial 4-x² without a square root — student likely forgot the radical sign constraint."
+          },
+          {
+            "option": "x≥4",
+            "rating": "weak",
+            "reason": "Confuses domain with range or misreads the constant 4 as a lower bound; the reasoning path to this answer is implausible."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "538761",
+        "question_text": "কোন কণার স্পন্দন গতির সমীকরণxহলে কণাটির কম্পাঙ্ক হবে-",
+        "correct_answer": "5 Hz",
+        "distractor_ratings": [
+          {
+            "option": "1.5 Hz",
+            "rating": "weak",
+            "reason": "Too far from the correct answer (5 Hz) to seem plausible; easily eliminated unless a student makes a gross error like dividing ω by 2π twice."
+          },
+          {
+            "option": "3.5 Hz",
+            "rating": "tempting",
+            "reason": "Plausible mid-range value; a student who misreads the angular frequency coefficient or makes an arithmetic slip could arrive here."
+          },
+          {
+            "option": "6 Hz",
+            "rating": "tempting",
+            "reason": "Close to the correct answer; a student who confuses ω/2π with ω/π (forgetting the factor of 2) would get a value near this, making it an effective near-miss distractor."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "175802",
+        "question_text": "কোন জলীয় দ্রবণটিতে হাইড্রোনিয়াম আয়নের ঘনমাত্রা সর্বাধিক ?",
+        "correct_answer": "CH3COOHpH= 0.1",
+        "distractor_ratings": [
+          {
+            "option": "H2SO4 (pH= 4)",
+            "rating": "weak",
+            "reason": "pH=4 is obviously much higher than both other options, so anyone who understands that lower pH means higher [H3O+] eliminates this immediately — the diprotic-acid appeal doesn't survive the given pH value."
+          },
+          {
+            "option": "HCL (pH=1)",
+            "rating": "tempting",
+            "reason": "Students often associate strong acids (HCl) with maximum H+ and may overlook that the weak acid CH3COOH at pH=0.1 actually yields a higher [H3O+] than HCl at pH=1."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      }
+    ]
+  },
+  "other": {
+    "sample_size": 10,
+    "questions_all_weak": 0,
+    "distractor_quality_score": 1.0,
+    "questions": [
+      {
+        "question_id": "169525",
+        "question_text": "মাদার তেরেসার জন্মস্থান -",
+        "correct_answer": "মেসিডোনিয়া",
+        "distractor_ratings": [
+          {
+            "option": "কলিকাতা",
+            "rating": "tempting",
+            "reason": "মাদার তেরেসা কলিকাতায় দীর্ঘদিন কাজ করেছেন, তাই অনেকে তাঁকে কলিকাতার সাথে একাত্ম মনে করেন।"
+          },
+          {
+            "option": "ভেনেজুয়েলা",
+            "rating": "weak",
+            "reason": "মাদার তেরেসার সাথে ভেনেজুয়েলার কোনো পরিচিত সংযোগ নেই, সহজেই বাতিলযোগ্য।"
+          },
+          {
+            "option": "রোম",
+            "rating": "tempting",
+            "reason": "তিনি ক্যাথলিক নান ছিলেন এবং ভ্যাটিকান/রোমের সাথে তাঁর ধর্মীয় সংযোগ থাকায় কেউ কেউ বিভ্রান্ত হতে পারেন।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "215863",
+        "question_text": "একটি নভো দুরীকরণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রর ফোকাস দুরত্ব যথাক্রামে  1 m ও 0.05m। স্বাভাবিক দর্শনের ক্ষেত্রে বিবর্ধন নির্ণয় কর?",
+        "correct_answer": "20",
+        "distractor_ratings": [
+          {
+            "option": "B",
+            "rating": "weak",
+            "reason": "30 has no plausible arithmetic path from fo=1m and fe=0.05m; likely a random distractor."
+          },
+          {
+            "option": "C",
+            "rating": "tempting",
+            "reason": "40 = 2×20, could result from a factor-of-2 error or mistakenly using the near-point magnification formula with an incorrect substitution."
+          },
+          {
+            "option": "D",
+            "rating": "tempting",
+            "reason": "50 = 1/0.02, likely traps students who misread fe as 0.02m instead of 0.05m — a common decimal place confusion."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "180712",
+        "question_text": "40 cm দূরত্বে অবস্থিত--6×10-9Cও --6×10-9Cমানের দুটি চার্জের সংযোগ রেখার ঠিক মধ্যবিন্দুতে তড়িৎ প্রাবল্য হবে-",
+        "correct_answer": "কোনটিই নয়",
+        "distractor_ratings": [
+          {
+            "option": "A) -3.375×10⁻² NC⁻¹",
+            "rating": "weak",
+            "reason": "A negative scalar value for electric field magnitude is physically nonsensical and the numerical value doesn't correspond to any recognizable calculation error with these inputs."
+          },
+          {
+            "option": "B) 2×10⁻² NC⁻¹",
+            "rating": "tempting",
+            "reason": "Looks like a plausible computed result; a student who doubles the individual field contributions instead of recognizing cancellation — or makes a powers-of-ten error — could land near this value."
+          },
+          {
+            "option": "C) 0 NC⁻¹",
+            "rating": "tempting",
+            "reason": "This is actually the correct answer by symmetry (equal like charges cancel at the midpoint), so any student who understands the physics would select this — making it the most deceptive distractor if D is truly intended as correct."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "202496",
+        "question_text": "ম্যালেরিয়া পরজীবীর কোন প্রজাতির সুপ্তাবস্থা সবচেয়ে কম?",
+        "correct_answer": "প্লাজমোডিয়াম ফ্যালসিপেরাম",
+        "distractor_ratings": [
+          {
+            "option": "প্লাজমোডিয়াম ভাইভেক্স",
+            "rating": "tempting",
+            "reason": "সবচেয়ে পরিচিত ও সাধারণ প্রজাতি হওয়ায় শিক্ষার্থীরা সহজেই এটিকে 'সবচেয়ে দ্রুত' বলে ভুল করতে পারে; এর incubation period (১২-১৭ দিন) ফ্যালসিপেরামের কাছাকাছি।"
+          },
+          {
+            "option": "প্লাজমোডিয়াম ওভেলি",
+            "rating": "weak",
+            "reason": "P. ovale তুলনামূলকভাবে কম পরিচিত এবং এর incubation period দীর্ঘ (১৬-১৮ দিন), তাই সচেতন শিক্ষার্থীরা সহজেই বাদ দিতে পারবে।"
+          },
+          {
+            "option": "প্লাজমোডিয়াম ম্যালেরি",
+            "rating": "weak",
+            "reason": "P. malariae সর্বোচ্চ দীর্ঘ incubation period (১৮-৪০ দিন) এর জন্য সুপরিচিত, তাই এটি সহজেই বাতিলযোগ্য।"
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "145297",
+        "question_text": "রৈখিক বিবর্ধন বলতে বোঝায় প্রতিবিম্বের আকার ও বস্তুর আকারের -",
+        "correct_answer": "অনুপাত",
+        "distractor_ratings": [
+          {
+            "option": "যোগফল",
+            "rating": "weak",
+            "reason": "Sum of image and object sizes has no physical meaning in optics — easily dismissed by anyone with basic intuition."
+          },
+          {
+            "option": "বিয়োগফল",
+            "rating": "weak",
+            "reason": "Difference between sizes is equally meaningless for magnification and offers no plausible confusion with the correct concept."
+          },
+          {
+            "option": "গুণফল",
+            "rating": "tempting",
+            "reason": "Students who vaguely recall magnification involves 'comparing two quantities mathematically' may confuse product with ratio, especially under exam pressure."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "96241",
+        "question_text": "জৈবযেীগ শনাক্তকরণের রাসায়নিক পদ্ধতি হলো।",
+        "correct_answer": "জারণ",
+        "distractor_ratings": [
+          {
+            "option": "লেসাইন",
+            "rating": "tempting",
+            "reason": "Lassaigne's test is genuinely a chemical method used in organic compound analysis (detecting N, S, halogens), making it a highly plausible choice."
+          },
+          {
+            "option": "ডুমাস",
+            "rating": "tempting",
+            "reason": "Dumas method is a real organic chemistry technique (nitrogen quantification), so students familiar with the name but not its classification may pick it."
+          },
+          {
+            "option": "জেলডাল",
+            "rating": "tempting",
+            "reason": "Kjeldahl method is another legitimate nitrogen-determination technique in organic chemistry, easily confused with a general identification method."
+          }
+        ],
+        "weak_distractor_count": 0,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "234215",
+        "question_text": "ভূ-চম্বুকের দক্ষিণ মেরু কোথায় অবস্থিত ?",
+        "correct_answer": "অ্যান্টার্কটিকায়",
+        "distractor_ratings": [
+          {
+            "option": "বুথিয়া উপদ্বিপে",
+            "rating": "tempting",
+            "reason": "বুথিয়া উপদ্বীপ ঐতিহাসিকভাবে ভূ-চুম্বকের উত্তর মেরুর অবস্থান হিসেবে পরিচিত — উত্তর/দক্ষিণ গুলিয়ে ফেলা সহজ।"
+          },
+          {
+            "option": "ভিক্টোরিয়ায়",
+            "rating": "tempting",
+            "reason": "Victoria Land অ্যান্টার্কটিকার একটি অঞ্চল, তাই সঠিক উত্তরের সাথে ভৌগোলিক নৈকট্য থাকায় বিভ্রান্তিকর হতে পারে।"
+          },
+          {
+            "option": "বিষুব রেখায়",
+            "rating": "weak",
+            "reason": "চুম্বকীয় মেরু সর্বদা উচ্চ অক্ষাংশে থাকে — বিষুবরেখা সম্পূর্ণ বিপরীত অবস্থানে, সহজেই বাতিলযোগ্য।"
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "145267",
+        "question_text": "বেশি সময় ধরে কম মানের বিদ্যুৎ প্রবাহের হলে কোন কোষ ব্যবহৃত হয় ?",
+        "correct_answer": "ড্যানিয়েল কোষ",
+        "distractor_ratings": [
+          {
+            "option": "শুষ্ক কোষ",
+            "rating": "tempting",
+            "reason": "Dry cells are the most familiar battery type to students, making it easy to associate with general/prolonged current supply despite being better suited for short-duration, moderate current use."
+          },
+          {
+            "option": "সিসা",
+            "rating": "weak",
+            "reason": "The option is incomplete — 'সিসা' (lead) alone is not a cell type; it likely means lead-acid cell but the truncated label makes it easy to dismiss as nonsensical or out of context."
+          },
+          {
+            "option": "A ও B",
+            "rating": "tempting",
+            "reason": "Combination options that partially overlap with the correct answer (Daniell cell) can mislead uncertain students into thinking both cell types share the property, especially since dry cells are also commonly encountered."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "234640",
+        "question_text": "কোনো এক ব্যক্তির চক্ষুর দূরবিন্দু 5 মিটার । দূরবর্তী বস্তু দেখার জন্য তার কত ক্ষমতার লেন্স প্রয়োজন?",
+        "correct_answer": "-0.2D",
+        "distractor_ratings": [
+          {
+            "option": "A) +2D",
+            "rating": "weak",
+            "reason": "Both the sign and magnitude are wrong — a student who even partially understands the problem would know a negative (concave) lens is needed for myopia, making this easily eliminated."
+          },
+          {
+            "option": "B) +0.2D",
+            "rating": "tempting",
+            "reason": "The magnitude is exactly correct (1/5 = 0.2), so a student who does the calculation right but forgets that myopia requires a concave (negative) lens will land here."
+          },
+          {
+            "option": "D) -2D",
+            "rating": "tempting",
+            "reason": "The sign is correct (concave lens for myopia), so a student who understands the concept but makes a unit or arithmetic error — e.g., using 50 cm instead of 5 m — can arrive at this value."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "97221",
+        "question_text": "বাংলা কৃৎ প্রত্যয় কত প্রকার ?",
+        "correct_answer": "২",
+        "distractor_ratings": [
+          {
+            "option": "৩",
+            "rating": "tempting",
+            "reason": "৩ is a very common count for grammatical subcategories in Bengali grammar, making it an easy guess."
+          },
+          {
+            "option": "৫",
+            "rating": "weak",
+            "reason": "৫ is an unusually high number for this type of suffix classification and lacks intuitive appeal."
+          },
+          {
+            "option": "৪",
+            "rating": "tempting",
+            "reason": "৪ is close to the correct answer and a plausible count, likely to attract students who half-remember the classification."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      }
+    ]
+  },
+  "physics": {
+    "sample_size": 10,
+    "questions_all_weak": 0,
+    "distractor_quality_score": 1.0,
+    "questions": [
+      {
+        "question_id": "144691",
+        "question_text": "নিচের কোনটি বলটি সবচেয়ে দুর্বল ?",
+        "correct_answer": "মহাকর্ষীয় বল",
+        "distractor_ratings": [
+          {
+            "option": "তড়িৎ চুম্বকীয় বল",
+            "rating": "tempting",
+            "reason": "Students who haven't memorized the exact hierarchy of the four fundamental forces may confuse electromagnetic with gravitational as the weakest."
+          },
+          {
+            "option": "দুর্বল বল",
+            "rating": "tempting",
+            "reason": "The word 'দুর্বল' literally means 'weak' in Bengali, making this a highly deceptive distractor — students unfamiliar with force rankings will instinctively pick this."
+          },
+          {
+            "option": "নিউক্লিয় বল",
+            "rating": "weak",
+            "reason": "Most students associate nuclear forces with enormous strength (e.g., nuclear reactions/bombs), making it easy to eliminate as the weakest."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "124952",
+        "question_text": "আকর্ষন বিকর্ষন বল (F) সংক্রান্ত নিম্নের কোন সমীকরনটি  সঠিক নয় ?",
+        "correct_answer": "F=14π7∈0,d2q1q2",
+        "distractor_ratings": [
+          {
+            "option": "F=14π∈0,q1q2d2",
+            "rating": "weak",
+            "reason": "This is the textbook form of Coulomb's law — any student who has studied the topic will immediately recognize it as correct and dismiss it."
+          },
+          {
+            "option": "F=14π∈0K,q1q2d2",
+            "rating": "tempting",
+            "reason": "Students who half-remember where K (dielectric constant) sits in the formula may second-guess whether it belongs in the numerator or denominator, making this plausibly 'wrong' to them."
+          },
+          {
+            "option": "F=qE",
+            "rating": "tempting",
+            "reason": "Its form is so different from the other Coulomb-law expressions that a careless reader might flag it as the odd one out, even though it is a standard and valid relation."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "419925",
+        "question_text": "গঠনমূরক ব্যতিচারের ক্ষেত্রে দশা পার্থক্য কত?",
+        "correct_answer": "2ηπ",
+        "distractor_ratings": [
+          {
+            "option": "A) no",
+            "rating": "weak",
+            "reason": "Not a mathematical expression at all — immediately recognizable as a non-answer."
+          },
+          {
+            "option": "B) (2n + 1)π",
+            "rating": "tempting",
+            "reason": "This is the actual condition for destructive interference, so students who mix up the two types will confidently choose it."
+          },
+          {
+            "option": "C) ηπ",
+            "rating": "tempting",
+            "reason": "Looks like a partial or generalized form of the correct answer (2nπ), and could fool students who half-remember the formula without knowing the factor of 2."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "93946",
+        "question_text": "দুটি ভেক্টর→A=2i∧+3j∧-4j∧দেয়া আছে। x  এর যে মানের জন্য ভেক্টর→Bসমান্তরাল হবে তা হলো ।",
+        "correct_answer": "4",
+        "distractor_ratings": [
+          {
+            "option": "A) 3",
+            "rating": "tempting",
+            "reason": "Matches the j-component coefficient in vector A, so a student confusing which ratio to equate could land here."
+          },
+          {
+            "option": "B) 2",
+            "rating": "tempting",
+            "reason": "Matches the i-component coefficient in vector A, making it a plausible wrong pick for students who set up the parallelism condition with the wrong pair of components."
+          },
+          {
+            "option": "C) 1",
+            "rating": "weak",
+            "reason": "No coefficient in the given vector equals 1, so it has no surface-level connection to the problem and is easily eliminated."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "545301",
+        "question_text": "1.8 gm পানিতে কতকগুলো পানির অণু আছে?",
+        "correct_answer": "6.023×1022",
+        "distractor_ratings": [
+          {
+            "option": "A) 60.23×10²³",
+            "rating": "tempting",
+            "reason": "Results from inverting the molar ratio (18/1.8 instead of 1.8/18), a classic algebraic slip when applying n = mass/molar mass."
+          },
+          {
+            "option": "B) 0.6023×10²²",
+            "rating": "weak",
+            "reason": "Does not correspond to any recognizable arithmetic or conceptual error in the mole calculation, making it easy to eliminate."
+          },
+          {
+            "option": "D) 6.023×10²³",
+            "rating": "tempting",
+            "reason": "Avogadro's number itself — a student who skips the mole conversion and assumes 1.8 g = 1 mol will pick this directly."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "235065",
+        "question_text": "কোনো কৃষ্ণকায়ার একক ক্ষেত্রফল থেকে প্রতি সেকেন্ডে বিকীর্ণ তাপের পরিমাণ এর পরম তাপমাত্রার-",
+        "correct_answer": "চতুর্থ ঘাতের সমানুপাতিক",
+        "distractor_ratings": [
+          {
+            "option": "সমানুপাতিক",
+            "rating": "weak",
+            "reason": "A simple linear relationship with temperature is physically implausible for radiation and easily eliminated by anyone with basic thermodynamics knowledge."
+          },
+          {
+            "option": "ব্যাস্তানুপাতিক",
+            "rating": "weak",
+            "reason": "Inverse proportionality contradicts the intuitive fact that hotter objects radiate more energy, making this immediately dismissible."
+          },
+          {
+            "option": "বর্গানুপাতিক",
+            "rating": "tempting",
+            "reason": "Students who partially remember Stefan-Boltzmann law or confuse it with other power-law relationships in physics (e.g., T² in mean kinetic energy) may plausibly select T² over T⁴."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "98508",
+        "question_text": "দুইটি আলোক তরঙ্গ A এবং B  এর মধ্যে  A  এর তরঙ্গ দৈর্ঘ্য B  এর  দ্বিগুন। A  তরঙ্গের একটি ফোটনের শক্তি কত?",
+        "correct_answer": "half the energy of a photon in beam B",
+        "distractor_ratings": [
+          {
+            "option": "one-fourth the energy of a photon in beam B",
+            "rating": "tempting",
+            "reason": "Students who remember energy scales inversely with wavelength but mistakenly apply a squared relationship (E ∝ 1/λ²) — perhaps confusing with intensity — would arrive at 1/4."
+          },
+          {
+            "option": "equal to the energy of a photon in beam B",
+            "rating": "weak",
+            "reason": "Easily eliminated by anyone who knows E = hf = hc/λ; wavelength clearly cannot be different while energy stays the same."
+          },
+          {
+            "option": "twice the energy of a photon in bean B",
+            "rating": "tempting",
+            "reason": "Classic inversion error — students who know wavelength and energy are related but flip the direction, thinking longer wavelength means more energy (analogous to mistaking higher amplitude for higher frequency)."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "235147",
+        "question_text": "মহাকাশে অবস্থিত একটি শাটল মহাকাশ যানের জ্বালানী ব্যবহারের হার 5 কেজি/সেকেন্ড হলে এবং উহা 150 মি/সেকেন্ড সুষম দ্রুতিতে নির্গত হলে উক্ত যানের উপর ধাক্কার পরিমাণ-",
+        "correct_answer": "750 N",
+        "distractor_ratings": [
+          {
+            "option": "B) 570 N",
+            "rating": "weak",
+            "reason": "No natural formula misapplication produces 570 from the given values; likely a digit transposition of 750, easily dismissed."
+          },
+          {
+            "option": "C) 375 N",
+            "rating": "tempting",
+            "reason": "Exactly half of 750 N — a student confusing thrust with the kinetic energy-based formula (½ṁv) could arrive here."
+          },
+          {
+            "option": "D) 250 N",
+            "rating": "weak",
+            "reason": "Equals 750/3, with no clear formula path from the given data; unlikely to result from a systematic error."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "235126",
+        "question_text": "মহাকাশে তারকার বিস্ফোরনকে বলে—",
+        "correct_answer": "সুপারনোভা",
+        "distractor_ratings": [
+          {
+            "option": "মেডিনোভা",
+            "rating": "weak",
+            "reason": "Sounds like a pharmaceutical brand name with no astronomical association, easily dismissed."
+          },
+          {
+            "option": "বাস্টনোভা",
+            "rating": "weak",
+            "reason": "Has the '-nova' suffix but 'বাস্টন' carries no recognizable scientific or space-related meaning, making it easy to rule out."
+          },
+          {
+            "option": "ব্ল্যাকনোভা",
+            "rating": "tempting",
+            "reason": "Combines 'Black' (evoking black holes, a related stellar-death concept) with the correct '-nova' suffix, plausibly confusing students who conflate supernovae with black holes."
+          }
+        ],
+        "weak_distractor_count": 2,
+        "all_distractors_weak": false
+      },
+      {
+        "question_id": "169425",
+        "question_text": "এক বায়ুমন্ডলীয় চাপে একটি আদর্শ গ্যাসকে উত্তপ্ত করে 0.01 ঘনমিটার আয়তন বৃদ্ধি করা হল। এতে সপাদিত কাজের পরিমান-",
+        "correct_answer": "1000 J",
+        "distractor_ratings": [
+          {
+            "option": "A) 0.0076 J",
+            "rating": "weak",
+            "reason": "Far too small to arise from any standard unit-conversion mistake; no straightforward path from 1 atm × 0.01 m³ leads to this value."
+          },
+          {
+            "option": "B) 76 J",
+            "rating": "tempting",
+            "reason": "Students who recall '1 atm = 76 cmHg' may mistakenly plug 76 directly as the pressure value, giving 76 × ~1 ≈ 76 J."
+          },
+          {
+            "option": "D) 100 J",
+            "rating": "tempting",
+            "reason": "Results from a common off-by-one order-of-magnitude error: using P ≈ 10⁴ Pa instead of 10⁵ Pa, yielding 10⁴ × 0.01 = 100 J."
+          }
+        ],
+        "weak_distractor_count": 1,
+        "all_distractors_weak": false
+      }
+    ]
+  }
+}

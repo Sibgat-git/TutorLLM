@@ -1,0 +1,13 @@
+Summary:
+Subject               Avg Consistency  Inconsistent questions
+-------------------------------------------------------
+accounting                       100%  0/10
+bangla                            92%  0/10
+biology                           96%  0/10
+chemistry                         96%  0/10
+english                          100%  0/10
+general_knowledge                 90%  1/10
+ict                              100%  0/10
+mathematics                       98%  0/10
+other                            100%  0/10
+physics                           96%  0/10

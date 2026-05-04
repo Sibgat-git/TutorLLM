@@ -1,0 +1,13 @@
+Summary (distractor quality score — higher = stronger distractors):
+Subject               Score  All-weak questions
+--------------------------------------------------
+accounting             100%  0/10
+bangla                 100%  0/10
+biology                100%  0/10
+chemistry              100%  0/10
+english                100%  0/10
+general_knowledge      100%  0/10
+ict                     90%  1/10
+mathematics             90%  1/10
+other                  100%  0/10
+physics                100%  0/10

@@ -1,0 +1,1994 @@
+{
+  "accounting": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 1.0,
+    "inconsistent_questions": 0,
+    "questions": [
+      {
+        "question_id": "547807",
+        "question_text": "নিচের কোনটি পণ্যের খরচে অন্তর্ভুক্ত নয়?",
+        "correct_answer": "প্রধান নির্বাহী কর্মকর্তার বেতন",
+        "all_answers": [
+          "প্রধান নির্বাহী কর্মকর্তার বেতন",
+          "প্রধান নির্বাহী কর্মকর্তার বেতন",
+          "প্রধান নির্বাহী কর্মকর্তার বেতন",
+          "প্রধান নির্বাহী কর্মকর্তার বেতন",
+          "প্রধান নির্বাহী কর্মকর্তার বেতন"
+        ],
+        "unique_answers": [
+          "প্রধান নির্বাহী কর্মকর্তার বেতন"
+        ],
+        "majority_answer": "প্রধান নির্বাহী কর্মকর্তার বেতন",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "604858",
+        "question_text": "AB কোম্পানি ৩,০০০ টাকা মূল্যের পণ্য ক্রয় করেছে, যার ক্রেডিট শর্ত হলো১১০১১০,n৩০n৩০। যদি বছরে ৩৬০ দিন হয়, তাহলে ক্রেডিট শর্তে প্রযোজ্য বার্ষিক সুদের হার কত?",
+        "correct_answer": "১৮.১৮%",
+        "all_answers": [
+          "১৮.১৮%",
+          "১৮.১৮%",
+          "১৮.১৮%",
+          "১৮.১৮%",
+          "১৮.১৮%"
+        ],
+        "unique_answers": [
+          "১৮.১৮%"
+        ],
+        "majority_answer": "১৮.১৮%",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "547809",
+        "question_text": "কাদের জন্য আর্থিক বিবরণী প্রাথমিকভাবে প্রস্তুত করা হয়?",
+        "correct_answer": "বহিঃস্থ ব্যবহারকারী",
+        "all_answers": [
+          "বহিঃস্থ ব্যবহারকারী",
+          "বহিঃস্থ ব্যবহারকারী",
+          "বহিঃস্থ ব্যবহারকারী",
+          "বহিঃস্থ ব্যবহারকারী",
+          "বহিঃস্থ ব্যবহারকারী"
+        ],
+        "unique_answers": [
+          "বহিঃস্থ ব্যবহারকারী"
+        ],
+        "majority_answer": "বহিঃস্থ ব্যবহারকারী",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "111542",
+        "question_text": "ব্যাংকে জমাকৃত ১০,০০০ টাকার চেক প্রত্যাখ্যাত হয়ে ফেরত আসে।হিসাব সমীকরণে এর প্রভাব কী হবে?",
+        "correct_answer": "সম্পতি বৃদ্ধি ও হ্রাস পাবে",
+        "all_answers": [
+          "সম্পতি বৃদ্ধি ও হ্রাস পাবে",
+          "সম্পতি বৃদ্ধি ও হ্রাস পাবে",
+          "সম্পতি বৃদ্ধি ও হ্রাস পাবে",
+          "সম্পতি বৃদ্ধি ও হ্রাস পাবে",
+          "সম্পতি বৃদ্ধি ও হ্রাস পাবে"
+        ],
+        "unique_answers": [
+          "সম্পতি বৃদ্ধি ও হ্রাস পাবে"
+        ],
+        "majority_answer": "সম্পতি বৃদ্ধি ও হ্রাস পাবে",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "218948",
+        "question_text": "প্রাপ্য বিল হিসাবের উদ্ধৃত্ত দ্বারা বোঝায়?",
+        "correct_answer": "দেনাদর হিসাব ক্রেডিট",
+        "all_answers": [
+          "দেনাদার হিসাব ডেবিট",
+          "দেনাদার হিসাব ডেবিট",
+          "দেনাদার হিসাব ডেবিট",
+          "দেনাদার হিসাব ডেবিট",
+          "দেনাদার হিসাব ডেবিট"
+        ],
+        "unique_answers": [
+          "দেনাদার হিসাব ডেবিট"
+        ],
+        "majority_answer": "দেনাদার হিসাব ডেবিট",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "176159",
+        "question_text": "who is the current Governor of Bangladesh Bank?",
+        "correct_answer": "None",
+        "all_answers": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "unique_answers": [
+          "None"
+        ],
+        "majority_answer": "None",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "105866",
+        "question_text": "ব্যাংক মিলকরন বিবরনীয় মূল উদ্দেশ্য হচ্ছে-",
+        "correct_answer": "নগদান বই ও পাস বই মোতাবেক ব্যাংক ব্যালেন্স মিলকরন",
+        "all_answers": [
+          "নগদান বই ও পাস বই মোতাবেক ব্যাংক ব্যালেন্স মিলকরন",
+          "নগদান বই ও পাস বই মোতাবেক ব্যাংক ব্যালেন্স মিলকরন",
+          "নগদান বই ও পাস বই মোতাবেক ব্যাংক ব্যালেন্স মিলকরন",
+          "নগদান বই ও পাস বই মোতাবেক ব্যাংক ব্যালেন্স মিলকরন",
+          "নগদান বই ও পাস বই মোতাবেক ব্যাংক ব্যালেন্স মিলকরন"
+        ],
+        "unique_answers": [
+          "নগদান বই ও পাস বই মোতাবেক ব্যাংক ব্যালেন্স মিলকরন"
+        ],
+        "majority_answer": "নগদান বই ও পাস বই মোতাবেক ব্যাংক ব্যালেন্স মিলকরন",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "218960",
+        "question_text": "কোনটি  হস্তন্তরযোগ্য  দলিল ?",
+        "correct_answer": "সবগুলি",
+        "all_answers": [
+          "সবগুলি",
+          "সবগুলি",
+          "সবগুলি",
+          "সবগুলি",
+          "সবগুলি"
+        ],
+        "unique_answers": [
+          "সবগুলি"
+        ],
+        "majority_answer": "সবগুলি",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "219649",
+        "question_text": "নগদান ভিত্তিতে হিসাব রক্ষণ বলতে বুঝায়?",
+        "correct_answer": "নগদ অর্থের আদান প্রদান হলেই লেনদেন হিসাবে লিপিবদ্ধ করা হবে",
+        "all_answers": [
+          "নগদ অর্থের আদান প্রদান হলেই লেনদেন হিসাবে লিপিবদ্ধ করা হবে",
+          "নগদ অর্থের আদান প্রদান হলেই লেনদেন হিসাবে লিপিবদ্ধ করা হবে",
+          "নগদ অর্থের আদান প্রদান হলেই লেনদেন হিসাবে লিপিবদ্ধ করা হবে",
+          "নগদ অর্থের আদান প্রদান হলেই লেনদেন হিসাবে লিপিবদ্ধ করা হবে",
+          "নগদ অর্থের আদান প্রদান হলেই লেনদেন হিসাবে লিপিবদ্ধ করা হবে"
+        ],
+        "unique_answers": [
+          "নগদ অর্থের আদান প্রদান হলেই লেনদেন হিসাবে লিপিবদ্ধ করা হবে"
+        ],
+        "majority_answer": "নগদ অর্থের আদান প্রদান হলেই লেনদেন হিসাবে লিপিবদ্ধ করা হবে",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "158980",
+        "question_text": "সমাপনী মজুদপণ্য বেশি দেখালে নীট আয় ও ব্যয়-",
+        "correct_answer": "বাড়বে ও বাড়বে",
+        "all_answers": [
+          "বাড়বে ও কমবে",
+          "বাড়বে ও কমবে",
+          "বাড়বে ও কমবে",
+          "বাড়বে ও কমবে",
+          "বাড়বে ও কমবে"
+        ],
+        "unique_answers": [
+          "বাড়বে ও কমবে"
+        ],
+        "majority_answer": "বাড়বে ও কমবে",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      }
+    ]
+  },
+  "bangla": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 0.92,
+    "inconsistent_questions": 0,
+    "questions": [
+      {
+        "question_id": "162374",
+        "question_text": "'ময়মনসিঙ্গহ গীতিকা' কে রচনা  করেন ?",
+        "correct_answer": "দীনেশ্চন্দ্র সেন",
+        "all_answers": [
+          "দীনেশ্চন্দ্র সেন",
+          "দীনেশ্চন্দ্র সেন",
+          "দীনেশ্চন্দ্র সেন",
+          "দীনেশ্চন্দ্র সেন",
+          "দীনেশ্চন্দ্র সেন"
+        ],
+        "unique_answers": [
+          "দীনেশ্চন্দ্র সেন"
+        ],
+        "majority_answer": "দীনেশ্চন্দ্র সেন",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "242721",
+        "question_text": "এ-ধ্বনির পরে অ-ধ্বনি লোপ পাওয়া শব্দের উদাহরণ কোনটি?",
+        "correct_answer": "খ ও গ",
+        "all_answers": [
+          "খ ও গ",
+          "খ ও গ",
+          "খ ও গ",
+          "খ ও গ",
+          "খ ও গ"
+        ],
+        "unique_answers": [
+          "খ ও গ"
+        ],
+        "majority_answer": "খ ও গ",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "620483",
+        "question_text": "'অনেক সময় খুব বেশি বিনয় দেখাতে গিয়ে নিজের... অস্বীকার করে ফেলা হয়।' শূণ্যস্থানের যথার্থ শব্দ কোনটি?",
+        "correct_answer": "সত্যকে",
+        "all_answers": [
+          "ব্যক্তিত্বকে",
+          "ব্যক্তিত্বকে",
+          "মনুষ্যত্বকে",
+          "ব্যক্তিত্বকে",
+          "মনুষ্যত্বকে"
+        ],
+        "unique_answers": [
+          "মনুষ্যত্বকে",
+          "ব্যক্তিত্বকে"
+        ],
+        "majority_answer": "ব্যক্তিত্বকে",
+        "correct_run_count": 0,
+        "consistency_rate": 0.6,
+        "label": "mostly_stable"
+      },
+      {
+        "question_id": "247006",
+        "question_text": "‘মেধাবী’ শব্দের লিঙ্গান্তর কোনটি?",
+        "correct_answer": "মেধাবিনী",
+        "all_answers": [
+          "মেধাবিনী",
+          "মেধাবিনী",
+          "মেধাবিনী",
+          "মেধাবিনী",
+          "মেধাবিনী"
+        ],
+        "unique_answers": [
+          "মেধাবিনী"
+        ],
+        "majority_answer": "মেধাবিনী",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "86588",
+        "question_text": "রবীন্দ্রনাথের 'শেষের কবিতা' কোন জাতীয় রচনা ?",
+        "correct_answer": "উপন্যাস",
+        "all_answers": [
+          "উপন্যাস",
+          "উপন্যাস",
+          "উপন্যাস",
+          "উপন্যাস",
+          "উপন্যাস"
+        ],
+        "unique_answers": [
+          "উপন্যাস"
+        ],
+        "majority_answer": "উপন্যাস",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "134630",
+        "question_text": "মাইকেল মধুসুদন দত্তের জন্ম কবে ?",
+        "correct_answer": "১৮২৪ সালে",
+        "all_answers": [
+          "১৮২৪ সালে",
+          "১৮২৪ সালে",
+          "১৮২৪ সালে",
+          "১৮২৪ সালে",
+          "১৮২৪ সালে"
+        ],
+        "unique_answers": [
+          "১৮২৪ সালে"
+        ],
+        "majority_answer": "১৮২৪ সালে",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "538668",
+        "question_text": "'অদ্য' শব্দের সঠিক উচ্চারণ কোনটি?",
+        "correct_answer": "ওদ্‌দো",
+        "all_answers": [
+          "ওদ্‌দো",
+          "ওদ্‌দো",
+          "ওদ্‌দো",
+          "অদ্‌দো",
+          "ওদ্‌দো"
+        ],
+        "unique_answers": [
+          "ওদ্‌দো",
+          "অদ্‌দো"
+        ],
+        "majority_answer": "ওদ্‌দো",
+        "correct_run_count": 4,
+        "consistency_rate": 0.8,
+        "label": "mostly_stable"
+      },
+      {
+        "question_id": "145142",
+        "question_text": "মনসামঙ্গলের আদি কবি কে ?",
+        "correct_answer": "কানা হরিদত্ত",
+        "all_answers": [
+          "কানা হরিদত্ত",
+          "ময়ূরভট্ট",
+          "কানা হরিদত্ত",
+          "কানা হরিদত্ত",
+          "কানা হরিদত্ত"
+        ],
+        "unique_answers": [
+          "ময়ূরভট্ট",
+          "কানা হরিদত্ত"
+        ],
+        "majority_answer": "কানা হরিদত্ত",
+        "correct_run_count": 4,
+        "consistency_rate": 0.8,
+        "label": "mostly_stable"
+      },
+      {
+        "question_id": "86535",
+        "question_text": "বাংলা সাহিত্যের আদি নিদর্শন চর্যাপদের আবিষ্কারক ?",
+        "correct_answer": "হরপ্রসাদ শাস্ত্রী",
+        "all_answers": [
+          "হরপ্রসাদ শাস্ত্রী",
+          "হরপ্রসাদ শাস্ত্রী",
+          "হরপ্রসাদ শাস্ত্রী",
+          "হরপ্রসাদ শাস্ত্রী",
+          "হরপ্রসাদ শাস্ত্রী"
+        ],
+        "unique_answers": [
+          "হরপ্রসাদ শাস্ত্রী"
+        ],
+        "majority_answer": "হরপ্রসাদ শাস্ত্রী",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "620982",
+        "question_text": "উত্তম পুরুষের ভাষ্যে কাহিনি বর্ণনা করা হয়েছে কোন রচনাটিতে।",
+        "correct_answer": "রেইনকোট",
+        "all_answers": [
+          "রেইনকোট",
+          "রেইনকোট",
+          "রেইনকোট",
+          "রেইনকোট",
+          "রেইনকোট"
+        ],
+        "unique_answers": [
+          "রেইনকোট"
+        ],
+        "majority_answer": "রেইনকোট",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      }
+    ]
+  },
+  "biology": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 0.96,
+    "inconsistent_questions": 0,
+    "questions": [
+      {
+        "question_id": "232380",
+        "question_text": "ডেঙ্গু ভাইরাস এর সেরোটাইপ নয়?",
+        "correct_answer": "DENV-0",
+        "all_answers": [
+          "DENV-0",
+          "DENV-0",
+          "DENV-0",
+          "DENV-0",
+          "DENV-0"
+        ],
+        "unique_answers": [
+          "DENV-0"
+        ],
+        "majority_answer": "DENV-0",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "627490",
+        "question_text": "ভাস্কুলার বান্ডলে প্রোটোজাইলেমের বৈশিষ্ট্য কোনটি?",
+        "correct_answer": "সরু গর্তযুক্ত",
+        "all_answers": [
+          "সরু গর্তযুক্ত",
+          "সরু গর্তযুক্ত",
+          "সরু গর্তযুক্ত",
+          "সরু গর্তযুক্ত",
+          "সরু গর্তযুক্ত"
+        ],
+        "unique_answers": [
+          "সরু গর্তযুক্ত"
+        ],
+        "majority_answer": "সরু গর্তযুক্ত",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "271594",
+        "question_text": "অন্ধকার পর্যায়ের বিক্রিয়াগুলো কোথায় ঘটে?",
+        "correct_answer": "স্ট্রোমাতে",
+        "all_answers": [
+          "স্ট্রোমাতে",
+          "স্ট্রোমাতে",
+          "স্ট্রোমাতে",
+          "স্ট্রোমাতে",
+          "স্ট্রোমাতে"
+        ],
+        "unique_answers": [
+          "স্ট্রোমাতে"
+        ],
+        "majority_answer": "স্ট্রোমাতে",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "175696",
+        "question_text": "জাইলেমের বৈশিষ্ট্য নয় কোনটি?",
+        "correct_answer": "খাদ্য পরিবহণ",
+        "all_answers": [
+          "খাদ্য পরিবহণ",
+          "খাদ্য পরিবহণ",
+          "খাদ্য পরিবহণ",
+          "খাদ্য পরিবহণ",
+          "খাদ্য পরিবহণ"
+        ],
+        "unique_answers": [
+          "খাদ্য পরিবহণ"
+        ],
+        "majority_answer": "খাদ্য পরিবহণ",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "234439",
+        "question_text": "মস্তিষ্কের কোন অংশ থেকে ভালো লাগা ও ঘৃণার সৃষ্টি হয়?",
+        "correct_answer": "হাইপোথ্যালামাস",
+        "all_answers": [
+          "হাইপোথ্যালামাস",
+          "হাইপোথ্যালামাস",
+          "হাইপোথ্যালামাস",
+          "হাইপোথ্যালামাস",
+          "হাইপোথ্যালামাস"
+        ],
+        "unique_answers": [
+          "হাইপোথ্যালামাস"
+        ],
+        "majority_answer": "হাইপোথ্যালামাস",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "153880",
+        "question_text": "অ্যান্টিবডি উৎপন্ন হয়-",
+        "correct_answer": "প্লাজমা কোষ থেকে",
+        "all_answers": [
+          "প্লাজমা কোষ থেকে",
+          "প্লাজমা কোষ থেকে",
+          "প্লাজমা কোষ থেকে",
+          "প্লাজমা কোষ থেকে",
+          "প্লাজমা কোষ থেকে"
+        ],
+        "unique_answers": [
+          "প্লাজমা কোষ থেকে"
+        ],
+        "majority_answer": "প্লাজমা কোষ থেকে",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "124226",
+        "question_text": "নিচের কোনটির পরিবহন টিস্যু আছে?",
+        "correct_answer": "ফার্ন",
+        "all_answers": [
+          "ফার্ন",
+          "ফার্ন",
+          "ফার্ন",
+          "ফার্ন",
+          "ফার্ন"
+        ],
+        "unique_answers": [
+          "ফার্ন"
+        ],
+        "majority_answer": "ফার্ন",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "628176",
+        "question_text": "টিস্যু কালচার মিডিয়াম জমাট বাঁধানোর জন্য কোনটি ব্যবহৃত হয়?",
+        "correct_answer": "অ্যাগার",
+        "all_answers": [
+          "অ্যাগার",
+          "অ্যাগার",
+          "অ্যাগার",
+          "অ্যাগার",
+          "অ্যাগার"
+        ],
+        "unique_answers": [
+          "অ্যাগার"
+        ],
+        "majority_answer": "অ্যাগার",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "142249",
+        "question_text": "প্রোটোপ্রাজম একটি বিশেষ ধরনের-",
+        "correct_answer": "কলয়েড",
+        "all_answers": [
+          "কলয়েড",
+          "কলয়েড",
+          "কলয়েড",
+          "কলয়েড",
+          "কলয়েড"
+        ],
+        "unique_answers": [
+          "কলয়েড"
+        ],
+        "majority_answer": "কলয়েড",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "96253",
+        "question_text": "ক্যাপসুলের ভিসেরাল স্তটি কোন কোষ দ্বারা গুঠত?",
+        "correct_answer": "1=MR2/2",
+        "all_answers": [
+          "1=MR2/3",
+          "1=MR2/12",
+          "1=MR2/5",
+          "1=MR2/3",
+          "1=MR2/3"
+        ],
+        "unique_answers": [
+          "1=MR2/12",
+          "1=MR2/5",
+          "1=MR2/3"
+        ],
+        "majority_answer": "1=MR2/3",
+        "correct_run_count": 0,
+        "consistency_rate": 0.6,
+        "label": "mostly_stable"
+      }
+    ]
+  },
+  "chemistry": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 0.96,
+    "inconsistent_questions": 0,
+    "questions": [
+      {
+        "question_id": "195409",
+        "question_text": "কপারের সঠিক ইলেক্ট্রন বিন্যাস কোনটি ?",
+        "correct_answer": "1s22s22p63s23p63d104s1",
+        "all_answers": [
+          "1s22s22p63s23p63d104s1",
+          "1s22s22p63s23p63d104s1",
+          "1s22s22p63s23p63d104s1",
+          "1s22s22p63s23p63d104s1",
+          "1s22s22p63s23p63d104s1"
+        ],
+        "unique_answers": [
+          "1s22s22p63s23p63d104s1"
+        ],
+        "majority_answer": "1s22s22p63s23p63d104s1",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "180106",
+        "question_text": "কোনটি গ্রিনহাউজ গ্যাস নয়?",
+        "correct_answer": "CO",
+        "all_answers": [
+          "CO",
+          "CO",
+          "CO",
+          "CO",
+          "CO"
+        ],
+        "unique_answers": [
+          "CO"
+        ],
+        "majority_answer": "CO",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "606752",
+        "question_text": "গ্লাইকোলাইসিস প্রক্রিয়া নিয়ন্ত্রণকারী এনজাইমের নাম?",
+        "correct_answer": "phosphofructokinase",
+        "all_answers": [
+          "phosphofructokinase",
+          "phosphofructokinase",
+          "phosphofructokinase",
+          "phosphofructokinase",
+          "phosphofructokinase"
+        ],
+        "unique_answers": [
+          "phosphofructokinase"
+        ],
+        "majority_answer": "phosphofructokinase",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "207045",
+        "question_text": "কাপড় কাচা সোডার সংকেত কোনটি?",
+        "correct_answer": "Na2CO310H2O",
+        "all_answers": [
+          "Na2CO310H2O",
+          "Na2CO310H2O",
+          "Na2CO310H2O",
+          "Na2CO310H2O",
+          "Na2CO310H2O"
+        ],
+        "unique_answers": [
+          "Na2CO310H2O"
+        ],
+        "majority_answer": "Na2CO310H2O",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "202590",
+        "question_text": "Moisturizing cream তৈরিতে নিম্নের কোনটি ব্যবহৃত হয়?",
+        "correct_answer": "সরবিটাল",
+        "all_answers": [
+          "এস্টার",
+          "সরবিটাল",
+          "সরবিটাল",
+          "এস্টার",
+          "সরবিটাল"
+        ],
+        "unique_answers": [
+          "সরবিটাল",
+          "এস্টার"
+        ],
+        "majority_answer": "সরবিটাল",
+        "correct_run_count": 3,
+        "consistency_rate": 0.6,
+        "label": "mostly_stable"
+      },
+      {
+        "question_id": "95689",
+        "question_text": "কোন নির্দিষ্ট আয়তনের দ্রবণকে একপ্রাত্র থেকে অন্যপাত্রে সঠিকভাবে স্থানান্তর করা যায় নিচের কোনটি দ্বারা?",
+        "correct_answer": "পিপেট",
+        "all_answers": [
+          "পিপেট",
+          "পিপেট",
+          "পিপেট",
+          "পিপেট",
+          "পিপেট"
+        ],
+        "unique_answers": [
+          "পিপেট"
+        ],
+        "majority_answer": "পিপেট",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "201943",
+        "question_text": "ফার্মেন্টেশনের ক্ষেত্রে কোন উক্তিটি সঠিক?",
+        "correct_answer": "ফার্মেন্টেশন প্রক্রিয়া এক প্রকার অবাত শ্বসন",
+        "all_answers": [
+          "ফার্মেন্টেশন প্রক্রিয়া এক প্রকার অবাত শ্বসন",
+          "ফার্মেন্টেশন প্রক্রিয়া এক প্রকার অবাত শ্বসন",
+          "ফার্মেন্টেশন প্রক্রিয়া এক প্রকার অবাত শ্বসন",
+          "ফার্মেন্টেশন প্রক্রিয়া এক প্রকার অবাত শ্বসন",
+          "ফার্মেন্টেশন প্রক্রিয়া এক প্রকার অবাত শ্বসন"
+        ],
+        "unique_answers": [
+          "ফার্মেন্টেশন প্রক্রিয়া এক প্রকার অবাত শ্বসন"
+        ],
+        "majority_answer": "ফার্মেন্টেশন প্রক্রিয়া এক প্রকার অবাত শ্বসন",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "203828",
+        "question_text": "জিংক চূর্ণের সাতে ফেনলকে পতিত করলে ফেনল বিজারিত হয়ে উৎপন্ন করে-",
+        "correct_answer": "বেনজিন",
+        "all_answers": [
+          "বেনজিন",
+          "বেনজিন",
+          "বেনজিন",
+          "বেনজিন",
+          "বেনজিন"
+        ],
+        "unique_answers": [
+          "বেনজিন"
+        ],
+        "majority_answer": "বেনজিন",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "203354",
+        "question_text": "কোনটি প্রোপানয়িক এসিড?",
+        "correct_answer": "CH3-CH2COOH",
+        "all_answers": [
+          "CH3-CH2COOH",
+          "CH3-CH2COOH",
+          "CH3-CH2COOH",
+          "CH3-CH2COOH",
+          "CH3-CH2COOH"
+        ],
+        "unique_answers": [
+          "CH3-CH2COOH"
+        ],
+        "majority_answer": "CH3-CH2COOH",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "95931",
+        "question_text": "72 গ্রাম পানির অণুর সংখ্যা কত?",
+        "correct_answer": "24.022×1023",
+        "all_answers": [
+          "24.022×1023",
+          "24.022×1023",
+          "24.022×1023",
+          "24.022×1023",
+          "24.022×1023"
+        ],
+        "unique_answers": [
+          "24.022×1023"
+        ],
+        "majority_answer": "24.022×1023",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      }
+    ]
+  },
+  "english": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 1.0,
+    "inconsistent_questions": 0,
+    "questions": [
+      {
+        "question_id": "620295",
+        "question_text": "Find the correctly spelt words.",
+        "correct_answer": "Biennale",
+        "all_answers": [
+          "Biennale",
+          "Biennale",
+          "Biennale",
+          "Biennale",
+          "Biennale"
+        ],
+        "unique_answers": [
+          "Biennale"
+        ],
+        "majority_answer": "Biennale",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "223401",
+        "question_text": "The correct meaning of ‘a man of letter’ is-",
+        "correct_answer": "a scholar",
+        "all_answers": [
+          "a scholar",
+          "a scholar",
+          "a scholar",
+          "a scholar",
+          "a scholar"
+        ],
+        "unique_answers": [
+          "a scholar"
+        ],
+        "majority_answer": "a scholar",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "97142",
+        "question_text": "What does the expression \" bottom line\" mean ?",
+        "correct_answer": "the essential  point",
+        "all_answers": [
+          "the essential  point",
+          "the essential  point",
+          "the essential  point",
+          "the essential  point",
+          "the essential  point"
+        ],
+        "unique_answers": [
+          "the essential  point"
+        ],
+        "majority_answer": "the essential  point",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "221440",
+        "question_text": "Attending meeting is mandatory. The synonym of mandatory is ----.",
+        "correct_answer": "compulsory",
+        "all_answers": [
+          "compulsory",
+          "compulsory",
+          "compulsory",
+          "compulsory",
+          "compulsory"
+        ],
+        "unique_answers": [
+          "compulsory"
+        ],
+        "majority_answer": "compulsory",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "624447",
+        "question_text": "Where do the most British-Bangladeshis live?",
+        "correct_answer": "London",
+        "all_answers": [
+          "London",
+          "London",
+          "London",
+          "London",
+          "London"
+        ],
+        "unique_answers": [
+          "London"
+        ],
+        "majority_answer": "London",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "166637",
+        "question_text": "The most appropriate  title of the passage is:",
+        "correct_answer": "Economic  Prosperity can drive  out Terrorism",
+        "all_answers": [
+          "Economic  Prosperity can drive  out Terrorism",
+          "Economic  Prosperity can drive  out Terrorism",
+          "Economic  Prosperity can drive  out Terrorism",
+          "Economic  Prosperity can drive  out Terrorism",
+          "Economic  Prosperity can drive  out Terrorism"
+        ],
+        "unique_answers": [
+          "Economic  Prosperity can drive  out Terrorism"
+        ],
+        "majority_answer": "Economic  Prosperity can drive  out Terrorism",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "183495",
+        "question_text": "Choose the appropriate preposition i am  interested —— you",
+        "correct_answer": "in",
+        "all_answers": [
+          "in",
+          "in",
+          "in",
+          "in",
+          "in"
+        ],
+        "unique_answers": [
+          "in"
+        ],
+        "majority_answer": "in",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "231296",
+        "question_text": "Greatness lies in ----",
+        "correct_answer": "sympathy",
+        "all_answers": [
+          "truth",
+          "truth",
+          "truth",
+          "truth",
+          "truth"
+        ],
+        "unique_answers": [
+          "truth"
+        ],
+        "majority_answer": "truth",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "109904",
+        "question_text": "Choose the right word to fill in the gap. How would you _____ your temper over such a trivial matter ?",
+        "correct_answer": "lose",
+        "all_answers": [
+          "lose",
+          "lose",
+          "lose",
+          "lose",
+          "lose"
+        ],
+        "unique_answers": [
+          "lose"
+        ],
+        "majority_answer": "lose",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "89723",
+        "question_text": "She loves ______ .",
+        "correct_answer": "Journey",
+        "all_answers": [
+          "Travel",
+          "Travel",
+          "Travel",
+          "Travel",
+          "Travel"
+        ],
+        "unique_answers": [
+          "Travel"
+        ],
+        "majority_answer": "Travel",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      }
+    ]
+  },
+  "general_knowledge": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 0.9,
+    "inconsistent_questions": 1,
+    "questions": [
+      {
+        "question_id": "124341",
+        "question_text": "'Custodian' শব্দের মানে-",
+        "correct_answer": "Caretaker",
+        "all_answers": [
+          "Caretaker",
+          "Caretaker",
+          "Caretaker",
+          "Caretaker",
+          "Caretaker"
+        ],
+        "unique_answers": [
+          "Caretaker"
+        ],
+        "majority_answer": "Caretaker",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "607113",
+        "question_text": "বাংলাদেশে হওয়া সর্বাধিক শক্তিশালী ভূমিকম্প কোনটি হিসেবে বিবেচিত হয়? (Which earthquake is considered the strongest ever recorded affecting Bangladesh?)",
+        "correct_answer": "1997 Chattogram Earthquake",
+        "all_answers": [
+          "1997 Chattogram Earthquake",
+          "1997 Chattogram Earthquake",
+          "1997 Chattogram Earthquake",
+          "1997 Chattogram Earthquake",
+          "1997 Chattogram Earthquake"
+        ],
+        "unique_answers": [
+          "1997 Chattogram Earthquake"
+        ],
+        "majority_answer": "1997 Chattogram Earthquake",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "176156",
+        "question_text": "The economy where goods and services were exchanged directly to each other is known as",
+        "correct_answer": "barter Economy",
+        "all_answers": [
+          "barter Economy",
+          "barter Economy",
+          "barter Economy",
+          "barter Economy",
+          "barter Economy"
+        ],
+        "unique_answers": [
+          "barter Economy"
+        ],
+        "majority_answer": "barter Economy",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "611541",
+        "question_text": "নিচের কোনটি সংবেদন এবং প্রত্যক্ষণের মধ্যে সম্পর্ককে সবচেয়ে সঠিকভাবে ব্যাখ্যা করে? (Which of the following most accurately explains the relation between sensation and perception?)",
+        "correct_answer": "সংবেদন হলো প্রত্যক্ষণের পূর্বশর্ত; তবে প্রত্যক্ষণ সংবেদনের তুলনায় অধিকতর জটিল প্রক্রিয়া। (Sensation is a prerequisite for perception; however, perception is a more complex process.)",
+        "all_answers": [
+          "সংবেদন হলো প্রত্যক্ষণের পূর্বশর্ত; তবে প্রত্যক্ষণ সংবেদনের তুলনায় অধিকতর জটিল প্রক্রিয়া। (Sensation is a prerequisite for perception; however, perception is a more complex process.)",
+          "সংবেদন হলো প্রত্যক্ষণের পূর্বশর্ত; তবে প্রত্যক্ষণ সংবেদনের তুলনায় অধিকতর জটিল প্রক্রিয়া। (Sensation is a prerequisite for perception; however, perception is a more complex process.)",
+          "সংবেদন হলো প্রত্যক্ষণের পূর্বশর্ত; তবে প্রত্যক্ষণ সংবেদনের তুলনায় অধিকতর জটিল প্রক্রিয়া। (Sensation is a prerequisite for perception; however, perception is a more complex process.)",
+          "সংবেদন হলো প্রত্যক্ষণের পূর্বশর্ত; তবে প্রত্যক্ষণ সংবেদনের তুলনায় অধিকতর জটিল প্রক্রিয়া। (Sensation is a prerequisite for perception; however, perception is a more complex process.)",
+          "সংবেদন হলো প্রত্যক্ষণের পূর্বশর্ত; তবে প্রত্যক্ষণ সংবেদনের তুলনায় অধিকতর জটিল প্রক্রিয়া। (Sensation is a prerequisite for perception; however, perception is a more complex process.)"
+        ],
+        "unique_answers": [
+          "সংবেদন হলো প্রত্যক্ষণের পূর্বশর্ত; তবে প্রত্যক্ষণ সংবেদনের তুলনায় অধিকতর জটিল প্রক্রিয়া। (Sensation is a prerequisite for perception; however, perception is a more complex process.)"
+        ],
+        "majority_answer": "সংবেদন হলো প্রত্যক্ষণের পূর্বশর্ত; তবে প্রত্যক্ষণ সংবেদনের তুলনায় অধিকতর জটিল প্রক্রিয়া। (Sensation is a prerequisite for perception; however, perception is a more complex process.)",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "220770",
+        "question_text": "বিনাযুদ্ধে শত্রুর প্রাপ্ত সম্পদকে বলে-",
+        "correct_answer": "ফাই",
+        "all_answers": [
+          "ফাই",
+          "ফাই",
+          "ফাই",
+          "ফাই",
+          "ফাই"
+        ],
+        "unique_answers": [
+          "ফাই"
+        ],
+        "majority_answer": "ফাই",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "223540",
+        "question_text": "অমর্ত্য সেন কোন বিষয়ে গবেষণার জন্য নোবেল পুরস্কার পান?",
+        "correct_answer": "দুর্ভিক্ষ ও দারিদ্র",
+        "all_answers": [
+          "দুর্ভিক্ষ ও দারিদ্র",
+          "দুর্ভিক্ষ ও দারিদ্র",
+          "দুর্ভিক্ষ ও দারিদ্র",
+          "দুর্ভিক্ষ ও দারিদ্র",
+          "দুর্ভিক্ষ ও দারিদ্র"
+        ],
+        "unique_answers": [
+          "দুর্ভিক্ষ ও দারিদ্র"
+        ],
+        "majority_answer": "দুর্ভিক্ষ ও দারিদ্র",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "224215",
+        "question_text": "অ্যালায়েল' কোন এলাকার ক্রেতাদের প্রতিনিধি হিসেবে কাজ করে?",
+        "correct_answer": "ইউরোপ",
+        "all_answers": [
+          "উত্তর আমেরিকা",
+          "উত্তর আমেরিকা",
+          "ইউরোপ",
+          "উত্তর আমেরিকা",
+          "উত্তর আমেরিকা"
+        ],
+        "unique_answers": [
+          "ইউরোপ",
+          "উত্তর আমেরিকা"
+        ],
+        "majority_answer": "উত্তর আমেরিকা",
+        "correct_run_count": 1,
+        "consistency_rate": 0.8,
+        "label": "mostly_stable"
+      },
+      {
+        "question_id": "607090",
+        "question_text": "নিম্নের কোন বিষয়টি 'জুলাই জাতীয় সনদ ২০২৫'-এ উল্লেখ করা হয়নি? (Which of the following topics is not mentioned in the 'July National Charter 2025'?)",
+        "correct_answer": "চিকিৎসার অধিকারকে মৌলিক অধিকার হিসেবে স্বীকৃতি দেওয়া হবে। (The right to healthcare will be recognized as a fundamental right.)",
+        "all_answers": [
+          "D",
+          "বাংলাদেশের নাগরিকরা বাংলাদেশী হিসেবে পরিচিত হবেন। (Citizens of Bangladesh will be known as Bangladeshies.)",
+          "বাংলাদেশের নাগরিকরা বাংলাদেশী হিসেবে পরিচিত হবেন। (Citizens of Bangladesh will be known as Bangladeshies.)",
+          "D",
+          "বাংলাদেশে একটি দ্বিকক্ষবিশিষ্ট আইনসভা থাকবে। (Bangladesh will have a bicameral legislature.)"
+        ],
+        "unique_answers": [
+          "বাংলাদেশে একটি দ্বিকক্ষবিশিষ্ট আইনসভা থাকবে। (Bangladesh will have a bicameral legislature.)",
+          "বাংলাদেশের নাগরিকরা বাংলাদেশী হিসেবে পরিচিত হবেন। (Citizens of Bangladesh will be known as Bangladeshies.)",
+          "D"
+        ],
+        "majority_answer": "বাংলাদেশের নাগরিকরা বাংলাদেশী হিসেবে পরিচিত হবেন। (Citizens of Bangladesh will be known as Bangladeshies.)",
+        "correct_run_count": 0,
+        "consistency_rate": 0.4,
+        "label": "inconsistent"
+      },
+      {
+        "question_id": "534133",
+        "question_text": "APPLE এর কোড ২৫৫৬৩ এবং RUNG এর কোড ৭১৪৮ হলে PURPLE এর কোড কত?",
+        "correct_answer": "৫১৭৫৬৩",
+        "all_answers": [
+          "৫১৭৫৬৩",
+          "৫১৭৫৬৩",
+          "৫১৭৫৬৩",
+          "৫১৭৫৬৩",
+          "**B) ৫১৭৫৬৩**"
+        ],
+        "unique_answers": [
+          "৫১৭৫৬৩",
+          "**B) ৫১৭৫৬৩**"
+        ],
+        "majority_answer": "৫১৭৫৬৩",
+        "correct_run_count": 4,
+        "consistency_rate": 0.8,
+        "label": "mostly_stable"
+      },
+      {
+        "question_id": "124721",
+        "question_text": "নিম্নের কোন জোড়াটি সঠিক ?",
+        "correct_answer": "সৈয়দ ইসমাইল হোসেন সিরাজী",
+        "all_answers": [
+          "সৈয়দ ইসমাইল হোসেন সিরাজী",
+          "সৈয়দ ইসমাইল হোসেন সিরাজী",
+          "সৈয়দ ইসমাইল হোসেন সিরাজী",
+          "সৈয়দ ইসমাইল হোসেন সিরাজী",
+          "সৈয়দ ইসমাইল হোসেন সিরাজী"
+        ],
+        "unique_answers": [
+          "সৈয়দ ইসমাইল হোসেন সিরাজী"
+        ],
+        "majority_answer": "সৈয়দ ইসমাইল হোসেন সিরাজী",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      }
+    ]
+  },
+  "ict": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 1.0,
+    "inconsistent_questions": 0,
+    "questions": [
+      {
+        "question_id": "628260",
+        "question_text": "নিচের কোনট সংখ্যাটি বাইনারি সংখ্যা 111011 এর হেক্সাডেসিমেলের রূপান্তর?",
+        "correct_answer": "3B",
+        "all_answers": [
+          "3B",
+          "3B",
+          "3B",
+          "3B",
+          "3B"
+        ],
+        "unique_answers": [
+          "3B"
+        ],
+        "majority_answer": "3B",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "87330",
+        "question_text": "অফিসে কি ধরনের নেটওয়ার্ক টপোলজি ব্যবহৃত হয় ?",
+        "correct_answer": "স্টার",
+        "all_answers": [
+          "স্টার",
+          "স্টার",
+          "স্টার",
+          "স্টার",
+          "স্টার"
+        ],
+        "unique_answers": [
+          "স্টার"
+        ],
+        "majority_answer": "স্টার",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "611525",
+        "question_text": "1000110 বাইনারি সংখ্যাটির ২-এর পরিপূরক কত? (What is the 2's complement of the binary number 1000110?)",
+        "correct_answer": "0111010",
+        "all_answers": [
+          "0111010",
+          "0111010",
+          "0111010",
+          "0111010",
+          "0111010"
+        ],
+        "unique_answers": [
+          "0111010"
+        ],
+        "majority_answer": "0111010",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "87327",
+        "question_text": "২৬ এর 2`s complement =?",
+        "correct_answer": "00110",
+        "all_answers": [
+          "11100110",
+          "11100110",
+          "11100110",
+          "11100110",
+          "11100110"
+        ],
+        "unique_answers": [
+          "11100110"
+        ],
+        "majority_answer": "11100110",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "87333",
+        "question_text": "(11011.001)2-(1011.110)2=?",
+        "correct_answer": "(1111.011)2",
+        "all_answers": [
+          "(1111.011)2",
+          "(1111.011)2",
+          "(1111.011)2",
+          "(1111.011)2",
+          "(1111.011)2"
+        ],
+        "unique_answers": [
+          "(1111.011)2"
+        ],
+        "majority_answer": "(1111.011)2",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "628262",
+        "question_text": "TCP/IP প্রোটোকল স্যুটের কোন স্তরটি একাধিক নেটওয়ার্কে প্যাকেটরে ঠিকানা এবং রাউটিং এর জন্য দায়ী?",
+        "correct_answer": "ইন্টারনেট স্তর",
+        "all_answers": [
+          "ইন্টারনেট স্তর",
+          "ইন্টারনেট স্তর",
+          "ইন্টারনেট স্তর",
+          "ইন্টারনেট স্তর",
+          "ইন্টারনেট স্তর"
+        ],
+        "unique_answers": [
+          "ইন্টারনেট স্তর"
+        ],
+        "majority_answer": "ইন্টারনেট স্তর",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "628259",
+        "question_text": "টেলিযোগাযোগের মাধ্যমে সভা করাকে কী বলে?",
+        "correct_answer": "ভিডিও কনফারেন্স",
+        "all_answers": [
+          "টেলিকনফারেন্স",
+          "টেলিকনফারেন্স",
+          "টেলিকনফারেন্স",
+          "টেলিকনফারেন্স",
+          "টেলিকনফারেন্স"
+        ],
+        "unique_answers": [
+          "টেলিকনফারেন্স"
+        ],
+        "majority_answer": "টেলিকনফারেন্স",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "87331",
+        "question_text": "পূর্ণ-অভ্যন্তরীণ প্রতিফলনের নিয়ম অনুযায়ী ডেটা ট্রান্সমিশন হয় কোন ক্যাবল-এর ?",
+        "correct_answer": "অপটিক্যাল ফাইবার ক্যাবল",
+        "all_answers": [
+          "অপটিক্যাল ফাইবার ক্যাবল",
+          "অপটিক্যাল ফাইবার ক্যাবল",
+          "অপটিক্যাল ফাইবার ক্যাবল",
+          "অপটিক্যাল ফাইবার ক্যাবল",
+          "অপটিক্যাল ফাইবার ক্যাবল"
+        ],
+        "unique_answers": [
+          "অপটিক্যাল ফাইবার ক্যাবল"
+        ],
+        "majority_answer": "অপটিক্যাল ফাইবার ক্যাবল",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "627883",
+        "question_text": "(11110.001)2=(?)10",
+        "correct_answer": "30.125",
+        "all_answers": [
+          "30.125",
+          "30.125",
+          "30.125",
+          "30.125",
+          "30.125"
+        ],
+        "unique_answers": [
+          "30.125"
+        ],
+        "majority_answer": "30.125",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "93951",
+        "question_text": "কোনটি ছাড়া কম্পিউটার হার্ডওয়ার অকার্যকর প্রতিপন্ন হয়?",
+        "correct_answer": "সফটওয়্যার",
+        "all_answers": [
+          "সফটওয়্যার",
+          "সফটওয়্যার",
+          "সফটওয়্যার",
+          "সফটওয়্যার",
+          "সফটওয়্যার"
+        ],
+        "unique_answers": [
+          "সফটওয়্যার"
+        ],
+        "majority_answer": "সফটওয়্যার",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      }
+    ]
+  },
+  "mathematics": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 0.98,
+    "inconsistent_questions": 0,
+    "questions": [
+      {
+        "question_id": "198046",
+        "question_text": "4+3i জটিল সংখ্যার মডুলাস কত?",
+        "correct_answer": "5",
+        "all_answers": [
+          "5",
+          "5",
+          "5",
+          "5",
+          "5"
+        ],
+        "unique_answers": [
+          "5"
+        ],
+        "majority_answer": "5",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "144720",
+        "question_text": "x2+y2=25হলে ,3,-4বিন্দুতেdydxকত?",
+        "correct_answer": "3/4",
+        "all_answers": [
+          "3/4",
+          "3/4",
+          "3/4",
+          "3/4",
+          "3/4"
+        ],
+        "unique_answers": [
+          "3/4"
+        ],
+        "majority_answer": "3/4",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "183740",
+        "question_text": "y=e(ax+b)হলেdydx=?",
+        "correct_answer": "ae(ax+b)",
+        "all_answers": [
+          "ae(ax+b)",
+          "ae(ax+b)",
+          "ae(ax+b)",
+          "ae(ax+b)",
+          "ae(ax+b)"
+        ],
+        "unique_answers": [
+          "ae(ax+b)"
+        ],
+        "majority_answer": "ae(ax+b)",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "202490",
+        "question_text": "কোন উক্তিটি সত্য নয়?",
+        "correct_answer": "সকল অকেলাসী পদার্থের গলনাংক ও হিমাংক একই",
+        "all_answers": [
+          "C",
+          "C",
+          "C",
+          "C",
+          "C"
+        ],
+        "unique_answers": [
+          "C"
+        ],
+        "majority_answer": "C",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "232469",
+        "question_text": "রহিম ও রাফির যথাক্রমে 8 টি ও 10 টি বই আছে। কত প্রকারে তারা একটির পরিবর্তে একটি বই বিনিময় করতে পারবে?",
+        "correct_answer": "80",
+        "all_answers": [
+          "80",
+          "80",
+          "80",
+          "80",
+          "80"
+        ],
+        "unique_answers": [
+          "80"
+        ],
+        "majority_answer": "80",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "99432",
+        "question_text": "যদি A = R - {3}, B = R - {1} এবং AB ফাংশনটি∫x=x-2x-3দ্বারা সঙ্গায়িত হয়, তবে∫-10এর মান কত?",
+        "correct_answer": "2",
+        "all_answers": [
+          "2",
+          "2",
+          "2",
+          "2",
+          "2"
+        ],
+        "unique_answers": [
+          "2"
+        ],
+        "majority_answer": "2",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "231250",
+        "question_text": "যদি xsiny + ycosx =πহয়yn(0)এর মান হবে?",
+        "correct_answer": "π",
+        "all_answers": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "**D) 0**\n\n**Solution:**\n\nGiven: $x\\sin y + y\\cos x = \\pi$\n\n**Step 1: Find y(0)**\n\nAt $x = 0$:\n$$0 \\cdot \\sin y + y \\cdot \\cos 0 = \\pi \\implies y = \\pi$$\n\nSo $y(0) = \\pi$\n\n**Step 2: Differentiate implicitly**\n\n$$\\sin y + x\\cos y \\cdot y' + y'\\cos x - y\\sin x = 0$$\n\n**Step 3: Evaluate y'(0) at x = 0, y = π**\n\n$$\\sin\\pi + 0\\cdot\\cos\\pi\\cdot y' + y'\\cos 0 - \\pi\\sin 0 = 0$$\n$$0 + 0 + y'(1) - 0 = 0$$\n$$y'(0) = 0$$"
+        ],
+        "unique_answers": [
+          "0",
+          "**D) 0**\n\n**Solution:**\n\nGiven: $x\\sin y + y\\cos x = \\pi$\n\n**Step 1: Find y(0)**\n\nAt $x = 0$:\n$$0 \\cdot \\sin y + y \\cdot \\cos 0 = \\pi \\implies y = \\pi$$\n\nSo $y(0) = \\pi$\n\n**Step 2: Differentiate implicitly**\n\n$$\\sin y + x\\cos y \\cdot y' + y'\\cos x - y\\sin x = 0$$\n\n**Step 3: Evaluate y'(0) at x = 0, y = π**\n\n$$\\sin\\pi + 0\\cdot\\cos\\pi\\cdot y' + y'\\cos 0 - \\pi\\sin 0 = 0$$\n$$0 + 0 + y'(1) - 0 = 0$$\n$$y'(0) = 0$$"
+        ],
+        "majority_answer": "0",
+        "correct_run_count": 0,
+        "consistency_rate": 0.8,
+        "label": "mostly_stable"
+      },
+      {
+        "question_id": "96089",
+        "question_text": "কোনটিCI-এর আইসোইলেকক্ট্রনিক?",
+        "correct_answer": "সবকয়টি",
+        "all_answers": [
+          "সবকয়টি",
+          "সবকয়টি",
+          "সবকয়টি",
+          "সবকয়টি",
+          "সবকয়টি"
+        ],
+        "unique_answers": [
+          "সবকয়টি"
+        ],
+        "majority_answer": "সবকয়টি",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "111756",
+        "question_text": "দ্বিমিক নম্বর 1100111 এর মান হয় :",
+        "correct_answer": "103",
+        "all_answers": [
+          "103",
+          "103",
+          "103",
+          "103",
+          "103"
+        ],
+        "unique_answers": [
+          "103"
+        ],
+        "majority_answer": "103",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "208182",
+        "question_text": "তাপ প্রয়োগে কঠিন পদার্থকে সরাসরি বাষ্পে পরিণত হওয়ার প্রক্রিয়াকে বলা হয়",
+        "correct_answer": "উর্ধ্বপাতন",
+        "all_answers": [
+          "উর্ধ্বপাতন",
+          "উর্ধ্বপাতন",
+          "উর্ধ্বপাতন",
+          "উর্ধ্বপাতন",
+          "উর্ধ্বপাতন"
+        ],
+        "unique_answers": [
+          "উর্ধ্বপাতন"
+        ],
+        "majority_answer": "উর্ধ্বপাতন",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      }
+    ]
+  },
+  "other": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 1.0,
+    "inconsistent_questions": 0,
+    "questions": [
+      {
+        "question_id": "94022",
+        "question_text": "কোনটি সেক্স- লিঙ্কড রোগ?",
+        "correct_answer": "সবগুলোই",
+        "all_answers": [
+          "সবগুলোই",
+          "সবগুলোই",
+          "সবগুলোই",
+          "সবগুলোই",
+          "সবগুলোই"
+        ],
+        "unique_answers": [
+          "সবগুলোই"
+        ],
+        "majority_answer": "সবগুলোই",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "84023",
+        "question_text": "মধু এত মিষ্টি, কারন এতে রয়েছে-",
+        "correct_answer": "ফ্রুক্টোজ",
+        "all_answers": [
+          "ফ্রুক্টোজ",
+          "ফ্রুক্টোজ",
+          "ফ্রুক্টোজ",
+          "ফ্রুক্টোজ",
+          "ফ্রুক্টোজ"
+        ],
+        "unique_answers": [
+          "ফ্রুক্টোজ"
+        ],
+        "majority_answer": "ফ্রুক্টোজ",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "144297",
+        "question_text": "4μFএকটি  ধারকে 9.0 V ব্যাটারি দ্বারা সংযুক্ত  করলে  এতে কি পরিমাণ  শক্তি  সঞ্চিত হবে?",
+        "correct_answer": "1.62×10-4J",
+        "all_answers": [
+          "1.62×10-4J",
+          "1.62×10-4J",
+          "1.62×10-4J",
+          "1.62×10-4J",
+          "1.62×10-4J"
+        ],
+        "unique_answers": [
+          "1.62×10-4J"
+        ],
+        "majority_answer": "1.62×10-4J",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "215981",
+        "question_text": "250 mL 0.1 M NaOH দ্রবণ তৈরি করতে কি পরিমাণ NaOH প্রয়োজন?",
+        "correct_answer": "1 g",
+        "all_answers": [
+          "1 g",
+          "1 g",
+          "1 g",
+          "1 g",
+          "1 g"
+        ],
+        "unique_answers": [
+          "1 g"
+        ],
+        "majority_answer": "1 g",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "83712",
+        "question_text": "ক্যান্সার চিকিৎসায় কোন তেজস্ক্রিয় মৌল ব্যবহৃত হয় ?",
+        "correct_answer": "Co60",
+        "all_answers": [
+          "Co60",
+          "Co60",
+          "Co60",
+          "Co60",
+          "Co60"
+        ],
+        "unique_answers": [
+          "Co60"
+        ],
+        "majority_answer": "Co60",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "246090",
+        "question_text": "একটি ক্রিয়াশীল বর্তনীতে3Ωও6Ωরোধদ্বয় শ্রেণীসমবায়ে যুক্ত আছে। যদি3Ωরোধে তড়িৎ প্রবাহ 4A হয়, তাহলে6Ωরোধের দুপ্রান্তে বিভব পার্থক্য কত হবে?",
+        "correct_answer": "24 V",
+        "all_answers": [
+          "24 V",
+          "24 V",
+          "24 V",
+          "24 V",
+          "24 V"
+        ],
+        "unique_answers": [
+          "24 V"
+        ],
+        "majority_answer": "24 V",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "208184",
+        "question_text": "নিচের কোনটি ভারি কনা?",
+        "correct_answer": "আলফা কনা",
+        "all_answers": [
+          "আলফা কনা",
+          "আলফা কনা",
+          "আলফা কনা",
+          "আলফা কনা",
+          "আলফা কনা"
+        ],
+        "unique_answers": [
+          "আলফা কনা"
+        ],
+        "majority_answer": "আলফা কনা",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "232958",
+        "question_text": "একটি বৈদ্যুতিক যন্ত্র  5 A  তড়িৎ টানে। যন্ত্রের দুই প্রান্তে  বিভব পার্থক্য 220 V  হলে যন্ত্রটির  রোধ -",
+        "correct_answer": "44 Ω",
+        "all_answers": [
+          "44 Ω",
+          "44 Ω",
+          "44 Ω",
+          "44 Ω",
+          "44 Ω"
+        ],
+        "unique_answers": [
+          "44 Ω"
+        ],
+        "majority_answer": "44 Ω",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "242232",
+        "question_text": "সূর্য থেকে পৃথিবীর গড় দূরত্ব কমে গেলে বছরের দৈর্ঘ্য",
+        "correct_answer": "কমে যাবে",
+        "all_answers": [
+          "কমে যাবে",
+          "কমে যাবে",
+          "কমে যাবে",
+          "কমে যাবে",
+          "কমে যাবে"
+        ],
+        "unique_answers": [
+          "কমে যাবে"
+        ],
+        "majority_answer": "কমে যাবে",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "127726",
+        "question_text": "ব্যবসায় পরিবেশের আইনগত উপাদান কোনটি?",
+        "correct_answer": "শিল্পনীতি",
+        "all_answers": [
+          "শিল্পনীতি",
+          "শিল্পনীতি",
+          "শিল্পনীতি",
+          "শিল্পনীতি",
+          "শিল্পনীতি"
+        ],
+        "unique_answers": [
+          "শিল্পনীতি"
+        ],
+        "majority_answer": "শিল্পনীতি",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      }
+    ]
+  },
+  "physics": {
+    "sample_size": 10,
+    "runs_per_question": 5,
+    "avg_consistency_rate": 0.96,
+    "inconsistent_questions": 0,
+    "questions": [
+      {
+        "question_id": "154947",
+        "question_text": "সর্বপ্রথম আলোর বেগি আবিষ্কার করেন-",
+        "correct_answer": "ফ্যারাডে",
+        "all_answers": [
+          "গ্যালিলিও",
+          "গ্যালিলিও",
+          "গ্যালিলিও",
+          "গ্যালিলিও",
+          "গ্যালিলিও"
+        ],
+        "unique_answers": [
+          "গ্যালিলিও"
+        ],
+        "majority_answer": "গ্যালিলিও",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "154604",
+        "question_text": "স্থির চাপে প্রতিটি বিশুদ্ধ কঠিন ও তরল পদার্থের-",
+        "correct_answer": "স্ফুটনাংক গলনাংকের চেয়ে বেশি",
+        "all_answers": [
+          "স্ফুটনাংক গলনাংকের চেয়ে বেশি",
+          "স্ফুটনাংক গলনাংকের চেয়ে বেশি",
+          "গলনাংক ও স্ফুটনাংক উভয়ই থেকে যায়",
+          "গলনাংক ও স্ফুটনাংক উভয়ই থেকে যায়",
+          "গলনাংক ও স্ফুটনাংক উভয়ই থেকে যায়"
+        ],
+        "unique_answers": [
+          "গলনাংক ও স্ফুটনাংক উভয়ই থেকে যায়",
+          "স্ফুটনাংক গলনাংকের চেয়ে বেশি"
+        ],
+        "majority_answer": "গলনাংক ও স্ফুটনাংক উভয়ই থেকে যায়",
+        "correct_run_count": 0,
+        "consistency_rate": 0.6,
+        "label": "mostly_stable"
+      },
+      {
+        "question_id": "233259",
+        "question_text": "শব্দের বেগ নিচের কোন মাধ্যমে সর্বাধিক ?",
+        "correct_answer": "লোহা",
+        "all_answers": [
+          "লোহা",
+          "লোহা",
+          "লোহা",
+          "লোহা",
+          "লোহা"
+        ],
+        "unique_answers": [
+          "লোহা"
+        ],
+        "majority_answer": "লোহা",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "169734",
+        "question_text": "পরমানুর নিউক্লিয়াস কে আবিষ্কার করেন  ?",
+        "correct_answer": "রাদারফোর্ড",
+        "all_answers": [
+          "রাদারফোর্ড",
+          "রাদারফোর্ড",
+          "রাদারফোর্ড",
+          "রাদারফোর্ড",
+          "রাদারফোর্ড"
+        ],
+        "unique_answers": [
+          "রাদারফোর্ড"
+        ],
+        "majority_answer": "রাদারফোর্ড",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "241130",
+        "question_text": "একটি ট্রানজিস্টরে সবচেয়ে কম ডোপায়িত অঞ্চল হল-",
+        "correct_answer": "বেস",
+        "all_answers": [
+          "কালেক্টর",
+          "কালেক্টর",
+          "কালেক্টর",
+          "কালেক্টর",
+          "কালেক্টর"
+        ],
+        "unique_answers": [
+          "কালেক্টর"
+        ],
+        "majority_answer": "কালেক্টর",
+        "correct_run_count": 0,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "245930",
+        "question_text": "অবতল দর্পনের ক্ষেত্রে2f<u<∞হলে, নিচের কোনটি সঠিক?",
+        "correct_answer": "f<v<2f",
+        "all_answers": [
+          "f<v<2f",
+          "f<v<2f",
+          "f<v<2f",
+          "f<v<2f",
+          "f<v<2f"
+        ],
+        "unique_answers": [
+          "f<v<2f"
+        ],
+        "majority_answer": "f<v<2f",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "124250",
+        "question_text": "স্লাইড ক্যালিপার্সের সাহায্যে কোন একটি গোলকের ব্যাস মাপতে গিয়ে প্রধান স্কেল পাঠ পাওয়া গেল 1.5 সেন্টিমিটার এবং ভার্নিয়ার পাঠ পাওয়া গেল 6 সেন্টিমিটার ভার্নিয়ার ধ্রুবক 0.01 সেন্টিমিটার হলে গোলকের পৃষ্ঠের ক্ষেত্রফল হবে-",
+        "correct_answer": "7.65 বর্গ সেন্টিমিটার",
+        "all_answers": [
+          "7.65 বর্গ সেন্টিমিটার",
+          "7.65 বর্গ সেন্টিমিটার",
+          "7.65 বর্গ সেন্টিমিটার",
+          "7.65 বর্গ সেন্টিমিটার",
+          "7.65 বর্গ সেন্টিমিটার"
+        ],
+        "unique_answers": [
+          "7.65 বর্গ সেন্টিমিটার"
+        ],
+        "majority_answer": "7.65 বর্গ সেন্টিমিটার",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "242230",
+        "question_text": "দুটি গতিশীল বস্তুর একটির সাপেক্ষে আরেকটির গতিকে কী বলে?",
+        "correct_answer": "আপেক্ষিক গতি",
+        "all_answers": [
+          "আপেক্ষিক গতি",
+          "আপেক্ষিক গতি",
+          "আপেক্ষিক গতি",
+          "আপেক্ষিক গতি",
+          "আপেক্ষিক গতি"
+        ],
+        "unique_answers": [
+          "আপেক্ষিক গতি"
+        ],
+        "majority_answer": "আপেক্ষিক গতি",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "130121",
+        "question_text": "একটি খালি লঞ্চের পানির উপরিভাগের অংশের গড় প্রস্থছেদ  150m2। যদি প্রতিজন মালসহ  75 kg  হারে 200  জন যাত্রী নেওয়া হয় তাহলে লঞ্চের কতটুকু ডুববে ?",
+        "correct_answer": "0.1 m",
+        "all_answers": [
+          "0.1 m",
+          "0.1 m",
+          "0.1 m",
+          "0.1 m",
+          "0.1 m"
+        ],
+        "unique_answers": [
+          "0.1 m"
+        ],
+        "majority_answer": "0.1 m",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      },
+      {
+        "question_id": "201748",
+        "question_text": "নির্দিষ্ট ওজনের একটি আদর্শ গ্যাসের ক্ষমতা নির্ভর করে তার কোন বৈশিষ্ট্য উপর?",
+        "correct_answer": "তাপমাত্রা",
+        "all_answers": [
+          "তাপমাত্রা",
+          "তাপমাত্রা",
+          "তাপমাত্রা",
+          "তাপমাত্রা",
+          "তাপমাত্রা"
+        ],
+        "unique_answers": [
+          "তাপমাত্রা"
+        ],
+        "majority_answer": "তাপমাত্রা",
+        "correct_run_count": 5,
+        "consistency_rate": 1.0,
+        "label": "stable"
+      }
+    ]
+  }
+}
