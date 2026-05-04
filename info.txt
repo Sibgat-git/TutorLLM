@@ -1,17 +1,352 @@
-Duplicates = 864
-Null correct mcq = 111
-no-diagram questions with Duplicates = 17646
-no-diagram questions without Duplicates = 16782
-Diagram questions = 7 ; they have no duplicates
+============================================================
+TutorLLM Dataset — Pipeline Summary & Full Audit Report
+============================================================
+Date: 2026-05-04
+Paper Goal: Train small LLMs to explain like a home tutor for
+            high school / university-admission students — step-by-step
+            derivations, no steps skipped, student-friendly language.
 
-Metrics Chosen for Quality Check:
-1. Empty correct answers.
-2. Inconsistent Labeling
--such as correct_answer text doesn't match options[correct_option_index]
-3.Fewer than 2 options, or duplicate options in the same question
-4. Same question appears with different correct answers
-5. Very Short questions- likely truncated or corrupt
-6.Questions where correct answers isnt one of the options
-7. Ambiguouse questions with multiple plausible correct answers - need human or AI fr evaluation
-8. Questions with OCR artifacts (garbled Bengali Unicode, stray symbol)
+------------------------------------------------------------
+SECTION 1: PIPELINE STATISTICS
+------------------------------------------------------------
+Raw input (JSONL)                    : 37,039 questions
+After MCQ filter                     : 17,653 questions
+After diagram separation             : 17,646 text-only | 7 diagram-only
+After deduplication                  : 16,782 unique (864 exact duplicates removed)
+Null / empty correct answer          : 111 removed
 
+After quality flagging:
+  Gold-standard (clean)              : 16,094  (95.9%)
+  Flagged (at least one issue)       :    688  ( 4.1%)
+
+------------------------------------------------------------
+SECTION 2: GOLD STANDARD — SUBJECT BREAKDOWN
+------------------------------------------------------------
+Subject               Total   Flagged   Gold
+--------------------------------------------
+bangla                 6,244      165   6,079
+english                4,075      164   3,911
+physics                1,410       53   1,357
+other                  1,665       75   1,590
+mathematics            1,077      153     924
+general_knowledge        726       21     705
+biology                  829       17     812
+chemistry                352       20     332
+accounting               316       14     302
+ict                       88        6      82
+--------------------------------------------
+TOTAL                 16,782      688  16,094
+
+------------------------------------------------------------
+SECTION 3: QUALITY METRICS APPLIED (Flagged Step)
+------------------------------------------------------------
+1. Empty correct answers
+2. Inconsistent labeling (correct_answer text != options[correct_option_index])
+3. Fewer than 2 options, or duplicate options within a question
+4. Same question text with different correct answers across exams
+5. Very short questions (< 15 chars) — likely truncated or corrupt
+6. Correct answer not found anywhere in options list
+7. Ambiguous questions (multiple plausible correct answers) — SKIPPED, needs AI/human eval
+8. OCR artifacts (garbled Bengali Unicode, replacement characters, Cyrillic/CJK intrusions)
+
+Quality report by subject (16,782 total):
++-------------------+-------+--------------+----------------+--------------------+--------------+-------------------+-----------------+----------------+---------------+
+| file              | total | empty_answer | index_mismatch | answer_not_in_opts | out_of_range | duplicate_options | too_few_options | short_question | ocr_artifacts |
++-------------------+-------+--------------+----------------+--------------------+--------------+-------------------+-----------------+----------------+---------------+
+| accounting        | 316   | 9            | 0              | 0                  | 9            | 3                 | 0               | 2              | 0             |
+| bangla            | 6244  | 18           | 0              | 0                  | 18           | 51                | 0               | 95             | 1             |
+| biology           | 829   | 1            | 0              | 0                  | 1            | 4                 | 0               | 12             | 0             |
+| chemistry         | 352   | 6            | 0              | 0                  | 1            | 8                 | 3               | 8              | 0             |
+| english           | 4075  | 28           | 0              | 0                  | 27           | 39                | 12              | 83             | 2             |
+| general_knowledge | 726   | 3            | 0              | 0                  | 3            | 4                 | 0               | 14             | 0             |
+| ict               | 88    | 2            | 0              | 0                  | 2            | 2                 | 0               | 2              | 0             |
+| mathematics       | 1077  | 18           | 0              | 0                  | 15           | 48                | 67              | 31             | 0             |
+| other             | 1665  | 13           | 0              | 0                  | 8            | 22                | 15              | 31             | 0             |
+| physics           | 1410  | 8            | 0              | 0                  | 7            | 20                | 21              | 8              | 0             |
++-------------------+-------+--------------+----------------+--------------------+--------------+-------------------+-----------------+----------------+---------------+
+| TOTAL             | 16782 | 106          | 0              | 0                  | 91           | 201               | 118             | 286            | 3             |
++-------------------+-------+--------------+----------------+--------------------+--------------+-------------------+-----------------+----------------+---------------+
+Note: Metric 7 (ambiguous questions) requires human/AI evaluation — skipped.
+
+------------------------------------------------------------
+SECTION 4: DATA DISTRIBUTION STATS
+------------------------------------------------------------
+Answer position distribution (correct_option_index):
+  Option 0 (A): 4,107 (25.5%)
+  Option 1 (B): 4,374 (27.2%)
+  Option 2 (C): 4,198 (26.1%)
+  Option 3 (D): 3,268 (20.3%)  <-- under-represented vs expected 25%
+  Option 4 (E):   147  (0.9%)  <-- 5-option questions exist
+
+Option count distribution:
+  3 options:    155  ( 1.0%)
+  4 options: 14,807  (92.0%)
+  5 options:  1,132  ( 7.0%)
+
+Exam year range: 1989–2026
+  Pre-2000    :   525  ( 3.3%)  -- archaic Bengali, language drift risk
+  2000–2009   : 2,801  (17.4%)
+  2010–2019   : 7,579  (47.1%)
+  2020+       : 4,189  (26.0%)
+  Largest year: 2025 with 1,377 questions (8.6%)
+
+University distribution (23 universities):
+  jahangirnagar-university   : 2,649 (16.5%)
+  dhaka-university           : 2,335 (14.5%)
+  rajshahi-university        : 1,986 (12.3%)
+  chittagong-university      : 1,564  (9.7%)
+  jagannath-university       :   950  (5.9%)
+  islamic-university         :   860  (5.3%)
+  ... 17 more universities
+
+Question text length:
+  Min: 15 chars | Max: 640 chars | Median: 44 | Mean: 54
+  Short (<30 chars)   : 3,239
+  Medium (30–150)     : 12,427
+  Long (>150)         :   428
+
+Question format types detected:
+  Standard question (ends with ?)  : ~61%
+  Fill-in-blank (ends with –)      : 3,188 (19.8%)
+  Genuine statement-form           : 2,840 (17.6%)
+  Error-detection (options=A/B/C/D): 31 questions
+  All/None-of-above options present: 77 questions
+
+------------------------------------------------------------
+SECTION 5: FULL RIGOROUS AUDIT — FINDINGS & ISSUES
+------------------------------------------------------------
+Audit conducted 2026-05-04. Tests derived from 7 first-principles
+properties required for a gold-standard tutoring training dataset.
+
+The 7 Required Properties:
+  P1. Self-contained    — answerable without external context
+  P2. Unambiguous       — exactly one defensible correct answer
+  P3. Textual integrity — readable, no broken notation or OCR garbage
+  P4. Format consistency — consistent structure for model training
+  P5. Label correctness  — correct answer is actually correct
+  P6. Representational balance — no catastrophic subject/difficulty skew
+  P7. Explainability    — permits step-by-step derivation (tutor goal)
+
+--- CRITICAL ISSUES (must fix before explanation generation) ---
+
+[C1] UNICODE NORMALIZATION BUG IN SUBJECT CLASSIFIER
+  Severity: CRITICAL
+  Property violated: P6 (subject classification wrong for 743 questions)
+  Finding: 743 questions are misclassified into "other/" despite belonging
+           to physics/chemistry/math/biology. Root cause: the JSON data
+           stores Bengali text in NFD Unicode form (e.g., ড + ◌় separately)
+           while regex patterns in 3.subject_organize.py are NFC (ড় as
+           single codepoint U+09DC). repr() of both looks identical in terminal
+           but byte-level comparison fails, so regex never matches.
+  Evidence: re.search('চল তড়িৎ', subject_field) → False
+            re.search(NFC('চল তড়িৎ'), NFC(subject_field)) → True
+  Fix: add unicodedata.normalize('NFC', ...) to both pattern and subject
+       field in classify() function before matching.
+  Impact: ~743 questions misassigned, subject counts for physics/chemistry
+          are understated by ~400–500 each.
+
+[C2] BROKEN STEM MATH NOTATION
+  Severity: CRITICAL
+  Property violated: P3, P7 (can't generate correct explanations)
+  Finding: 338 / 2,613 STEM questions (12.9%) have lost mathematical
+           structure during scraping/OCR. Fractions, superscripts, and
+           inverse function notation are all gone.
+  Examples:
+    dy/dx     → dydx
+    E/2       → E2
+    sin⁻¹(3/5) → sin-1(35)
+    x/(5y+cosy) → x5y+cosy
+    5y² + sin y = x² → 5y2+siny=x2
+  Breakdown: math=177, chemistry=91, physics=70
+  Fix: these need human review or removal. Cannot be auto-corrected
+       reliably — the original LaTeX/formula source is lost.
+
+[C3] CONTEXT-DEPENDENT QUESTIONS (missing stimulus)
+  Severity: CRITICAL
+  Property violated: P1 (not self-contained)
+  Finding: 43 questions reference a passage, paragraph, or stimulus
+           ("উদ্দীপক", "read the passage", "according to the above")
+           that is NOT stored in the question record. Without the
+           stimulus, neither a student nor a model can answer.
+  Breakdown: english=28, bangla=8, other=3, general_knowledge=2,
+             physics=1, accounting=1
+  Fix: remove all 43 from gold standard.
+
+[C4] CONFLICTING LABEL QUESTIONS
+  Severity: CRITICAL
+  Property violated: P5 (label correctness)
+  Finding: 10 questions have identical question_text but different
+           correct_answer values. All are over-generic questions like
+           "Choose the correct sentence." or "Which of the following
+           is incorrect?" — they have no real identity and conflicting
+           ground truth will directly poison model training.
+  Fix: remove all 10 from gold standard.
+
+--- HIGH PRIORITY ISSUES (fix before training) ---
+
+[H1] NEAR-DUPLICATE QUESTIONS (post-normalization)
+  Severity: HIGH
+  Property violated: P2, train/test contamination risk
+  Finding: After stripping punctuation and normalizing whitespace/case,
+           126 additional duplicate pairs exist beyond the exact-text
+           deduplication already done. These will cause train/test
+           contamination if splits are done naively.
+  Fix: apply normalized deduplication; keep most-recent exam year version.
+
+[H2] ERROR-DETECTION FORMAT (options are letter labels)
+  Severity: HIGH
+  Property violated: P4, P7 (different task type, different explanation format)
+  Finding: 59 questions where options = ['A','B','C','D'] and correct_answer
+           is a letter. These are "find the error in the underlined part"
+           questions — a valid type but structurally incompatible with the
+           standard MCQ explanation format.
+  Example: "Scarcely had [A]the airport when [B]the announcement was made
+            [C]that the flight has been [D]cancelled."  Answer: D
+  Fix: separate into its own category. Needs its own explanation template
+       ("The error is in part D because...").
+
+[H3] NUMBER FIELD WHITESPACE CONTAMINATION
+  Severity: MEDIUM (cosmetic but affects data cleanliness)
+  Property violated: P3
+  Finding: Every record has dirty whitespace in the "number" field:
+           "number": "1\n                        "
+  Fix: apply .strip() across all records when building final dataset.
+
+--- MEDIUM PRIORITY ISSUES ---
+
+[M1] ALL/NONE-OF-ABOVE OPTIONS
+  Severity: MEDIUM
+  Property violated: P7 (tutor explanation breaks down)
+  Finding: 77 questions include "all of the above" or "none of the above"
+           as an option. In 15 of those cases, that IS the correct answer.
+           A tutor explaining "the answer is all of the above" is nearly
+           useless — the explanation must address each sub-claim.
+  Fix: flag these records; generate extended explanation format that
+       addresses all options.
+
+[M2] ANSWER POSITION BIAS (D under-represented)
+  Severity: MEDIUM
+  Property violated: P6 (representational balance)
+  Finding: Option D (index 3) is the correct answer only 20.3% of the time
+           vs. the expected ~25% for uniform distribution. This may cause
+           the fine-tuned model to develop positional preference against
+           selecting D.
+  Fix: document and monitor during training; consider stratified sampling
+       if model shows positional bias during eval.
+
+[M3] PRE-2000 ARCHAIC QUESTIONS
+  Severity: MEDIUM
+  Property violated: P7 (student-relevance)
+  Finding: 525 questions (3.3%) are from 1989–1999. Bengali language and
+           curriculum have changed significantly. These questions may use
+           archaic vocabulary/spellings that confuse modern students.
+  Fix: flag with exam_year for optional exclusion; at minimum, the tutor
+       model should use contemporary language in explanations.
+
+[M4] UNCLASSIFIED "OTHER" BUCKET — RECLASSIFIABLE SUBJECTS
+  Severity: MEDIUM
+  Property violated: P6 (subject balance distorted)
+  Finding: After fixing [C1], ~847 questions remain in "other" with 200
+           distinct subject labels. Many have identifiable subjects not
+           covered by current classifier patterns:
+             Economics (অর্থনীতি)             :  43
+             Mixed-exam batches (সবগুলো বিষয়)  : 101
+             Fine Arts (চারু কারুকলা)           :  21
+             Double-space typos in label        :  ~15 (e.g., "জ্যামিতিক  আলোকবিজ্ঞান")
+           Plus many sub-chapter labels that ARE physics/chemistry/math
+           but failed regex due to parenthetical chapter numbers, e.g.,
+           "গুণগত রসায়ন (দ্বিতীয় অধ্যায়)" — fix by using substring match.
+  Fix: extend SUBJECT_RULES with partial-match patterns for chapter-labeled
+       subjects; add Economics as new subject category.
+
+--- MISSING ENTIRELY (required for paper / tutoring goal) ---
+
+[MISSING-1] NO EXPLANATION FIELD
+  This is the core gap. Every record has question + options + correct_answer
+  but ZERO step-by-step explanations. The paper goal requires training a
+  model to explain like a home tutor. Without explanations as ground truth,
+  fine-tuning only produces a question-answering model, not a tutoring model.
+  Plan: generate explanations via strong teacher model (Claude/GPT-4) using
+        subject-specific prompts that enforce step-by-step student-level
+        derivation in Bengali/bilingual format.
+
+[MISSING-2] NO TOPIC FIELD (fine-grained)
+  Current metadata has only broad subject (e.g., "physics").
+  Need fine-grained topic like "Projectile Motion", "Gas Laws (PV=nRT)",
+  "Implicit Differentiation", "Pronoun Agreement".
+  Required for: curriculum alignment, difficulty estimation, explanation
+  prompt construction, and paper claims about topic coverage.
+
+[MISSING-3] NO DIFFICULTY FIELD
+  No difficulty level (easy/medium/hard). A good tutor teaches in
+  difficulty progression. Without this field the model has no curriculum
+  signal to learn from.
+  Proxy approach: combine exam_year (older = generally harder),
+  question_text length, and subject-specific complexity heuristics.
+
+[MISSING-4] METRIC 7 (AMBIGUITY) NEVER EVALUATED
+  Questions with multiple plausible correct answers were flagged as needing
+  AI/human evaluation but were never actually evaluated. Some of these
+  passed into gold_standard unchanged. For language/literature questions
+  especially, ambiguity is common (e.g., Bangla poetry interpretation).
+  Plan: use LLM-as-judge to score each question for answer uniqueness
+  before explanation generation begins.
+
+[MISSING-5] QUESTION_TYPE SUBTYPE FIELD
+  All records are labeled "mcq" but the actual cognitive type varies:
+    - factual recall          ("Who wrote...?")
+    - calculation/derivation  ("If 5y²+sin y=x², find dy/dx")
+    - fill-in-blank           ("আপনার সত্যকে পথপ্রদর্শক কাণ্ডারি বলে জানা–")
+    - error-detection         ("Find the error in the underlined part")
+    - comprehension           ("According to the passage...")
+  The explanation format must differ per type. This field is required
+  for the explanation generation prompts to work correctly.
+
+------------------------------------------------------------
+SECTION 6: PROJECTED CLEAN DATASET AFTER FIXES
+------------------------------------------------------------
+Starting point (current gold standard)  : 16,094
+  − Context-dependent (C3)             :    -43
+  − Conflicting labels (C4)            :    -10
+  − Near-duplicates (H1)               :   -126
+  − Error-detection separated (H2)     :    -31  (moved to separate file)
+  − Broken STEM worst cases (C2)       :   ~-150 (partial — fixable subset kept)
+  + Reclassified from other (C1 fix)   :   +743
+  + Re-check double-space patterns     :    ~+50
+-------------------------------------------------
+Projected clean total                   : ~16,527
+  of which error-detection format       :     ~90 (separate category)
+  of which standard explainable MCQ     : ~16,437
+
+------------------------------------------------------------
+SECTION 7: RECOMMENDED ACTION PLAN (ORDERED)
+------------------------------------------------------------
+Step 1: Fix Unicode normalization in 3.subject_organize.py (C1)
+        → Re-run classifier → rebuild subjects/ → re-run remove_flagged.py
+
+Step 2: Run new 5_dataset_audit.py script to:
+        → Remove context-dependent questions (C3)
+        → Remove conflicting-label questions (C4)
+        → Remove near-duplicates (H1)
+        → Separate error-detection format questions (H2)
+        → Strip number field whitespace (H3)
+        → Flag all/none-of-above questions (M1)
+        → Flag broken STEM math questions (C2)
+        → Add question_type subtype field (MISSING-5)
+
+Step 3: Manual/AI review of flagged broken STEM questions (C2)
+        → Fix recoverable math notation manually
+        → Remove irrecoverable ones
+
+Step 4: Run LLM-based ambiguity detection for Metric 7 (MISSING-4)
+        → Score each question; remove or flag genuinely ambiguous ones
+
+Step 5: Add topic + difficulty metadata (MISSING-2, MISSING-3)
+        → Use LLM to tag each question with fine-grained topic + difficulty
+
+Step 6: Generate explanations via teacher model (MISSING-1)
+        → Subject-specific prompts per question_type subtype
+        → Bengali/bilingual step-by-step tutor-style explanations
+        → Human spot-check sample for paper credibility
+
+------------------------------------------------------------
